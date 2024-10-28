@@ -1,2 +1,4 @@
 *.pdf
 *.gdoc
+.venv/
+PRG1/
