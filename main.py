@@ -1,8 +1,10 @@
 from source.functions import webConnect
 from source.functions import RobotsReading
 from source.functions import userAgentRequests
-from source.functions import htmlToTXT
 from source.functions import dataExtraction
+from source.functions import tecnocasaWebpages
+from source.functions import csvExport
+from source.functions import urlExtraction
 
 url = "https://www.tecnocasa.es/"
 
@@ -16,14 +18,23 @@ if robots:
     print("The robots.txt is: \n")
     print(robots)
 
+
 userAgent = userAgentRequests(url)
 if userAgent:
     print(userAgent)
 
 
-htmlContent = webConnect('https://www.tecnocasa.es/venta/piso/valladolid/valladolid/598545.html')
-if htmlContent:
-    htmlToTXT(htmlContent, archive="prueba_tecnocasa.txt")
-    print("Connection successful and HTML obtained")
+urls_tecnocasa = tecnocasaWebpages(url)
 
-data = dataExtraction('https://www.tecnocasa.es/venta/piso/valladolid/valladolid/598545.html')   
+
+urlList = urlExtraction(urls_tecnocasa)
+
+csvExport(urls_tecnocasa, "pruebas/url_tecnocasa.csv")
+
+
+data_ejemplo = dataExtraction(['https://www.tecnocasa.es/venta/piso/valladolid/valladolid/598033.html'])  
+print(data_ejemplo) 
+csvExport(data_ejemplo, "pruebas/piso_prueba.csv")
+
+#Llamada a la función con la URL base
+productos = pagesIteration("https://www.tecnocasa.es/venta/piso/valladolid/valladolid/598")
