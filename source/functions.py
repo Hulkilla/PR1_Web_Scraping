@@ -79,6 +79,7 @@ def webConnect(url):
     try:
         url = requests.get(url, headers = HEADERS)
         if url.status_code == 200:
+            print(f"Established connection of {url}")
             return url.text
         else:
             print(f"Error: Could not connect to the website {url}, code: {url.status_code}")
@@ -107,50 +108,102 @@ def tecnocasaWebpages(url):
       Returns None if there is an error in connecting to the page.
     """
 
-    response = requests.get(url, headers=HEADERS)
-    
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, "html.parser")
+    html_content = webConnect(url)
+        
+    if html_content:
+        soup = BeautifulSoup(html_content, "html.parser")
         
         categorias = {}
         
         for section in soup.find_all("div", class_="static-block p-2 flex-fill"):
-            # Extraer el nombre de la categoría del encabezado <h2>
+            # Extract category name from <h2> header
             categoria_nombre = section.find("h2").get_text(strip=True)
             
-            # Extraer enlaces y sus nombres
+            # Extract links and their names
             enlaces = []
             for item in section.find_all("li"):
                 enlace = item.find("a")
                 texto = enlace.get_text(" ", strip=True)  # Obtener texto del enlace
                 url = enlace["href"]  # Obtener URL del enlace
-                enlaces.append({"nombre": texto, "url": url})
+                enlaces.append({"name": texto, "url": url})
             
             # Añadir a la categoría en el diccionario
             categorias[categoria_nombre] = enlaces
         
         return categorias
     else:
-        print(f"Error al cargar la página: {response.status_code}")
+        print("An error occurred while connecting")
         return None 
 
 
 
-def urlExtraction(data):
+def urlsFilter(categories, keywords = ['en venta', 'en alquiler']):
     """
-    Extracts all URLs from a dictionary of categorized links.
+    Filters the URLs based on specified keywords in the 'name' field.
     
     Args:
-    - data (dict): Dictionary with categories as keys and lists of link dictionaries as values.
+    - categories (dict): Dictionary with category names as keys and list of URLs with names as values.
+    - keywords (list): List of keywords to search in 'name' field for filtering.
     
     Returns:
-    - list: List of all URLs in the dictionary.
+    - list: A list of URLs (str) that match the keyword criteria.
     """
-    urls = []
-    for enlaces in data.values():
-        for enlace in enlaces:
-            urls.append(enlace["url"])
-    return urls
+    filtered_urls = []
+    for category, links in categories.items():
+        for link in links:
+            if any(keyword.lower() in link['name'].lower() for keyword in keywords):
+                filtered_urls.append(link['url'])
+    return filtered_urls
+
+
+
+def detailUrls(urls):
+    """
+    This function takes a list of URLs of webpages containing property listings, 
+    makes HTTP GET requests to those URLs, extracts the JSON data 
+    containing property details, and returns a list of URLs for each property detail page.
+
+    Parameters:
+    urls (list): A list of URLs to scrape.
+
+    Returns:
+    list: A list of property detail URLs.
+    """
+    all_detail_urls = []  # Initialize a list for all detail URLs
+
+    for url in urls:
+        try:
+            html_content = webConnect(url)
+        
+            if html_content:
+                soup = BeautifulSoup(html_content, "html.parser")
+
+            # Find the block containing the estate information
+            json_data_script = soup.find("estates-index")
+            json_text = json_data_script[':estates'] if json_data_script else None
+            
+            # Return an empty list if JSON was not found
+            if json_text is None:
+                print(f"No detailed webs found for {url}.")
+                continue
+
+            # Load the JSON
+            id_finder = json.loads(json_text)
+            
+            # Extract detail URLs
+            detail_urls = [property['detail_url'] for property in id_finder if 'detail_url' in property]
+            all_detail_urls.extend(detail_urls)  # Add detail URLs to the main list
+
+        except requests.exceptions.RequestException as e:
+            print(f"Request error for {url}: {e}")
+        except json.JSONDecodeError:
+            print(f"Error decoding JSON for {url}.")
+    
+    return all_detail_urls  # Return the combined list of detail URLs
+
+
+
+
 
 
 
@@ -168,19 +221,20 @@ def dataExtraction(url):
             or None if there was an error.
     """
 
-    response = requests.get(url, headers=HEADERS)
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, "html.parser")
+    html_content = webConnect(url)
+        
+    if html_content:
+        soup = BeautifulSoup(html_content, "html.parser")
       
         json_data_script = soup.find("estate-show-v2")
         json_text = json_data_script[':estate'] if json_data_script else None
 
 
-        # Convertir el JSON en un diccionario de Python
+        # Convert JSON to a Python Dictionary
         if json_text:
             try:
                 json_data = json.loads(json_text)
-                # Extracción de los datos
+                # Data extraction
                
                 datos_inmueble = {
                     "Pais":json_data.get("country"),
@@ -203,40 +257,43 @@ def dataExtraction(url):
                 }   
                 return datos_inmueble
             except json.JSONDecodeError:
-                print("Error al decodificar el JSON")
+                print("Error decoding JSON")
                 return None
         else:
-            print("No se encontró el script de datos JSON")
+            print("JSON data script not found")
             return None
     else:
-        print(f"Error: {response.status_code}")
+        print(f"An error occurred while connecting")
         return None
 
 
 
-def pagesIteration(urlBase, max_pages=150, delay_min=1, delay_max=5, max_empty_pages = 150):
+def pagesIteration(urlBase, max_pages=600000, delay_min=1, delay_max=5, max_empty_pages = 50000):
+    
+    if urlBase.endswith(".html"):
+        urlBase = urlBase.rsplit('.', 1)[0]
     products = []
     empty_page_count = 0
 
-    for i in range(100, max_pages + 1):
-        url = f"{urlBase}{i}.html"
+    for i in range(500000, max_pages + 1):
+        url = f"{urlBase}/{i}.html"
         print(f"Extrayendo datos de {url}")
         productos_pagina = dataExtraction(url)
         
         if productos_pagina:
             products.extend(productos_pagina)
-            empty_page_count = 0  # Reinicia el contador si encuentra datos
+            empty_page_count = 0  # Reset the counter if data is found
         else:
             empty_page_count += 1
-            print(f"No se encontraron datos en la página {i}. Páginas vacías consecutivas: {empty_page_count}")
+            print(f"No data found on page {i}. Consecutive empty pages: {empty_page_count}")
             
             if empty_page_count >= max_empty_pages:
-                print("Demasiadas páginas vacías consecutivas. Deteniendo la extracción.")
-                break  # Sale del bucle si hay error o no hay datos
+                print("Too many consecutive empty pages. Stopping extraction.")
+                break  
     
-    # Añade un retardo aleatorio entre cada solicitud
+    # Adds a random delay between each request
         delay = random.uniform(delay_min, delay_max)
-        print(f"Esperando {delay:.2f} segundos antes de la próxima solicitud.")
+        print(f"Waiting {delay:.2f} seconds before next request.")
         time.sleep(delay)
 
     return products
@@ -263,6 +320,37 @@ def dictFlatten(data, parent_key='', sep='_'):
         else:
             items[new_key] = value
     return items
+
+
+
+def scrapeAllData(base_url, keywords=["en venta", "en alquiler"]):
+    """
+    Main function to scrape data from filtered URLs.
+    
+    Args:
+    - base_url (str): Base URL to retrieve categorized property links.
+    - keywords (list): Keywords to filter the URLs.
+    
+    Returns:
+    - list: List of extracted data dictionaries from each filtered URL.
+    """
+    # Step 1: Retrieve and filter URLs
+    categories = tecnocasaWebpages(base_url)
+    if not categories:
+        print("No categories found or error in fetching categories.")
+        return None
+    
+    urls_to_scrape = urlsFilter(categories, keywords)
+    all_data = []
+    
+    # Step 2: Iterate over filtered URLs and scrape data
+    for url in urls_to_scrape:
+        print(f"Processing {url}")
+        data = pagesIteration(url)
+        if data:
+            all_data.extend(data)  # Aggregate all data from each URL
+    
+    return all_data
 
 
 
