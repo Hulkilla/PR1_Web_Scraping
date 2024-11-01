@@ -1,0 +1,2472 @@
+<estates-index :cities_list='[
+    {
+        "title": "Albanchez De M\u00e1gina",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/albanchez-de-magina.html"
+    },
+    {
+        "title": "Alcal\u00e1 La Real",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/alcala-la-real.html"
+    },
+    {
+        "title": "Alcaudete",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/alcaudete.html"
+    },
+    {
+        "title": "Aldeaquemada",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/aldeaquemada.html"
+    },
+    {
+        "title": "And\u00fajar",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/andujar.html"
+    },
+    {
+        "title": "Arjona",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/arjona.html"
+    },
+    {
+        "title": "Arjonilla",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/arjonilla.html"
+    },
+    {
+        "title": "Arquillos",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/arquillos.html"
+    },
+    {
+        "title": "Arroyo Del Ojanco",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/arroyo-del-ojanco.html"
+    },
+    {
+        "title": "Baeza",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/baeza.html"
+    },
+    {
+        "title": "Bail\u00e9n",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/bailen.html"
+    },
+    {
+        "title": "Ba\u00f1os De La Encina",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/banos-de-la-encina.html"
+    },
+    {
+        "title": "Beas De Segura",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/beas-de-segura.html"
+    },
+    {
+        "title": "Bedmar Y Garc\u00edez",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/bedmar-y-garciez.html"
+    },
+    {
+        "title": "Beg\u00edjar",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/begijar.html"
+    },
+    {
+        "title": "B\u00e9lmez De La Moraleda",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/belmez-de-la-moraleda.html"
+    },
+    {
+        "title": "Benatae",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/benatae.html"
+    },
+    {
+        "title": "Cabra Del Santo Cristo",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/cabra-del-santo-cristo.html"
+    },
+    {
+        "title": "Cambil",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/cambil.html"
+    },
+    {
+        "title": "Campillo De Arenas",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/campillo-de-arenas.html"
+    },
+    {
+        "title": "Canena",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/canena.html"
+    },
+    {
+        "title": "Carboneros",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/carboneros.html"
+    },
+    {
+        "title": "C\u00e1rcheles",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/carcheles.html"
+    },
+    {
+        "title": "Castellar",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/castellar.html"
+    },
+    {
+        "title": "Castillo De Locub\u00edn",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/castillo-de-locubin.html"
+    },
+    {
+        "title": "Cazalilla",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/cazalilla.html"
+    },
+    {
+        "title": "Cazorla",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/cazorla.html"
+    },
+    {
+        "title": "Chiclana De Segura",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/chiclana-de-segura.html"
+    },
+    {
+        "title": "Chillu\u00e9var",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/chilluevar.html"
+    },
+    {
+        "title": "Esca\u00f1uela",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/escanuela.html"
+    },
+    {
+        "title": "Espel\u00fay",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/espeluy.html"
+    },
+    {
+        "title": "Frailes",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/frailes.html"
+    },
+    {
+        "title": "Fuensanta De Martos",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/fuensanta-de-martos.html"
+    },
+    {
+        "title": "Fuerte Del Rey",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/fuerte-del-rey.html"
+    },
+    {
+        "title": "G\u00e9nave",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/genave.html"
+    },
+    {
+        "title": "Guarrom\u00e1n",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/guarroman.html"
+    },
+    {
+        "title": "Higuera De Calatrava",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/higuera-de-calatrava.html"
+    },
+    {
+        "title": "Hinojares",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/hinojares.html"
+    },
+    {
+        "title": "Hornos",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/hornos.html"
+    },
+    {
+        "title": "Huelma",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/huelma.html"
+    },
+    {
+        "title": "Huesa",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/huesa.html"
+    },
+    {
+        "title": "Ibros",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/ibros.html"
+    },
+    {
+        "title": "Iznatoraf",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/iznatoraf.html"
+    },
+    {
+        "title": "Jabalquinto",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jabalquinto.html"
+    },
+    {
+        "title": "Ja\u00e9n",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jaen.html"
+    },
+    {
+        "title": "Jamilena",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jamilena.html"
+    },
+    {
+        "title": "Jimena",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jimena.html"
+    },
+    {
+        "title": "J\u00f3dar",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jodar.html"
+    },
+    {
+        "title": "La Carolina",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/la-carolina.html"
+    },
+    {
+        "title": "La Guardia De Ja\u00e9n",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/la-guardia-de-jaen.html"
+    },
+    {
+        "title": "La Iruela",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/la-iruela.html"
+    },
+    {
+        "title": "La Puerta De Segura",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/la-puerta-de-segura.html"
+    },
+    {
+        "title": "Lahiguera",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/lahiguera.html"
+    },
+    {
+        "title": "Larva",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/larva.html"
+    },
+    {
+        "title": "Linares",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/linares.html"
+    },
+    {
+        "title": "Lopera",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/lopera.html"
+    },
+    {
+        "title": "Los Villares",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/los-villares.html"
+    },
+    {
+        "title": "Lupi\u00f3n",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/lupion.html"
+    },
+    {
+        "title": "Mancha Real",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/mancha-real.html"
+    },
+    {
+        "title": "Marmolejo",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/marmolejo.html"
+    },
+    {
+        "title": "Martos",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/martos.html"
+    },
+    {
+        "title": "Meng\u00edbar",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/mengibar.html"
+    },
+    {
+        "title": "Montiz\u00f3n",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/montizon.html"
+    },
+    {
+        "title": "Navas De San Juan",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/navas-de-san-juan.html"
+    },
+    {
+        "title": "Noalejo",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/noalejo.html"
+    },
+    {
+        "title": "Orcera",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/orcera.html"
+    },
+    {
+        "title": "Peal De Becerro",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/peal-de-becerro.html"
+    },
+    {
+        "title": "Pegalajar",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/pegalajar.html"
+    },
+    {
+        "title": "Porcuna",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/porcuna.html"
+    },
+    {
+        "title": "Pozo Alc\u00f3n",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/pozo-alcon.html"
+    },
+    {
+        "title": "Puente De G\u00e9nave",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/puente-de-genave.html"
+    },
+    {
+        "title": "Quesada",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/quesada.html"
+    },
+    {
+        "title": "Rus",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/rus.html"
+    },
+    {
+        "title": "Sabiote",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/sabiote.html"
+    },
+    {
+        "title": "Santa Elena",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santa-elena.html"
+    },
+    {
+        "title": "Santiago De Calatrava",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santiago-de-calatrava.html"
+    },
+    {
+        "title": "Santiago-Pontones",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santiago-pontones.html"
+    },
+    {
+        "title": "Santisteban Del Puerto",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santisteban-del-puerto.html"
+    },
+    {
+        "title": "Santo Tom\u00e9",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santo-tome.html"
+    },
+    {
+        "title": "Segura De La Sierra",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/segura-de-la-sierra.html"
+    },
+    {
+        "title": "Siles",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/siles.html"
+    },
+    {
+        "title": "Sorihuela Del Guadalimar",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/sorihuela-del-guadalimar.html"
+    },
+    {
+        "title": "Torre Del Campo",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torre-del-campo.html"
+    },
+    {
+        "title": "Torreblascopedro",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torreblascopedro.html"
+    },
+    {
+        "title": "Torredonjimeno",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torredonjimeno.html"
+    },
+    {
+        "title": "Torreperogil",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torreperogil.html"
+    },
+    {
+        "title": "Torres",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torres.html"
+    },
+    {
+        "title": "Torres De Alb\u00e1nchez",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torres-de-albanchez.html"
+    },
+    {
+        "title": "\u00dabeda",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/ubeda.html"
+    },
+    {
+        "title": "Valdepe\u00f1as De Ja\u00e9n",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/valdepenas-de-jaen.html"
+    },
+    {
+        "title": "Vilches",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/vilches.html"
+    },
+    {
+        "title": "Villacarrillo",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villacarrillo.html"
+    },
+    {
+        "title": "Villanueva De La Reina",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villanueva-de-la-reina.html"
+    },
+    {
+        "title": "Villanueva Del Arzobispo",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villanueva-del-arzobispo.html"
+    },
+    {
+        "title": "Villardompardo",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villardompardo.html"
+    },
+    {
+        "title": "Villarrodrigo",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villarrodrigo.html"
+    },
+    {
+        "title": "Villatorres",
+        "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villatorres.html"
+    }
+]' :config='{
+    "accurate": false,
+    "agency": {
+        "res": 1,
+        "ind": 1
+    },
+    "districts_count": false,
+    "districts_map": true,
+    "districts_show": true,
+    "districts": "distretto",
+    "filters": {
+        "bathrooms": 1,
+        "other": {
+            "air_conditioning": 1,
+            "garage": 1,
+            "garden": 1,
+            "heating": 1,
+            "pool": 1,
+            "terrace": 1,
+            "lift": 1
+        },
+        "rooms": 1,
+        "status_tecnocasa": 1
+    },
+    "mode": "autocomplete",
+    "price_list": [
+        "5.000",
+        "10.000",
+        "15.000",
+        "20.000",
+        "25.000",
+        "30.000",
+        "35.000",
+        "40.000",
+        "45.000",
+        "50.000",
+        "60.000",
+        "70.000",
+        "80.000",
+        "90.000",
+        "100.000",
+        "120.000",
+        "140.000",
+        "160.000",
+        "180.000",
+        "200.000",
+        "220.000",
+        "240.000",
+        "260.000",
+        "280.000",
+        "300.000",
+        "320.000",
+        "340.000",
+        "360.000",
+        "380.000",
+        "400.000",
+        "450.000",
+        "500.000",
+        "550.000",
+        "600.000",
+        "650.000",
+        "700.000",
+        "750.000",
+        "800.000",
+        "850.000",
+        "900.000",
+        "950.000",
+        "1.000.000",
+        "1.500.000",
+        "2.000.000",
+        "2.500.000",
+        "3.000.000",
+        "3.500.000",
+        "4.000.000",
+        "4.500.000",
+        "5.000.000"
+    ],
+    "section": false,
+    "select": [
+        "province",
+        "city",
+        "district"
+    ],
+    "surface_list": [
+        "20",
+        "40",
+        "60",
+        "80",
+        "100",
+        "120",
+        "140",
+        "160",
+        "180",
+        "200",
+        "250",
+        "300",
+        "350",
+        "400",
+        "500",
+        "600",
+        "700",
+        "800",
+        "900",
+        "1.000"
+    ],
+    "tab": {
+        "sale": 1,
+        "rent": 1,
+        "sell_estate": 1,
+        "industrial": 0
+    },
+    "type_residential": {
+        "id": "viv",
+        "title": "vivienda",
+        "type": [
+            "app",
+            "cas",
+            "att",
+            "vil",
+            "atc"
+        ]
+    },
+    "sort_filters": [
+        {
+            "key": "recent",
+            "value": "Aggiornamento|DESC"
+        },
+        {
+            "key": "price_desc",
+            "value": "Prezzo|DESC"
+        },
+        {
+            "key": "price_asc",
+            "value": "Prezzo|ASC"
+        },
+        {
+            "key": "rooms_desc",
+            "value": "Camere|DESC"
+        },
+        {
+            "key": "rooms_asc",
+            "value": "Camere|ASC"
+        },
+        {
+            "key": "sq_desc",
+            "value": "MQ|DESC"
+        },
+        {
+            "key": "sq_asc",
+            "value": "MQ|ASC"
+        }
+    ],
+    "unit": {
+        "price": "\u20ac",
+        "surface": "m\u003Csup\u003E2\u003C\/sup\u003E"
+    }
+}' :config_map='{
+    "fill_opacity": 0.44,
+    "geo": [
+        "province",
+        "city",
+        "district",
+        "quarter"
+    ],
+    "inside_color": "#078c33",
+    "map_drawable": true,
+    "outside_color": "#00d054",
+    "search_map": false,
+    "update_list": 0,
+    "update_list_button": 0
+}' 
+
+:estates='[
+    {
+        "ad_type": "estate",
+        "id": 583797,
+        "agency": {
+            "id": "ja505"
+        },
+        "bathrooms": "1 ba\u00f1o",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/583797.html",
+        "discount": "2.000 \u20ac",
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8157201,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "106 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": "29.500 \u20ac",
+        "price": "27.500 \u20ac",
+        "price_alternative": null,
+        "rooms_short": "3 dorm.",
+        "rooms": "3 dorm.",
+        "subtitle": "Linares",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 599836,
+        "agency": {
+            "id": "ja505"
+        },
+        "bathrooms": "2 ba\u00f1os",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/599836.html",
+        "discount": null,
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8498822,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "136 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": null,
+        "price": "179.000 \u20ac",
+        "price_alternative": null,
+        "rooms_short": null,
+        "rooms": null,
+        "subtitle": "Linares",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 599623,
+        "agency": {
+            "id": "ja505"
+        },
+        "bathrooms": "1 ba\u00f1o",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/599623.html",
+        "discount": null,
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8498673,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "72 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": null,
+        "price": "46.000 \u20ac",
+        "price_alternative": null,
+        "rooms_short": "3 dorm.",
+        "rooms": "3 dorm.",
+        "subtitle": "Linares",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 597682,
+        "agency": {
+            "id": "ja004"
+        },
+        "bathrooms": null,
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/jaen\/597682.html",
+        "discount": null,
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8449239,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "86 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": null,
+        "price": "150.000 \u20ac",
+        "price_alternative": null,
+        "rooms_short": "3 dorm.",
+        "rooms": "3 dorm.",
+        "subtitle": "Ja\u00e9n",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 599366,
+        "agency": {
+            "id": "ja505"
+        },
+        "bathrooms": "2 ba\u00f1os",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/baeza\/599366.html",
+        "discount": null,
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8491103,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "140 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": null,
+        "price": "137.000 \u20ac",
+        "price_alternative": null,
+        "rooms_short": null,
+        "rooms": null,
+        "subtitle": "Baeza",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 592555,
+        "agency": {
+            "id": "ja505"
+        },
+        "bathrooms": "1 ba\u00f1o",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/592555.html",
+        "discount": null,
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8337270,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "104 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": null,
+        "price": "46.000 \u20ac",
+        "price_alternative": null,
+        "rooms_short": "3 dorm.",
+        "rooms": "3 dorm.",
+        "subtitle": "Linares",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 597234,
+        "agency": {
+            "id": "ja505"
+        },
+        "bathrooms": "2 ba\u00f1os",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/la-carolina\/597234.html",
+        "discount": null,
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8439372,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "147 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": null,
+        "price": "51.000 \u20ac",
+        "price_alternative": null,
+        "rooms_short": "3 dorm.",
+        "rooms": "3 dorm.",
+        "subtitle": "La Carolina",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 595494,
+        "agency": {
+            "id": "ja505"
+        },
+        "bathrooms": "1 ba\u00f1o",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/595494.html",
+        "discount": null,
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8404889,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "90 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": null,
+        "price": "37.000 \u20ac",
+        "price_alternative": null,
+        "rooms_short": "3 dorm.",
+        "rooms": "3 dorm.",
+        "subtitle": "Linares",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 576887,
+        "agency": {
+            "id": "ja505"
+        },
+        "bathrooms": "1 ba\u00f1o",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/576887.html",
+        "discount": "5.000 \u20ac",
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 7980601,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "95 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": "51.000 \u20ac",
+        "price": "46.000 \u20ac",
+        "price_alternative": null,
+        "rooms_short": "3 dorm.",
+        "rooms": "3 dorm.",
+        "subtitle": "Linares",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 593238,
+        "agency": {
+            "id": "ja003"
+        },
+        "bathrooms": "2 ba\u00f1os",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/martos\/593238.html",
+        "discount": "7.600 \u20ac",
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8349353,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "120 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": "107.500 \u20ac",
+        "price": "99.900 \u20ac",
+        "price_alternative": null,
+        "rooms_short": "4 dorm.",
+        "rooms": "4 dorm.",
+        "subtitle": "Martos",
+        "title": "Piso en venta",
+        "top": false,
+        "virtual_tour": null
+    },
+    {
+        "ad_type": "estate",
+        "id": 598853,
+        "agency": {
+            "id": "ja505"
+        },
+        "bathrooms": "1 ba\u00f1o",
+        "best_offer": false,
+        "country": "es",
+        "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/andujar\/598853.html",
+        "discount": null,
+        "discount_percentage": "%",
+        "exclusive": false,
+        "images": [
+            {
+                "id": 8489496,
+                "order": 1,
+                "url": {
+                    "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/gallery_preview.jpeg",
+                    "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/gallery_media.jpeg",
+                    "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/detail.jpeg",
+                    "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/detail_preview.jpeg",
+                    "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/card.jpeg",
+                    "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/gallery.jpeg"
+                }
+            }
+        ],
+        "is_discounted": false,
+        "is_hidden": null,
+        "is_saved": 0,
+        "surface": "103 m\u003Csup\u003E2\u003C\/sup\u003E",
+        "previous_price": null,
+        "price": "107.900 \u20ac",
+        "price_alternative": null,
+        "rooms_short": "3 dorm.",
+        "rooms": "3 dorm.",
+        "subtitle": "And\u00fajar",
+        "title":"Piso 
+en venta","top":false,"virtual_tour":null},{"ad_type":"estate","id":592396,"agency":{"id":"ja004"},"bathrooms":"2 ba\u00f1os","best_offer":false,"country":"es","detail_url":"https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/pegalajar\/592396.html","discount":"7.000 \u20ac","discount_percentage":"%","exclusive":false,"images":[{"id":8353154,"order":1,"url":{"gallery_preview":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/gallery_preview.jpeg","gallery_media":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/gallery_media.jpeg","detail":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/detail.jpeg","detail_preview":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/detail_preview.jpeg","card":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/card.jpeg","gallery":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/gallery.jpeg"}}],"is_discounted":false,"is_hidden":null,"is_saved":0,"surface":"114 m\u003Csup\u003E2\u003C\/sup\u003E","previous_price":"65.000 \u20ac","price":"58.000 \u20ac","price_alternative":null,"rooms_short":null,"rooms":null,"subtitle":"Pegalajar","title":"Piso en venta","top":false,"virtual_tour":null},{"ad_type":"estate","id":583252,"agency":{"id":"ja504"},"bathrooms":"1 ba\u00f1o","best_offer":false,"country":"es","detail_url":"https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/ubeda\/583252.html","discount":"3.000 \u20ac","discount_percentage":"%","exclusive":false,"images":[{"id":8122476,"order":1,"url":{"gallery_preview":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/gallery_preview.jpeg","gallery_media":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/gallery_media.jpeg","detail":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/detail.jpeg","detail_preview":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/detail_preview.jpeg","card":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/card.jpeg","gallery":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/gallery.jpeg"}}],"is_discounted":false,"is_hidden":null,"is_saved":0,"surface":"139 m\u003Csup\u003E2\u003C\/sup\u003E","previous_price":"102.500 \u20ac","price":"99.500 \u20ac","price_alternative":null,"rooms_short":null,"rooms":null,"subtitle":"\u00dabeda","title":"Piso en venta","top":false,"virtual_tour":null},{"ad_type":"estate","id":587648,"agency":{"id":"ja504"},"bathrooms":"2 ba\u00f1os","best_offer":false,"country":"es","detail_url":"https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/ubeda\/587648.html","discount":"5.100 \u20ac","discount_percentage":"%","exclusive":false,"images":[{"id":8231828,"order":1,"url":{"gallery_preview":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/gallery_preview.jpeg","gallery_media":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/gallery_media.jpeg","detail":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/detail.jpeg","detail_preview":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/detail_preview.jpeg","card":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/card.jpeg","gallery":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/gallery.jpeg"}}],"is_discounted":false,"is_hidden":null,"is_saved":0,"surface":"117 m\u003Csup\u003E2\u003C\/sup\u003E","previous_price":"145.000 \u20ac","price":"139.900 \u20ac","price_alternative":null,"rooms_short":"5 dorm.","rooms":"5 dorm.","subtitle":"\u00dabeda","title":"Piso en venta","top":false,"virtual_tour":null},{"ad_type":"estate","id":591768,"agency":{"id":"ja505"},"bathrooms":"2 ba\u00f1os","best_offer":false,"country":"es","detail_url":"https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/591768.html","discount":null,"discount_percentage":"%","exclusive":false,"images":[{"id":8316296,"order":1,"url":{"gallery_preview":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/gallery_preview.jpeg","gallery_media":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/gallery_media.jpeg","detail":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/detail.jpeg","detail_preview":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/detail_preview.jpeg","card":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/card.jpeg","gallery":"https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/gallery.jpeg"}}],"is_discounted":false,"is_hidden":null,"is_saved":0,"surface":"170 m\u003Csup\u003E2\u003C\/sup\u003E","previous_price":null,"price":"34.900 \u20ac","price_alternative":null,"rooms_short":"4 dorm.","rooms":"4 dorm.","subtitle":"Linares","title":"Piso en venta","top":false,"virtual_tour":null}]' :geo-data='{"city_latitude":null,"city_longitude":null,"country":"ES","province_id":"J","province_slug":"jaen","province_title":"Ja\u00e9n","region_code":"and","region_slug":"andalucia","region_title":"Andaluc\u00eda"}' :map-center="[
+            2.17001,
+            41.38804
+        ]" :pagination='{"current_page":1,"total_pages":8,"items_per_page":15,"total_items":120,"url":"https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen.html","pages_uri":{"1":"","2":"\/pag-2","3":"\/pag-3","4":"\/pag-4","5":"\/pag-5","6":"\/pag-6","7":"\/pag-7"},"first_page_uri":"","last_page_uri":"\/pag-8"}' :save-search-disable="false" :search='{"cardinal":null,"city":null,"cities":null,"contract":"acquis","districts":null,"placeholder":"Ja\u00e9n (provincia)","province":"J","quarters":null,"region":"and","sector":"res","type":"app"}' :types-list='[{"id":"viv","name":"Vivienda","sub":[{"id":"app","name":"Piso","class":"sub"},{"id":"atc","name":"\u00c1tico","class":"sub"},{"id":"vil","name":"Casa","class":"sub"},{"id":"cas","name":"Casa rural","class":"sub"}]},{"id":"app","name":"Piso","class":"sub"},{"id":"atc","name":"\u00c1tico","class":"sub"},{"id":"vil","name":"Casa","class":"sub"},{"id":"cas","name":"Casa rural","class":"sub"},{"id":"edf","name":"Edificio"},{"id":"tra","name":"Trastero"},{"id":"box","name":"Box\/Plaza De Garaje"},{"id":"ter","name":"Terrenos"},{"id":"com","name":"Local comercial"}]' section="estate">
+<template slot="breadcrumb">
+<div class="container fix-container">
+<div class="breadcrumb-container">
+<nav aria-label="breadcrumb">
+<ul class="breadcrumb pl-0">
+<li class="breadcrumb-item">
+<a href="https://www.tecnocasa.es">
+                                                Home
+                                                    </a>
+</li>
+<li class="breadcrumb-item">
+<a href="https://www.tecnocasa.es/venta-piso/jaen-provincia/ciudad.html">
+                                                Piso en venta
+                                                    </a>
+</li>
+<li class="breadcrumb-item active">
+                                                Piso Jaén
+                                            </li>
+</ul>
+</nav>
+</div>
+</div>
+</template>
+<template slot="title">
+<h1 class="estates-list-title">
+                Piso en venta en Jaén provincia
+            </h1>
+</template>
+<template slot="districts-list">
+</template>
+<template slot="quarters-list">
+</template>
+<template slot="estates-list-heading">
+<strong>120</strong> inmuebles
+        </template>
+<template slot="estate-cards">
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 583797,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "1 ba\u00f1o",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/583797.html",
+            "discount": "2.000 \u20ac",
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8157201,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/583797\/images\/8157201\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "106 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": "29.500 \u20ac",
+            "price": "27.500 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "3 dorm.",
+            "rooms": "3 dorm.",
+            "subtitle": "Linares",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            27.500 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Linares
+                        </template>
+<template slot="estate-rooms">
+                            3 dorm.
+                        </template>
+<template slot="estate-surface">
+                            106 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            1 baño
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 599836,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "2 ba\u00f1os",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/599836.html",
+            "discount": null,
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8498822,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599836\/images\/8498822\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "136 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": null,
+            "price": "179.000 \u20ac",
+            "price_alternative": null,
+            "rooms_short": null,
+            "rooms": null,
+            "subtitle": "Linares",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            179.000 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Linares
+                        </template>
+<template slot="estate-rooms">
+</template>
+<template slot="estate-surface">
+                            136 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            2 baños
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 599623,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "1 ba\u00f1o",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/599623.html",
+            "discount": null,
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8498673,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599623\/images\/8498673\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "72 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": null,
+            "price": "46.000 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "3 dorm.",
+            "rooms": "3 dorm.",
+            "subtitle": "Linares",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            46.000 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Linares
+                        </template>
+<template slot="estate-rooms">
+                            3 dorm.
+                        </template>
+<template slot="estate-surface">
+                            72 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            1 baño
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 597682,
+            "agency": {
+                "id": "ja004"
+            },
+            "bathrooms": null,
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/jaen\/597682.html",
+            "discount": null,
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8449239,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/597682\/images\/8449239\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "86 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": null,
+            "price": "150.000 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "3 dorm.",
+            "rooms": "3 dorm.",
+            "subtitle": "Ja\u00e9n",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            150.000 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Jaén
+                        </template>
+<template slot="estate-rooms">
+                            3 dorm.
+                        </template>
+<template slot="estate-surface">
+                            86 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+</template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 599366,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "2 ba\u00f1os",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/baeza\/599366.html",
+            "discount": null,
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8491103,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/599366\/images\/8491103\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "140 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": null,
+            "price": "137.000 \u20ac",
+            "price_alternative": null,
+            "rooms_short": null,
+            "rooms": null,
+            "subtitle": "Baeza",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            137.000 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Baeza
+                        </template>
+<template slot="estate-rooms">
+</template>
+<template slot="estate-surface">
+                            140 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            2 baños
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 592555,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "1 ba\u00f1o",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/592555.html",
+            "discount": null,
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8337270,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/592555\/images\/8337270\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "104 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": null,
+            "price": "46.000 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "3 dorm.",
+            "rooms": "3 dorm.",
+            "subtitle": "Linares",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            46.000 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Linares
+                        </template>
+<template slot="estate-rooms">
+                            3 dorm.
+                        </template>
+<template slot="estate-surface">
+                            104 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            1 baño
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 597234,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "2 ba\u00f1os",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/la-carolina\/597234.html",
+            "discount": null,
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8439372,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/597234\/images\/8439372\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "147 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": null,
+            "price": "51.000 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "3 dorm.",
+            "rooms": "3 dorm.",
+            "subtitle": "La Carolina",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            51.000 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            La Carolina
+                        </template>
+<template slot="estate-rooms">
+                            3 dorm.
+                        </template>
+<template slot="estate-surface">
+                            147 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            2 baños
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 595494,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "1 ba\u00f1o",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/595494.html",
+            "discount": null,
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8404889,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/595494\/images\/8404889\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "90 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": null,
+            "price": "37.000 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "3 dorm.",
+            "rooms": "3 dorm.",
+            "subtitle": "Linares",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            37.000 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Linares
+                        </template>
+<template slot="estate-rooms">
+                            3 dorm.
+                        </template>
+<template slot="estate-surface">
+                            90 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            1 baño
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 576887,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "1 ba\u00f1o",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/576887.html",
+            "discount": "5.000 \u20ac",
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 7980601,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/576887\/images\/7980601\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "95 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": "51.000 \u20ac",
+            "price": "46.000 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "3 dorm.",
+            "rooms": "3 dorm.",
+            "subtitle": "Linares",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            46.000 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Linares
+                        </template>
+<template slot="estate-rooms">
+                            3 dorm.
+                        </template>
+<template slot="estate-surface">
+                            95 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            1 baño
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 593238,
+            "agency": {
+                "id": "ja003"
+            },
+            "bathrooms": "2 ba\u00f1os",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/martos\/593238.html",
+            "discount": "7.600 \u20ac",
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8349353,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja003\/estates\/593238\/images\/8349353\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "120 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": "107.500 \u20ac",
+            "price": "99.900 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "4 dorm.",
+            "rooms": "4 dorm.",
+            "subtitle": "Martos",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            99.900 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Martos
+                        </template>
+<template slot="estate-rooms">
+                            4 dorm.
+                        </template>
+<template slot="estate-surface">
+                            120 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            2 baños
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 598853,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "1 ba\u00f1o",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/andujar\/598853.html",
+            "discount": null,
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8489496,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/598853\/images\/8489496\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "103 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": null,
+            "price": "107.900 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "3 dorm.",
+            "rooms": "3 dorm.",
+            "subtitle": "And\u00fajar",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            107.900 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Andújar
+                        </template>
+<template slot="estate-rooms">
+                            3 dorm.
+                        </template>
+<template slot="estate-surface">
+                            103 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            1 baño
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 592396,
+            "agency": {
+                "id": "ja004"
+            },
+            "bathrooms": "2 ba\u00f1os",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/pegalajar\/592396.html",
+            "discount": "7.000 \u20ac",
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8353154,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja004\/estates\/592396\/images\/8353154\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "114 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": "65.000 \u20ac",
+            "price": "58.000 \u20ac",
+            "price_alternative": null,
+            "rooms_short": null,
+            "rooms": null,
+            "subtitle": "Pegalajar",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            58.000 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Pegalajar
+                        </template>
+<template slot="estate-rooms">
+</template>
+<template slot="estate-surface">
+                            114 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            2 baños
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 583252,
+            "agency": {
+                "id": "ja504"
+            },
+            "bathrooms": "1 ba\u00f1o",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/ubeda\/583252.html",
+            "discount": "3.000 \u20ac",
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8122476,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/583252\/images\/8122476\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "139 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": "102.500 \u20ac",
+            "price": "99.500 \u20ac",
+            "price_alternative": null,
+            "rooms_short": null,
+            "rooms": null,
+            "subtitle": "\u00dabeda",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            99.500 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Úbeda
+                        </template>
+<template slot="estate-rooms">
+</template>
+<template slot="estate-surface">
+                            139 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            1 baño
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 587648,
+            "agency": {
+                "id": "ja504"
+            },
+            "bathrooms": "2 ba\u00f1os",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/ubeda\/587648.html",
+            "discount": "5.100 \u20ac",
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8231828,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja504\/estates\/587648\/images\/8231828\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "117 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": "145.000 \u20ac",
+            "price": "139.900 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "5 dorm.",
+            "rooms": "5 dorm.",
+            "subtitle": "\u00dabeda",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            139.900 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Úbeda
+                        </template>
+<template slot="estate-rooms">
+                            5 dorm.
+                        </template>
+<template slot="estate-surface">
+                            117 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            2 baños
+                        </template>
+</estate-card>
+<estate-card :estate='{
+            "ad_type": "estate",
+            "id": 591768,
+            "agency": {
+                "id": "ja505"
+            },
+            "bathrooms": "2 ba\u00f1os",
+            "best_offer": false,
+            "country": "es",
+            "detail_url": "https:\/\/www.tecnocasa.es\/venta\/piso\/jaen\/linares\/591768.html",
+            "discount": null,
+            "discount_percentage": "%",
+            "exclusive": false,
+            "images": [
+                {
+                    "id": 8316296,
+                    "order": 1,
+                    "url": {
+                        "gallery_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/gallery_preview.jpeg",
+                        "gallery_media": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/gallery_media.jpeg",
+                        "detail": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/detail.jpeg",
+                        "detail_preview": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/detail_preview.jpeg",
+                        "card": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/card.jpeg",
+                        "gallery": "https:\/\/cdn-media.medialabtc.it\/es\/agencies\/ja505\/estates\/591768\/images\/8316296\/gallery.jpeg"
+                    }
+                }
+            ],
+            "is_discounted": false,
+            "is_hidden": null,
+            "is_saved": 0,
+            "surface": "170 m&lt;sup&gt;2&lt;\/sup&gt;",
+            "previous_price": null,
+            "price": "34.900 \u20ac",
+            "price_alternative": null,
+            "rooms_short": "4 dorm.",
+            "rooms": "4 dorm.",
+            "subtitle": "Linares",
+            "title": "Piso en venta",
+            "top": false,
+            "virtual_tour": null
+        }' :highlight="true" origin="index">
+<template slot="estate-price">
+                            34.900 €
+                        </template>
+<template slot="estate-title">
+                            Piso en venta
+                        </template>
+<template slot="estate-subtitle">
+                            Linares
+                        </template>
+<template slot="estate-rooms">
+                            4 dorm.
+                        </template>
+<template slot="estate-surface">
+                            170 m&lt;sup&gt;2&lt;/sup&gt;
+                        </template>
+<template slot="estate-bathrooms">
+                            2 baños
+                        </template>
+</estate-card>
+</template>
+<template slot="pagination">
+<div class="col-xs-12 text-center">
+<ul class="pagination">
+<li><a class='"active"' href="https://www.tecnocasa.es/venta/piso/andalucia/jaen.html">1</a></li>
+<li><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen.html/pag-2">2</a></li>
+<li><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen.html/pag-3">3</a></li>
+<li><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen.html/pag-4">4</a></li>
+<li><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen.html/pag-5">5</a></li>
+<li><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen.html/pag-6">6</a></li>
+<li><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen.html/pag-7">7</a></li>
+<li><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen.html/pag-2">&gt;</a></li>
+<li><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen.html/pag-8">&gt;&gt;</a></li>
+</ul>
+</div>
+</template>
+<template slot="seo-links">
+<div class="link-seo mt-2 pl-1 pr-1 ciao">
+<filter-seo-list>
+<template slot="filter-seo-list">
+</template>
+</filter-seo-list>
+<cities-seo-list :cities_list='[
+            {
+                "title": "Albanchez De M\u00e1gina",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/albanchez-de-magina.html"
+            },
+            {
+                "title": "Alcal\u00e1 La Real",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/alcala-la-real.html"
+            },
+            {
+                "title": "Alcaudete",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/alcaudete.html"
+            },
+            {
+                "title": "Aldeaquemada",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/aldeaquemada.html"
+            },
+            {
+                "title": "And\u00fajar",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/andujar.html"
+            },
+            {
+                "title": "Arjona",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/arjona.html"
+            },
+            {
+                "title": "Arjonilla",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/arjonilla.html"
+            },
+            {
+                "title": "Arquillos",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/arquillos.html"
+            },
+            {
+                "title": "Arroyo Del Ojanco",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/arroyo-del-ojanco.html"
+            },
+            {
+                "title": "Baeza",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/baeza.html"
+            },
+            {
+                "title": "Bail\u00e9n",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/bailen.html"
+            },
+            {
+                "title": "Ba\u00f1os De La Encina",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/banos-de-la-encina.html"
+            },
+            {
+                "title": "Beas De Segura",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/beas-de-segura.html"
+            },
+            {
+                "title": "Bedmar Y Garc\u00edez",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/bedmar-y-garciez.html"
+            },
+            {
+                "title": "Beg\u00edjar",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/begijar.html"
+            },
+            {
+                "title": "B\u00e9lmez De La Moraleda",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/belmez-de-la-moraleda.html"
+            },
+            {
+                "title": "Benatae",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/benatae.html"
+            },
+            {
+                "title": "Cabra Del Santo Cristo",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/cabra-del-santo-cristo.html"
+            },
+            {
+                "title": "Cambil",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/cambil.html"
+            },
+            {
+                "title": "Campillo De Arenas",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/campillo-de-arenas.html"
+            },
+            {
+                "title": "Canena",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/canena.html"
+            },
+            {
+                "title": "Carboneros",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/carboneros.html"
+            },
+            {
+                "title": "C\u00e1rcheles",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/carcheles.html"
+            },
+            {
+                "title": "Castellar",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/castellar.html"
+            },
+            {
+                "title": "Castillo De Locub\u00edn",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/castillo-de-locubin.html"
+            },
+            {
+                "title": "Cazalilla",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/cazalilla.html"
+            },
+            {
+                "title": "Cazorla",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/cazorla.html"
+            },
+            {
+                "title": "Chiclana De Segura",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/chiclana-de-segura.html"
+            },
+            {
+                "title": "Chillu\u00e9var",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/chilluevar.html"
+            },
+            {
+                "title": "Esca\u00f1uela",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/escanuela.html"
+            },
+            {
+                "title": "Espel\u00fay",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/espeluy.html"
+            },
+            {
+                "title": "Frailes",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/frailes.html"
+            },
+            {
+                "title": "Fuensanta De Martos",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/fuensanta-de-martos.html"
+            },
+            {
+                "title": "Fuerte Del Rey",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/fuerte-del-rey.html"
+            },
+            {
+                "title": "G\u00e9nave",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/genave.html"
+            },
+            {
+                "title": "Guarrom\u00e1n",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/guarroman.html"
+            },
+            {
+                "title": "Higuera De Calatrava",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/higuera-de-calatrava.html"
+            },
+            {
+                "title": "Hinojares",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/hinojares.html"
+            },
+            {
+                "title": "Hornos",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/hornos.html"
+            },
+            {
+                "title": "Huelma",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/huelma.html"
+            },
+            {
+                "title": "Huesa",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/huesa.html"
+            },
+            {
+                "title": "Ibros",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/ibros.html"
+            },
+            {
+                "title": "Iznatoraf",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/iznatoraf.html"
+            },
+            {
+                "title": "Jabalquinto",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jabalquinto.html"
+            },
+            {
+                "title": "Ja\u00e9n",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jaen.html"
+            },
+            {
+                "title": "Jamilena",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jamilena.html"
+            },
+            {
+                "title": "Jimena",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jimena.html"
+            },
+            {
+                "title": "J\u00f3dar",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/jodar.html"
+            },
+            {
+                "title": "La Carolina",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/la-carolina.html"
+            },
+            {
+                "title": "La Guardia De Ja\u00e9n",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/la-guardia-de-jaen.html"
+            },
+            {
+                "title": "La Iruela",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/la-iruela.html"
+            },
+            {
+                "title": "La Puerta De Segura",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/la-puerta-de-segura.html"
+            },
+            {
+                "title": "Lahiguera",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/lahiguera.html"
+            },
+            {
+                "title": "Larva",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/larva.html"
+            },
+            {
+                "title": "Linares",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/linares.html"
+            },
+            {
+                "title": "Lopera",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/lopera.html"
+            },
+            {
+                "title": "Los Villares",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/los-villares.html"
+            },
+            {
+                "title": "Lupi\u00f3n",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/lupion.html"
+            },
+            {
+                "title": "Mancha Real",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/mancha-real.html"
+            },
+            {
+                "title": "Marmolejo",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/marmolejo.html"
+            },
+            {
+                "title": "Martos",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/martos.html"
+            },
+            {
+                "title": "Meng\u00edbar",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/mengibar.html"
+            },
+            {
+                "title": "Montiz\u00f3n",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/montizon.html"
+            },
+            {
+                "title": "Navas De San Juan",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/navas-de-san-juan.html"
+            },
+            {
+                "title": "Noalejo",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/noalejo.html"
+            },
+            {
+                "title": "Orcera",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/orcera.html"
+            },
+            {
+                "title": "Peal De Becerro",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/peal-de-becerro.html"
+            },
+            {
+                "title": "Pegalajar",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/pegalajar.html"
+            },
+            {
+                "title": "Porcuna",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/porcuna.html"
+            },
+            {
+                "title": "Pozo Alc\u00f3n",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/pozo-alcon.html"
+            },
+            {
+                "title": "Puente De G\u00e9nave",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/puente-de-genave.html"
+            },
+            {
+                "title": "Quesada",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/quesada.html"
+            },
+            {
+                "title": "Rus",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/rus.html"
+            },
+            {
+                "title": "Sabiote",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/sabiote.html"
+            },
+            {
+                "title": "Santa Elena",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santa-elena.html"
+            },
+            {
+                "title": "Santiago De Calatrava",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santiago-de-calatrava.html"
+            },
+            {
+                "title": "Santiago-Pontones",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santiago-pontones.html"
+            },
+            {
+                "title": "Santisteban Del Puerto",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santisteban-del-puerto.html"
+            },
+            {
+                "title": "Santo Tom\u00e9",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/santo-tome.html"
+            },
+            {
+                "title": "Segura De La Sierra",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/segura-de-la-sierra.html"
+            },
+            {
+                "title": "Siles",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/siles.html"
+            },
+            {
+                "title": "Sorihuela Del Guadalimar",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/sorihuela-del-guadalimar.html"
+            },
+            {
+                "title": "Torre Del Campo",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torre-del-campo.html"
+            },
+            {
+                "title": "Torreblascopedro",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torreblascopedro.html"
+            },
+            {
+                "title": "Torredonjimeno",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torredonjimeno.html"
+            },
+            {
+                "title": "Torreperogil",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torreperogil.html"
+            },
+            {
+                "title": "Torres",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torres.html"
+            },
+            {
+                "title": "Torres De Alb\u00e1nchez",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/torres-de-albanchez.html"
+            },
+            {
+                "title": "\u00dabeda",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/ubeda.html"
+            },
+            {
+                "title": "Valdepe\u00f1as De Ja\u00e9n",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/valdepenas-de-jaen.html"
+            },
+            {
+                "title": "Vilches",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/vilches.html"
+            },
+            {
+                "title": "Villacarrillo",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villacarrillo.html"
+            },
+            {
+                "title": "Villanueva De La Reina",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villanueva-de-la-reina.html"
+            },
+            {
+                "title": "Villanueva Del Arzobispo",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villanueva-del-arzobispo.html"
+            },
+            {
+                "title": "Villardompardo",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villardompardo.html"
+            },
+            {
+                "title": "Villarrodrigo",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villarrodrigo.html"
+            },
+            {
+                "title": "Villatorres",
+                "url": "https:\/\/www.tecnocasa.es\/venta\/piso\/andalucia\/jaen\/villatorres.html"
+            }
+        ]'>
+<template slot="cities-seo-list">
+<div>
+<strong>Buscar por municipio:</strong>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/albanchez-de-magina.html">Albanchez De Mágina</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/alcala-la-real.html">Alcalá La Real</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/alcaudete.html">Alcaudete</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/aldeaquemada.html">Aldeaquemada</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/andujar.html">Andújar</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/arjona.html">Arjona</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/arjonilla.html">Arjonilla</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/arquillos.html">Arquillos</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/arroyo-del-ojanco.html">Arroyo Del Ojanco</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/baeza.html">Baeza</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/bailen.html">Bailén</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/banos-de-la-encina.html">Baños De La Encina</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/beas-de-segura.html">Beas De Segura</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/bedmar-y-garciez.html">Bedmar Y Garcíez</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/begijar.html">Begíjar</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/belmez-de-la-moraleda.html">Bélmez De La Moraleda</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/benatae.html">Benatae</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/cabra-del-santo-cristo.html">Cabra Del Santo Cristo</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/cambil.html">Cambil</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/campillo-de-arenas.html">Campillo De Arenas</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/canena.html">Canena</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/carboneros.html">Carboneros</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/carcheles.html">Cárcheles</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/castellar.html">Castellar</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/castillo-de-locubin.html">Castillo De Locubín</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/cazalilla.html">Cazalilla</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/cazorla.html">Cazorla</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/chiclana-de-segura.html">Chiclana De Segura</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/chilluevar.html">Chilluévar</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/escanuela.html">Escañuela</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/espeluy.html">Espelúy</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/frailes.html">Frailes</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/fuensanta-de-martos.html">Fuensanta De Martos</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/fuerte-del-rey.html">Fuerte Del Rey</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/genave.html">Génave</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/guarroman.html">Guarromán</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/higuera-de-calatrava.html">Higuera De Calatrava</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/hinojares.html">Hinojares</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/hornos.html">Hornos</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/huelma.html">Huelma</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/huesa.html">Huesa</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/ibros.html">Ibros</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/iznatoraf.html">Iznatoraf</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/jabalquinto.html">Jabalquinto</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/jaen.html">Jaén</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/jamilena.html">Jamilena</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/jimena.html">Jimena</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/jodar.html">Jódar</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/la-carolina.html">La Carolina</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/la-guardia-de-jaen.html">La Guardia De Jaén</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/la-iruela.html">La Iruela</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/la-puerta-de-segura.html">La Puerta De Segura</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/lahiguera.html">Lahiguera</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/larva.html">Larva</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/linares.html">Linares</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/lopera.html">Lopera</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/los-villares.html">Los Villares</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/lupion.html">Lupión</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/mancha-real.html">Mancha Real</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/marmolejo.html">Marmolejo</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/martos.html">Martos</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/mengibar.html">Mengíbar</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/montizon.html">Montizón</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/navas-de-san-juan.html">Navas De San Juan</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/noalejo.html">Noalejo</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/orcera.html">Orcera</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/peal-de-becerro.html">Peal De Becerro</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/pegalajar.html">Pegalajar</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/porcuna.html">Porcuna</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/pozo-alcon.html">Pozo Alcón</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/puente-de-genave.html">Puente De Génave</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/quesada.html">Quesada</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/rus.html">Rus</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/sabiote.html">Sabiote</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/santa-elena.html">Santa Elena</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/santiago-de-calatrava.html">Santiago De Calatrava</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/santiago-pontones.html">Santiago-Pontones</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/santisteban-del-puerto.html">Santisteban Del Puerto</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/santo-tome.html">Santo Tomé</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/segura-de-la-sierra.html">Segura De La Sierra</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/siles.html">Siles</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/sorihuela-del-guadalimar.html">Sorihuela Del Guadalimar</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/torre-del-campo.html">Torre Del Campo</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/torreblascopedro.html">Torreblascopedro</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/torredonjimeno.html">Torredonjimeno</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/torreperogil.html">Torreperogil</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/torres.html">Torres</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/torres-de-albanchez.html">Torres De Albánchez</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/ubeda.html">Úbeda</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/valdepenas-de-jaen.html">Valdepeñas De Jaén</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/vilches.html">Vilches</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/villacarrillo.html">Villacarrillo</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/villanueva-de-la-reina.html">Villanueva De La Reina</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/villanueva-del-arzobispo.html">Villanueva Del Arzobispo</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/villardompardo.html">Villardompardo</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/villarrodrigo.html">Villarrodrigo</a></span>
+<span><a href="https://www.tecnocasa.es/venta/piso/andalucia/jaen/villatorres.html">Villatorres</a></span>
+</div>
+</template>
+</cities-seo-list>
+<districts-seo-list>
+<template slot="districts-seo-list">
+</template>
+</districts-seo-list>
+<quarters-seo-list>
+<template slot="quarters-seo-list">
+</template>
+</quarters-seo-list>
+</div>
+</template>
+</estates-index>
+PS C:\Users\USER\Desktop\OUC\Mi unidad\Tipología y ciclo de vida de los datos\PRG1> 

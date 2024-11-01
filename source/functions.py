@@ -77,12 +77,12 @@ def webConnect(url):
     """
 
     try:
-        url = requests.get(url, headers = HEADERS)
-        if url.status_code == 200:
+        url_connected = requests.get(url, headers = HEADERS)
+        if url_connected.status_code == 200:
             print(f"Established connection of {url}")
-            return url.text
+            return url_connected.text
         else:
-            print(f"Error: Could not connect to the website {url}, code: {url.status_code}")
+            print(f"Error: Could not connect to the website {url}, code: {url_connected.status_code}")
             return None
     except Exception as e:
         print(f"An error occurred while connecting: {e}")
@@ -90,22 +90,20 @@ def webConnect(url):
 
 
 
-def tecnocasaWebpages(url):
+def tecnocasaWebpages(url, delay_min=1, delay_max=3):
     """
     This function connects to a specified Tecnocasa web page URL, retrieves its HTML content,
     and extracts categorized property links such as 'Pisos en venta' and 'Casas en venta'.
-    The function organizes this information in a dictionary with categories as keys 
-    and lists of link dictionaries as values.
-    
+       
     Args:
     - url (str): Web page URL as a string.
-    
+    - delay_min (float): Minimum wait time between retries (in seconds).
+    - delay_max (float): Maximum wait time between retries (in seconds).
+
     Returns:
-    - dict: A dictionary where keys are category names (e.g., 'Pisos en venta'),
-      and values are lists of dictionaries, each containing:
-        - 'nombre' (str): Text of the link, e.g., 'Pisos en venta Almería'.
-        - 'url' (str): URL of the link.
-      Returns None if there is an error in connecting to the page.
+    - dict: A dictionary with categories as keys (e.g., 'Pisos en venta') and values as lists of
+      dictionaries, each containing 'name' (str) for the link text and 'url' (str) for the link.
+      Returns None if there is an error connecting to the page.
     """
 
     html_content = webConnect(url)
@@ -113,24 +111,28 @@ def tecnocasaWebpages(url):
     if html_content:
         soup = BeautifulSoup(html_content, "html.parser")
         
-        categorias = {}
+        categories = {}
         
         for section in soup.find_all("div", class_="static-block p-2 flex-fill"):
             # Extract category name from <h2> header
-            categoria_nombre = section.find("h2").get_text(strip=True)
+            category_name = section.find("h2").get_text(strip=True)
             
             # Extract links and their names
-            enlaces = []
+            links = []
             for item in section.find_all("li"):
                 enlace = item.find("a")
                 texto = enlace.get_text(" ", strip=True)  # Obtener texto del enlace
                 url = enlace["href"]  # Obtener URL del enlace
-                enlaces.append({"name": texto, "url": url})
+                links.append({"name": texto, "url": url})
             
             # Añadir a la categoría en el diccionario
-            categorias[categoria_nombre] = enlaces
+            categories[category_name] = links
         
-        return categorias
+        delay = random.uniform(delay_min, delay_max)
+        print(f"Waiting {delay:.2f} seconds before next request.")
+        time.sleep(delay)
+        
+        return categories
     else:
         print("An error occurred while connecting")
         return None 
@@ -157,7 +159,7 @@ def urlsFilter(categories, keywords = ['en venta', 'en alquiler']):
 
 
 
-def detailUrls(urls):
+def detailUrls(urls, delay_min=1, delay_max=2):
     """
     This function takes a list of URLs of webpages containing property listings, 
     makes HTTP GET requests to those URLs, extracts the JSON data 
@@ -194,16 +196,16 @@ def detailUrls(urls):
             detail_urls = [property['detail_url'] for property in id_finder if 'detail_url' in property]
             all_detail_urls.extend(detail_urls)  # Add detail URLs to the main list
 
+            delay = random.uniform(delay_min, delay_max)
+            print(f"Waiting {delay:.2f} seconds before next request.")
+            time.sleep(delay)
+        
         except requests.exceptions.RequestException as e:
             print(f"Request error for {url}: {e}")
         except json.JSONDecodeError:
             print(f"Error decoding JSON for {url}.")
     
     return all_detail_urls  # Return the combined list of detail URLs
-
-
-
-
 
 
 
@@ -237,13 +239,15 @@ def dataExtraction(url):
                 # Data extraction
                
                 datos_inmueble = {
+                    "Referencia":json_data.get("id"),
                     "Pais":json_data.get("country"),
+                    "Comunidad Autonoma": json_data.get("region", {}).get("title"),
                     "ciudad": json_data.get("city", {}).get("title"),
                     "zona": json_data.get("district", {}).get("title"),
                     "calle":json_data.get("address"),
                     "contrato": json_data.get("contract", {}).get("title"),
-                    "dormitorios": json_data.get("features", {}).get("bedrooms"),
-                    "metros_cuadrados": json_data.get("numeric_surface"),
+                    "dormitorios": json_data.get("rooms"),
+                    "Superficie": json_data.get("numeric_surface"),
                     "baños": json_data.get("bathrooms"),
                     "tipo_inmueble": json_data.get("features", {}).get("category"),
                     "ascensor": json_data.get("features", {}).get("elevator"),
@@ -254,7 +258,9 @@ def dataExtraction(url):
                     "consumo_energia": json_data.get("energy_data", {}).get("efficiency"),
                     "precio_venta": json_data.get("numeric_price"),
                     "Fecha_publicación": json_data.get("last_published_at")
-                }   
+                }  
+
+                print("Data extracted successfully") 
                 return datos_inmueble
             except json.JSONDecodeError:
                 print("Error decoding JSON")
@@ -265,38 +271,6 @@ def dataExtraction(url):
     else:
         print(f"An error occurred while connecting")
         return None
-
-
-
-def pagesIteration(urlBase, max_pages=600000, delay_min=1, delay_max=5, max_empty_pages = 50000):
-    
-    if urlBase.endswith(".html"):
-        urlBase = urlBase.rsplit('.', 1)[0]
-    products = []
-    empty_page_count = 0
-
-    for i in range(500000, max_pages + 1):
-        url = f"{urlBase}/{i}.html"
-        print(f"Extrayendo datos de {url}")
-        productos_pagina = dataExtraction(url)
-        
-        if productos_pagina:
-            products.extend(productos_pagina)
-            empty_page_count = 0  # Reset the counter if data is found
-        else:
-            empty_page_count += 1
-            print(f"No data found on page {i}. Consecutive empty pages: {empty_page_count}")
-            
-            if empty_page_count >= max_empty_pages:
-                print("Too many consecutive empty pages. Stopping extraction.")
-                break  
-    
-    # Adds a random delay between each request
-        delay = random.uniform(delay_min, delay_max)
-        print(f"Waiting {delay:.2f} seconds before next request.")
-        time.sleep(delay)
-
-    return products
 
 
 
@@ -323,34 +297,82 @@ def dictFlatten(data, parent_key='', sep='_'):
 
 
 
-def scrapeAllData(base_url, keywords=["en venta", "en alquiler"]):
+def pagesIteration(urls, delay_min=1, delay_max=5, max_empty_attempts=50):
     """
-    Main function to scrape data from filtered URLs.
-    
+    Iterates through a list of URLs and extracts products from each one, respecting delay parameters.
+
     Args:
-    - base_url (str): Base URL to retrieve categorized property links.
-    - keywords (list): Keywords to filter the URLs.
-    
+    - urls (list): List of URLs to extract data from.
+    - delay_min (float): Minimum wait time between requests.
+    - delay_max (float): Maximum wait time between requests.
+    - max_empty_attempts (int): Maximum number of consecutive empty attempts before stopping extraction.
+
     Returns:
-    - list: List of extracted data dictionaries from each filtered URL.
+    - list: List of extracted products from all URLs.
     """
-    # Step 1: Retrieve and filter URLs
-    categories = tecnocasaWebpages(base_url)
-    if not categories:
-        print("No categories found or error in fetching categories.")
-        return None
+    products = []
+    empty_attempts = 0
     
-    urls_to_scrape = urlsFilter(categories, keywords)
-    all_data = []
+    for url in urls:
+        print(f"Extracting data from {url}")
+        
+        # Call the data extraction function for each URL
+        productos_pagina = dataExtraction(url)
+        
+        if productos_pagina:
+            # If `productos_pagina` is a single dictionary, add it directly
+            if isinstance(productos_pagina, dict):
+                products.append(productos_pagina)
+            elif isinstance(productos_pagina, list):
+                # If `productos_pagina` is a list of dictionaries, add each entry to products
+                products.extend(productos_pagina)
+            else:
+                print(f"Unexpected data format for {url}")
+            empty_attempts = 0  # Reset counter if data is found
+        else:
+            empty_attempts += 1
+            print(f"No data found for {url}. Consecutive empty attempts: {empty_attempts}")
+            
+            if empty_attempts >= max_empty_attempts:
+                print("Too many consecutive empty attempts. Stopping extraction.")
+                break  # Exit the loop if there are too many empty URLs
+        
+        # Add a random delay between each request
+        delay = random.uniform(delay_min, delay_max)
+        print(f"Waiting {delay:.2f} seconds before the next request.")
+        time.sleep(delay)
     
-    # Step 2: Iterate over filtered URLs and scrape data
-    for url in urls_to_scrape:
-        print(f"Processing {url}")
-        data = pagesIteration(url)
-        if data:
-            all_data.extend(data)  # Aggregate all data from each URL
+    return products
+
+
+
+
+def filterUrlsByLocation(links, location_type=None, location_value=None):
+    """
+    Filters property URLs based on specified location type and value.
+
+    Args:
+    - links (list): List of links.
+    - location_type (str): Type of location ('provincia' or 'ciudad').
+    - location_value (str): Value of the location (province or city name) of Spain.
+
+    Returns:
+    - list: List of URLs filtered by location and keywords.
+    """
+    filtered_urls = []
+    for link in links:
+            # Filter by keywords in the name
+                url_parts = link.split('/')
+                
+                # Filter by province or city based on provided location type
+                if location_type == "provincia" and url_parts[5].lower() == location_value.lower().replace(" ", "-"):
+                    filtered_urls.append(link)
+                elif location_type == "ciudad" and url_parts[6].lower() == location_value.lower().replace(" ", "-"):
+                    filtered_urls.append(link)
+                elif location_type is None:  # If no location specified, include all URLs filtered by keywords
+                    filtered_urls.append(link)
     
-    return all_data
+    return filtered_urls
 
 
 

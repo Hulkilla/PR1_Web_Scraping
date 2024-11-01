@@ -1,10 +1,13 @@
-from source.functions import webConnect
 from source.functions import RobotsReading
 from source.functions import userAgentRequests
 from source.functions import dataExtraction
 from source.functions import tecnocasaWebpages
+from source.functions import urlsFilter
+from source.functions import detailUrls
 from source.functions import csvExport
-from source.functions import urlExtraction
+from source.functions import filterUrlsByLocation
+from source.functions import pagesIteration
+
 
 url = "https://www.tecnocasa.es/"
 
@@ -26,15 +29,25 @@ if userAgent:
 
 urls_tecnocasa = tecnocasaWebpages(url)
 
+filtered_urls = urlsFilter(urls_tecnocasa)
 
-urlList = urlExtraction(urls_tecnocasa)
+
+properties_urls_spain = detailUrls(filtered_urls)
 
 csvExport(urls_tecnocasa, "pruebas/url_tecnocasa.csv")
 
 
-data_ejemplo = dataExtraction(['https://www.tecnocasa.es/venta/piso/valladolid/valladolid/598033.html'])  
-print(data_ejemplo) 
-csvExport(data_ejemplo, "pruebas/piso_prueba.csv")
+data_ejemplo = dataExtraction('https://www.tecnocasa.es/venta/piso/valladolid/valladolid/598033.html')  
 
-#Llamada a la función con la URL base
-productos = pagesIteration("https://www.tecnocasa.es/venta/piso/valladolid/valladolid/598")
+csvExport(data_ejemplo, "pruebas/piso_valladolid_unitario.csv")
+
+
+properties_urls_valladolid = filterUrlsByLocation(properties_urls_spain, location_type='ciudad', location_value='Valladolid')
+
+inmuebles_valladolid = pagesIteration(properties_urls_valladolid)
+
+csvExport(inmuebles_valladolid, "dataset/inmuebles_valladolid.csv")
+
+properties_spain = pagesIteration(properties_urls_spain)
+
+csvExport(properties_spain, "dataset/inmuebles_espanna.csv")
