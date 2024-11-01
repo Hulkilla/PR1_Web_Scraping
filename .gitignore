@@ -2,3 +2,4 @@
 *.gdoc
 .venv/
 PRG1/
+*.ini
