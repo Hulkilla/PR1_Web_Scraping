@@ -1,2 +1,2 @@
-calle,dormitorios,ciudad,Superficie,ascensor,contrato,zona,precio_venta,baños,tipo_inmueble,Referencia,Clase_energia,Pais,calefaccion,Comunidad Autonoma,planta/piso,consumo_energia,año_construcción,Fecha_publicación
-Calle Ecuador,3 dorm.,Valladolid,110.00,Sí,venta,Arturo Eyries,59900,1 baño,Popular,598033,g,es,,Castilla Y León,,"405,3 kW h/m&sup2; año",1981,2024-10-25 20:31:19
+Referencia,zona,contrato,ascensor,calle,consumo_energia,dormitorios,precio_venta,ciudad,baños,planta/piso,tipo_inmueble,calefaccion,año_construcción,Comunidad Autonoma,Clase_energia,Pais,Fecha_publicación,Superficie
+598033,Arturo Eyries,venta,Sí,Calle Ecuador,"405,3 kW h/m&sup2; año",3 dorm.,59900,Valladolid,1 baño,,Popular,,1981,Castilla Y León,g,es,2024-10-25 20:31:19,110.00

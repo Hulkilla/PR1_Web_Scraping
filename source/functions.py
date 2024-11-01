@@ -297,7 +297,7 @@ def dictFlatten(data, parent_key='', sep='_'):
 
 
 
-def pagesIteration(urls, delay_min=1, delay_max=5, max_empty_attempts=50):
+def pagesIteration(urls, delay_min=1, delay_max=2, max_empty_attempts=50):
     """
     Iterates through a list of URLs and extracts products from each one, respecting delay parameters.
 

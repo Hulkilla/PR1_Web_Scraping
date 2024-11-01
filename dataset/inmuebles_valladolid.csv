@@ -1,44 +1,44 @@
-calle,dormitorios,ciudad,Superficie,ascensor,contrato,zona,precio_venta,baños,tipo_inmueble,Referencia,Clase_energia,Pais,calefaccion,Comunidad Autonoma,planta/piso,consumo_energia,año_construcción,Fecha_publicación
-Calle Zorzal,3 dorm.,Valladolid,86.00,,venta,Pajarillos ,79900,1 baño,Popular,598730,f,es,Independiente,Castilla Y León,2,"292,0 kWh/m&sup2; año",1970,2024-10-31 20:26:06
-C. de San Isidro,4 dorm.,Valladolid,100.00,,venta,Delicias,97500,1 baño,Media,587640,e,es,,Castilla Y León,2 (planta media),"304,85 kWh/m&sup2; año",1964,2024-07-01 19:04:55
-Calle Gallo,3 dorm.,Valladolid,78.00,,venta,Pajarillos ,74900,1 baño,Media,589620,e,es,Independiente,Castilla Y León,1,261 kW h/m&sup2; año,1970,2024-10-31 12:37:19
-Calle Lope de Vega,3 dorm.,Valladolid,83.00,Sí,venta,La Rondilla,94900,1 baño,Popular,594761,e,es,,Castilla Y León,1,"264,9 kWh/m&sup2; año",1967,2024-09-24 19:50:33
-Calle Huelgas,4 dorm.,Valladolid,110.00,Sí,venta,Vadillo - Batallas,198000,2 baños,Popular,595855,e,es,centralizada (Gas),Castilla Y León,,"281,1 kWh/m&sup2; año",1972,2024-10-16 16:59:13
-Calle Ecuador,3 dorm.,Valladolid,110.00,Sí,venta,Arturo Eyries,59900,1 baño,Popular,598033,g,es,,Castilla Y León,,"405,3 kW h/m&sup2; año",1981,2024-10-25 20:31:19
-C. Veinte de Febrero,1 dorm.,Valladolid,94.00,,venta,Centro Ciudad,98000,1 baño,Popular,597523,e,es,,Castilla Y León,Media,"250,9 kWh/m&sup2; año",1972,2024-10-30 18:01:08
-C/ Ebro,3 dorm.,Valladolid,69.00,Sí,venta,Delicias,50000,1 baño,Media,599025,f,es,Independiente (Gas),Castilla Y León,Alta,"314,8 kW h/m&sup2; año",1969,2024-10-28 18:44:09
-C. Celtas Cortos,3 dorm.,Valladolid,70.00,Sí,venta,Delicias,83000,1 baño,Popular,599447,e,es,Independiente (Gas),Castilla Y León,2,"244,7 kW h/m&sup2; año",1970,2024-10-30 13:48:00
-C. Gral. Shelly,3 dorm.,Valladolid,62.00,Sí,venta,Delicias,65000,1 baño,Popular,585574,e,es,,Castilla Y León,Baja,"104,82 kW h/m&sup2; año",1970,2024-06-18 18:24:53
-P.º Isabel la Catolica,4 dorm.,Valladolid,163.00,Sí,venta,Centro Ciudad,379900,2 baños,Señorial,505770,c,es,centralizada (Gas),Castilla Y León,14,142 kW h/m&sup2; año,1973,2024-10-30 13:19:56
-Calle Villanubla,4 dorm.,Valladolid,154.00,,venta,Puente Jardín,156000,1 baño,Popular,551279,e,es,,Castilla Y León,1,"95,7 kWh/m&sup2; año",1976,2024-03-08 20:25:23
-C. de Sta. Clara,4 dorm.,Valladolid,125.00,,venta,Hospital - Universidad,199900,2 baños,Popular,597693,e,es,Independiente (Gas),Castilla Y León,6 (planta alta),"222,7 kWh/m&sup2; año",1974,2024-10-23 20:47:20
-Calle de Portillo de Balboa,3 dorm.,Valladolid,90.00,,venta,La Rondilla,99900,1 baño,Popular,592146,f,es,Independiente (Gas),Castilla Y León,5,"284,20 kWh/m&sup2; año",1978,2024-08-29 13:03:37
-C. del Amor de Dios,3 dorm.,Valladolid,76.00,,venta,La Rondilla,93000,1 baño,Popular,572373,g,es,Independiente (Gas),Castilla Y León,,"390,1 kW h/m&sup2; año",1969,2024-08-27 12:41:15
-Don Juan Bravo,4 dorm.,Valladolid,140.00,,venta,La Victoria ,159900,2 baños,Popular,599605,c,es,Independiente (Geotérmica),Castilla Y León,Baja,81 kW h/m&sup2; año,2009,2024-10-31 17:44:02
-C. Valoria,3 dorm.,Valladolid,91.00,,venta,Santa Clara ,114900,1 baño,Popular,597383,e,es,Independiente (Gas),Castilla Y León,,"362,00 kW h/m&sup2; año",1958,2024-10-29 18:17:02
-Subida Fuente el Sol,3 dorm.,Valladolid,145.00,,venta,La Victoria ,95000,,Popular,596363,,es,,Castilla Y León,Baja,,1940,2024-09-30 20:50:02
-Rincon Del Esgueva,3 dorm.,Valladolid,60.00,,venta,Pajarillos ,69900,1 baño,Media,597944,f,es,,Castilla Y León,Baja,412 kW h/m&sup2; año,1936,2024-10-21 20:46:35
-C. Alcarria,4 dorm.,Valladolid,150.00,,venta,Barrio España ,154900,2 baños,Popular,575545,g,es,,Castilla Y León,Baja,"498,2 kWh/m&sup2; año",1960,2024-03-15 13:27:02
-C. Alcarria,,Valladolid,96.00,,venta,Barrio España ,63900,1 baño,Popular,594542,,es,,Castilla Y León,Baja,,1940,2024-09-23 12:43:25
-Calle Mariano de los Cobos,4 dorm.,Valladolid,243.00,,venta,Parquesol,299900,3 baños,Señorial,590165,d,es,Independiente (Eléctrica),Castilla Y León,,176 kWh/m&sup2; año,1988,2024-09-20 17:25:26
-Calle Compositor Facundo Viña,4 dorm.,Valladolid,174.00,,venta,Parquesol,285000,3 baños,Media,585048,d,es,Independiente (Gas),Castilla Y León,,155 kWh/m&sup2; año,2001,2024-06-08 13:06:06
-Avenida Cedro,5 dorm.,Valladolid,284.00,,venta,La Rubia,299900,3 baños,Media,579879,g,es,"Independiente (Chimenea, A Gasoil)",Castilla Y León,71 (planta planta baja),"233,95 kWh/m&sup2; año",1980,2024-05-03 19:04:01
-Calle Hoyo de la arena,4 dorm.,Valladolid,241.00,,venta,La Rubia,179000,2 baños,Popular,593138,e,es,Independiente,Castilla Y León,,250 kWh/m&sup2; año,1995,2024-08-29 19:10:53
-C. Compositor Facundo Viña,5 dorm.,Valladolid,276.00,,venta,Parquesol,399900,3 baños,Señorial,558966,e,es,Independiente (Gas),Castilla Y León,,351 kWh/m&sup2; año,2006,2023-09-22 15:28:31
-Calle de Miriam Blasco,4 dorm.,Valladolid,234.00,,venta,Parquesol,399900,3 baños,Señorial,585985,c,es,Independiente (Gas),Castilla Y León,,98 kWh/m&sup2; año,1998,2024-07-01 19:28:08
-Calle del Sol,3 dorm.,Valladolid,71.00,,venta,4 Marzo - La Farola,75000,1 baño,Popular,552256,,es,,Castilla Y León,Planta baja,,1952,2024-02-22 11:51:58
-Calle del Sol,,Valladolid,114.00,,venta,4 Marzo - La Farola,84900,,Popular,518282,,es,,Castilla Y León,,,1928,2023-01-24 12:46:22
-Paseo de Zorrilla,2 dorm.,Valladolid,66.00,Sí,alquiler,La Rubia,650,1 baño,Popular,571671,e,es,,Castilla Y León,,"186,66 kWh/m&sup2; año",1965,2024-01-29 20:10:46
-Calle del Final,2 dorm.,Valladolid,78.00,Sí,alquiler,La Rubia,730,1 baño,Popular,598632,e,es,Independiente,Castilla Y León,,210 kW h/m&sup2; año,1990,2024-10-21 17:56:44
-Calle del Arzobispo Marcelo González,,Valladolid,110.00,,alquiler,4 Marzo - La Farola,550,2 baños,Popular,571622,e,es,,Castilla Y León,,"614,2 kW h/m&sup2; año",1960,2024-10-21 20:37:07
-Calle Capuchinos,,Valladolid,71.00,,alquiler,Hospital Militar,300,1 baño,Media,582018,,es,,Castilla Y León,Baja,,1941,2024-05-21 19:45:03
-Calle Urraca,,Valladolid,15.00,,alquiler,Pajarillos ,90,,Popular,597823,,es,,Castilla Y León,Sótano,,1983,2024-10-14 13:42:45
-Calle Manuel Azaña,3 dorm.,Valladolid,140.00,Sí,alquiler,Parquesol,850,2 baños,Señorial,596559,e,es,Independiente (Gas),Castilla Y León,5,197 kWh/m&sup2; año,2003,2024-10-02 11:38:27
-Calle Falla,,Valladolid,58.00,,alquiler,4 Marzo - La Farola,450,1 baño,Popular,590638,,es,,Castilla Y León,Planta baja,,1960,2024-08-02 19:49:49
-Monasterio santa maria de moreruela,,Valladolid,24.00,,alquiler,Villa Del Prado,35,,Popular,569791,,es,,Castilla Y León,-1 (planta planta baja),,2006,2024-01-12 20:20:33
-Calle Dr. Moreno,2 dorm.,Valladolid,46.00,,alquiler,La Rubia,350,1 baño,Popular,577026,,es,,Castilla Y León,,,1978,2024-04-04 18:04:03
-Calle Dr. Moreno,4 dorm.,Valladolid,183.00,,alquiler,La Rubia,600,1 baño,Popular,579077,,es,,Castilla Y León,,,1972,2024-04-09 18:16:56
-C. Prof. Adolfo Miaja de la Muela,1 dorm.,Valladolid,120.00,,alquiler,Parquesol,1100,2 baños,Popular,573462,d,es,Independiente (Aéreo Termo),Castilla Y León,Baja,305 kWh/m&sup2; año,1996,2024-02-14 17:42:50
-C. Prof. Adolfo Miaja de la Muela,1 dorm.,Valladolid,34.00,,alquiler,Parquesol,65,,Popular,578296,,es,,Castilla Y León,Sótano,,1990,2024-04-02 20:59:52
-Calle del Monasterio Sta. Isabel,,Valladolid,20.00,,alquiler,Huerta Del Rey,40,,Media,570739,,es,,Castilla Y León,-1 (planta planta baja),,2007,2024-02-07 20:24:45
-C. Gerona,,Valladolid,25.00,,alquiler,Delicias,330,1 baño,Media,572967,,es,,Castilla Y León,,,1990,2024-02-27 19:39:29
+Referencia,zona,contrato,ascensor,calle,consumo_energia,dormitorios,precio_venta,ciudad,baños,planta/piso,tipo_inmueble,calefaccion,año_construcción,Comunidad Autonoma,Clase_energia,Pais,Fecha_publicación,Superficie
+598730,Pajarillos ,venta,,Calle Zorzal,"292,0 kWh/m&sup2; año",3 dorm.,79900,Valladolid,1 baño,2,Popular,Independiente,1970,Castilla Y León,f,es,2024-10-31 20:26:06,86.00
+587640,Delicias,venta,,C. de San Isidro,"304,85 kWh/m&sup2; año",4 dorm.,97500,Valladolid,1 baño,2 (planta media),Media,,1964,Castilla Y León,e,es,2024-07-01 19:04:55,100.00
+589620,Pajarillos ,venta,,Calle Gallo,261 kW h/m&sup2; año,3 dorm.,74900,Valladolid,1 baño,1,Media,Independiente,1970,Castilla Y León,e,es,2024-10-31 12:37:19,78.00
+594761,La Rondilla,venta,Sí,Calle Lope de Vega,"264,9 kWh/m&sup2; año",3 dorm.,94900,Valladolid,1 baño,1,Popular,,1967,Castilla Y León,e,es,2024-09-24 19:50:33,83.00
+595855,Vadillo - Batallas,venta,Sí,Calle Huelgas,"281,1 kWh/m&sup2; año",4 dorm.,198000,Valladolid,2 baños,,Popular,centralizada (Gas),1972,Castilla Y León,e,es,2024-10-16 16:59:13,110.00
+598033,Arturo Eyries,venta,Sí,Calle Ecuador,"405,3 kW h/m&sup2; año",3 dorm.,59900,Valladolid,1 baño,,Popular,,1981,Castilla Y León,g,es,2024-10-25 20:31:19,110.00
+597523,Centro Ciudad,venta,,C. Veinte de Febrero,"250,9 kWh/m&sup2; año",1 dorm.,98000,Valladolid,1 baño,Media,Popular,,1972,Castilla Y León,e,es,2024-10-30 18:01:08,94.00
+599025,Delicias,venta,Sí,C/ Ebro,"314,8 kW h/m&sup2; año",3 dorm.,50000,Valladolid,1 baño,Alta,Media,Independiente (Gas),1969,Castilla Y León,f,es,2024-10-28 18:44:09,69.00
+599447,Delicias,venta,Sí,C. Celtas Cortos,"244,7 kW h/m&sup2; año",3 dorm.,83000,Valladolid,1 baño,2,Popular,Independiente (Gas),1970,Castilla Y León,e,es,2024-10-30 13:48:00,70.00
+585574,Delicias,venta,Sí,C. Gral. Shelly,"104,82 kW h/m&sup2; año",3 dorm.,65000,Valladolid,1 baño,Baja,Popular,,1970,Castilla Y León,e,es,2024-06-18 18:24:53,62.00
+505770,Centro Ciudad,venta,Sí,P.º Isabel la Catolica,142 kW h/m&sup2; año,4 dorm.,379900,Valladolid,2 baños,14,Señorial,centralizada (Gas),1973,Castilla Y León,c,es,2024-10-30 13:19:56,163.00
+551279,Puente Jardín,venta,,Calle Villanubla,"95,7 kWh/m&sup2; año",4 dorm.,156000,Valladolid,1 baño,1,Popular,,1976,Castilla Y León,e,es,2024-03-08 20:25:23,154.00
+597693,Hospital - Universidad,venta,,C. de Sta. Clara,"222,7 kWh/m&sup2; año",4 dorm.,199900,Valladolid,2 baños,6 (planta alta),Popular,Independiente (Gas),1974,Castilla Y León,e,es,2024-10-23 20:47:20,125.00
+592146,La Rondilla,venta,,Calle de Portillo de Balboa,"284,20 kWh/m&sup2; año",3 dorm.,99900,Valladolid,1 baño,5,Popular,Independiente (Gas),1978,Castilla Y León,f,es,2024-08-29 13:03:37,90.00
+572373,La Rondilla,venta,,C. del Amor de Dios,"390,1 kW h/m&sup2; año",3 dorm.,93000,Valladolid,1 baño,,Popular,Independiente (Gas),1969,Castilla Y León,g,es,2024-08-27 12:41:15,76.00
+599605,La Victoria ,venta,,Don Juan Bravo,81 kW h/m&sup2; año,4 dorm.,159900,Valladolid,2 baños,Baja,Popular,Independiente (Geotérmica),2009,Castilla Y León,c,es,2024-10-31 17:44:02,140.00
+597383,Santa Clara ,venta,,C. Valoria,"362,00 kW h/m&sup2; año",3 dorm.,114900,Valladolid,1 baño,,Popular,Independiente (Gas),1958,Castilla Y León,e,es,2024-10-29 18:17:02,91.00
+596363,La Victoria ,venta,,Subida Fuente el Sol,,3 dorm.,95000,Valladolid,,Baja,Popular,,1940,Castilla Y León,,es,2024-09-30 20:50:02,145.00
+597944,Pajarillos ,venta,,Rincon Del Esgueva,412 kW h/m&sup2; año,3 dorm.,69900,Valladolid,1 baño,Baja,Media,,1936,Castilla Y León,f,es,2024-10-21 20:46:35,60.00
+575545,Barrio España ,venta,,C. Alcarria,"498,2 kWh/m&sup2; año",4 dorm.,154900,Valladolid,2 baños,Baja,Popular,,1960,Castilla Y León,g,es,2024-03-15 13:27:02,150.00
+594542,Barrio España ,venta,,C. Alcarria,,,63900,Valladolid,1 baño,Baja,Popular,,1940,Castilla Y León,,es,2024-09-23 12:43:25,96.00
+590165,Parquesol,venta,,Calle Mariano de los Cobos,176 kWh/m&sup2; año,4 dorm.,299900,Valladolid,3 baños,,Señorial,Independiente (Eléctrica),1988,Castilla Y León,d,es,2024-09-20 17:25:26,243.00
+585048,Parquesol,venta,,Calle Compositor Facundo Viña,155 kWh/m&sup2; año,4 dorm.,285000,Valladolid,3 baños,,Media,Independiente (Gas),2001,Castilla Y León,d,es,2024-06-08 13:06:06,174.00
+579879,La Rubia,venta,,Avenida Cedro,"233,95 kWh/m&sup2; año",5 dorm.,299900,Valladolid,3 baños,71 (planta planta baja),Media,"Independiente (Chimenea, A Gasoil)",1980,Castilla Y León,g,es,2024-05-03 19:04:01,284.00
+593138,La Rubia,venta,,Calle Hoyo de la arena,250 kWh/m&sup2; año,4 dorm.,179000,Valladolid,2 baños,,Popular,Independiente,1995,Castilla Y León,e,es,2024-08-29 19:10:53,241.00
+558966,Parquesol,venta,,C. Compositor Facundo Viña,351 kWh/m&sup2; año,5 dorm.,399900,Valladolid,3 baños,,Señorial,Independiente (Gas),2006,Castilla Y León,e,es,2023-09-22 15:28:31,276.00
+585985,Parquesol,venta,,Calle de Miriam Blasco,98 kWh/m&sup2; año,4 dorm.,399900,Valladolid,3 baños,,Señorial,Independiente (Gas),1998,Castilla Y León,c,es,2024-07-01 19:28:08,234.00
+552256,4 Marzo - La Farola,venta,,Calle del Sol,,3 dorm.,75000,Valladolid,1 baño,Planta baja,Popular,,1952,Castilla Y León,,es,2024-02-22 11:51:58,71.00
+518282,4 Marzo - La Farola,venta,,Calle del Sol,,,84900,Valladolid,,,Popular,,1928,Castilla Y León,,es,2023-01-24 12:46:22,114.00
+571671,La Rubia,alquiler,Sí,Paseo de Zorrilla,"186,66 kWh/m&sup2; año",2 dorm.,650,Valladolid,1 baño,,Popular,,1965,Castilla Y León,e,es,2024-01-29 20:10:46,66.00
+598632,La Rubia,alquiler,Sí,Calle del Final,210 kW h/m&sup2; año,2 dorm.,730,Valladolid,1 baño,,Popular,Independiente,1990,Castilla Y León,e,es,2024-10-21 17:56:44,78.00
+571622,4 Marzo - La Farola,alquiler,,Calle del Arzobispo Marcelo González,"614,2 kW h/m&sup2; año",,550,Valladolid,2 baños,,Popular,,1960,Castilla Y León,e,es,2024-10-21 20:37:07,110.00
+582018,Hospital Militar,alquiler,,Calle Capuchinos,,,300,Valladolid,1 baño,Baja,Media,,1941,Castilla Y León,,es,2024-05-21 19:45:03,71.00
+597823,Pajarillos ,alquiler,,Calle Urraca,,,90,Valladolid,,Sótano,Popular,,1983,Castilla Y León,,es,2024-10-14 13:42:45,15.00
+596559,Parquesol,alquiler,Sí,Calle Manuel Azaña,197 kWh/m&sup2; año,3 dorm.,850,Valladolid,2 baños,5,Señorial,Independiente (Gas),2003,Castilla Y León,e,es,2024-10-02 11:38:27,140.00
+590638,4 Marzo - La Farola,alquiler,,Calle Falla,,,450,Valladolid,1 baño,Planta baja,Popular,,1960,Castilla Y León,,es,2024-08-02 19:49:49,58.00
+569791,Villa Del Prado,alquiler,,Monasterio santa maria de moreruela,,,35,Valladolid,,-1 (planta planta baja),Popular,,2006,Castilla Y León,,es,2024-01-12 20:20:33,24.00
+577026,La Rubia,alquiler,,Calle Dr. Moreno,,2 dorm.,350,Valladolid,1 baño,,Popular,,1978,Castilla Y León,,es,2024-04-04 18:04:03,46.00
+579077,La Rubia,alquiler,,Calle Dr. Moreno,,4 dorm.,600,Valladolid,1 baño,,Popular,,1972,Castilla Y León,,es,2024-04-09 18:16:56,183.00
+573462,Parquesol,alquiler,,C. Prof. Adolfo Miaja de la Muela,305 kWh/m&sup2; año,1 dorm.,1100,Valladolid,2 baños,Baja,Popular,Independiente (Aéreo Termo),1996,Castilla Y León,d,es,2024-02-14 17:42:50,120.00
+578296,Parquesol,alquiler,,C. Prof. Adolfo Miaja de la Muela,,1 dorm.,65,Valladolid,,Sótano,Popular,,1990,Castilla Y León,,es,2024-04-02 20:59:52,34.00
+570739,Huerta Del Rey,alquiler,,Calle del Monasterio Sta. Isabel,,,40,Valladolid,,-1 (planta planta baja),Media,,2007,Castilla Y León,,es,2024-02-07 20:24:45,20.00
+572967,Delicias,alquiler,,C. Gerona,,,330,Valladolid,1 baño,,Media,,1990,Castilla Y León,,es,2024-02-27 19:39:29,25.00
