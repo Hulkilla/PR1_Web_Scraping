@@ -5,6 +5,12 @@ import time
 import random
 import csv
 import os
+import logging
+import sys
+
+log_format = '[%(process)d]\t%(asctime)s %(levelname)s: %(message)s'
+logging.basicConfig(format=log_format, level=logging.INFO, datefmt="%Y-%m-%d %H:%M:%S",
+handlers=[logging.StreamHandler(sys.stdout)])
 
 HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
@@ -36,10 +42,10 @@ def RobotsReading(url):
         if response.status_code == 200:
             return response.text
         else:
-            print(f"Error: Could not access robots.txt file of {url}, status code {response.status_code}")
+            logging.info(f"Error: Could not access robots.txt file of {url}, status code {response.status_code}")
             return None
     except Exception as e:
-        print(f"An error occurred while accessing robots.txt {e}")
+        logging.info(f"An error occurred while accessing robots.txt {e}")
         return None
     
 
@@ -57,10 +63,10 @@ def userAgentRequests(url):
 
     response = requests.get(url, headers=HEADERS)
     if response.status_code == 200:
-        print("The User-Agent used in the requests:", HEADERS["User-Agent"])
+        logging.info("The User-Agent used in the requests:", HEADERS["User-Agent"])
         return None
     else:
-        print(f"Error {response.status_code}: It could not connect to {url}")
+        logging.info(f"Error {response.status_code}: It could not connect to {url}")
         return None
 
 
@@ -79,13 +85,13 @@ def webConnect(url):
     try:
         url_connected = requests.get(url, headers = HEADERS)
         if url_connected.status_code == 200:
-            print(f"Established connection of {url}")
+            logging.info(f"Established connection of {url}")
             return url_connected.text
         else:
-            print(f"Error: Could not connect to the website {url}, code: {url_connected.status_code}")
+            logging.info(f"Error: Could not connect to the website {url}, code: {url_connected.status_code}")
             return None
     except Exception as e:
-        print(f"An error occurred while connecting: {e}")
+        logging.info(f"An error occurred while connecting: {e}")
         return None
 
 
@@ -120,21 +126,20 @@ def tecnocasaWebpages(url, delay_min=1, delay_max=3):
             # Extract links and their names
             links = []
             for item in section.find_all("li"):
-                enlace = item.find("a")
-                texto = enlace.get_text(" ", strip=True)  # Obtener texto del enlace
-                url = enlace["href"]  # Obtener URL del enlace
-                links.append({"name": texto, "url": url})
+                link = item.find("a")
+                text = link.get_text(" ", strip=True) 
+                url = link["href"] 
+                links.append({"name": text, "url": url})
             
-            # Añadir a la categoría en el diccionario
             categories[category_name] = links
         
         delay = random.uniform(delay_min, delay_max)
-        print(f"Waiting {delay:.2f} seconds before next request.")
+        logging.info(f"Waiting {delay:.2f} seconds before next request.")
         time.sleep(delay)
         
         return categories
     else:
-        print("An error occurred while connecting")
+        logging.info("An error occurred while connecting")
         return None 
 
 
@@ -186,7 +191,7 @@ def detailUrls(urls, delay_min=1, delay_max=2):
             
             # Return an empty list if JSON was not found
             if json_text is None:
-                print(f"No detailed webs found for {url}.")
+                logging.info(f"No detailed webs found for {url}.")
                 continue
 
             # Load the JSON
@@ -197,13 +202,13 @@ def detailUrls(urls, delay_min=1, delay_max=2):
             all_detail_urls.extend(detail_urls)  # Add detail URLs to the main list
 
             delay = random.uniform(delay_min, delay_max)
-            print(f"Waiting {delay:.2f} seconds before next request.")
+            logging.info(f"Waiting {delay:.2f} seconds before next request.")
             time.sleep(delay)
         
         except requests.exceptions.RequestException as e:
-            print(f"Request error for {url}: {e}")
+            logging.info(f"Request error for {url}: {e}")
         except json.JSONDecodeError:
-            print(f"Error decoding JSON for {url}.")
+            logging.info(f"Error decoding JSON for {url}.")
     
     return all_detail_urls  # Return the combined list of detail URLs
 
@@ -238,38 +243,38 @@ def dataExtraction(url):
                 json_data = json.loads(json_text)
                 # Data extraction
                
-                datos_inmueble = {
-                    "Referencia":json_data.get("id"),
-                    "Pais":json_data.get("country"),
-                    "Comunidad Autonoma": json_data.get("region", {}).get("title"),
-                    "ciudad": json_data.get("city", {}).get("title"),
-                    "zona": json_data.get("district", {}).get("title"),
-                    "calle":json_data.get("address"),
-                    "contrato": json_data.get("contract", {}).get("title"),
-                    "dormitorios": json_data.get("rooms"),
-                    "Superficie": json_data.get("numeric_surface"),
-                    "baños": json_data.get("bathrooms"),
-                    "tipo_inmueble": json_data.get("features", {}).get("category"),
-                    "ascensor": json_data.get("features", {}).get("elevator"),
-                    "calefaccion": json_data.get("features", {}).get("heating"),
-                    "planta/piso": json_data.get("features", {}).get("floor"),
-                    "año_construcción": json_data.get("dates", {}).get("build_year"),
-                    "Clase_energia":json_data.get("energy_data",{}).get("class"),
-                    "consumo_energia": json_data.get("energy_data", {}).get("efficiency"),
-                    "precio_venta": json_data.get("numeric_price"),
-                    "Fecha_publicación": json_data.get("last_published_at")
+                property_data = {
+                    "Reference":json_data.get("id"),
+                    "Country":json_data.get("country"),
+                    "Autonomous_Community": json_data.get("region", {}).get("title"),
+                    "City": json_data.get("city", {}).get("title"),
+                    "Zone": json_data.get("district", {}).get("title"),
+                    "Street":json_data.get("address"),
+                    "Contrat": json_data.get("contract", {}).get("title"),
+                    "Bedrooms": json_data.get("rooms"),
+                    "Surface": json_data.get("numeric_surface"),
+                    "Bathrooms": json_data.get("bathrooms"),
+                    "Property_Type": json_data.get("features", {}).get("category"),
+                    "Elevator": json_data.get("features", {}).get("elevator"),
+                    "Heating": json_data.get("features", {}).get("heating"),
+                    "Floor": json_data.get("features", {}).get("floor"),
+                    "Year_Construction": json_data.get("dates", {}).get("build_year"),
+                    "Energy_Class":json_data.get("energy_data",{}).get("class"),
+                    "Energy_Consumption": json_data.get("energy_data", {}).get("efficiency"),
+                    "Sale_Price": json_data.get("numeric_price"),
+                    "Publish_date": json_data.get("last_published_at")
                 }  
 
-                print("Data extracted successfully") 
-                return datos_inmueble
+                logging.info("Data extracted successfully") 
+                return property_data
             except json.JSONDecodeError:
-                print("Error decoding JSON")
+                logging.info("Error decoding JSON")
                 return None
         else:
-            print("JSON data script not found")
+            logging.info("JSON data script not found")
             return None
     else:
-        print(f"An error occurred while connecting")
+        logging.info(f"An error occurred while connecting")
         return None
 
 
@@ -314,32 +319,30 @@ def pagesIteration(urls, delay_min=1, delay_max=2, max_empty_attempts=50):
     empty_attempts = 0
     
     for url in urls:
-        print(f"Extracting data from {url}")
+        logging.info(f"Extracting data from {url}")
         
         # Call the data extraction function for each URL
-        productos_pagina = dataExtraction(url)
+        products_page = dataExtraction(url)
         
-        if productos_pagina:
-            # If `productos_pagina` is a single dictionary, add it directly
-            if isinstance(productos_pagina, dict):
-                products.append(productos_pagina)
-            elif isinstance(productos_pagina, list):
-                # If `productos_pagina` is a list of dictionaries, add each entry to products
-                products.extend(productos_pagina)
+        if products_page:
+            if isinstance(products_page, dict):
+                products.append(products_page)
+            elif isinstance(products_page, list):
+                products.extend(products_page)
             else:
-                print(f"Unexpected data format for {url}")
-            empty_attempts = 0  # Reset counter if data is found
+                logging.info(f"Unexpected data format for {url}")
+            empty_attempts = 0 
         else:
             empty_attempts += 1
-            print(f"No data found for {url}. Consecutive empty attempts: {empty_attempts}")
+            logging.info(f"No data found for {url}. Consecutive empty attempts: {empty_attempts}")
             
             if empty_attempts >= max_empty_attempts:
-                print("Too many consecutive empty attempts. Stopping extraction.")
-                break  # Exit the loop if there are too many empty URLs
+                logging.info("Too many consecutive empty attempts. Stopping extraction.")
+                break  
         
         # Add a random delay between each request
         delay = random.uniform(delay_min, delay_max)
-        print(f"Waiting {delay:.2f} seconds before the next request.")
+        logging.info(f"Waiting {delay:.2f} seconds before the next request.")
         time.sleep(delay)
     
     return products
@@ -385,30 +388,24 @@ def csvExport(data, file_path="prueba.csv", header=None):
     - file_path (str): Complete path (folder + filename) where the CSV file will be saved.
     - header (list): Optional list of headers for the CSV file.
     """
-    # Ensure the directory exists
     directory = os.path.dirname(file_path)
     os.makedirs(directory, exist_ok=True)
 
-    # Try to detect the structure of the data
     try:
         rows = []
 
         if isinstance(data, dict):
-        # Si el diccionario es simple, convierte a una lista de una fila
             flattened_item = dictFlatten(data)
             rows.append(flattened_item)
 
-        elif isinstance(data, dict):
-            # If it's a dict of lists
-            
+        elif isinstance(data, dict):            
             for category, items in data.items():
                 for item in items:
                     flattened_item = dictFlatten(item)
-                    flattened_item['Categoria'] = category
+                    flattened_item['Category'] = category
                     rows.append(flattened_item)
         
         elif isinstance(data, list):
-            # If it's a list of dicts
             rows = [dictFlatten(item) for item in data]
 
         else:
@@ -427,10 +424,10 @@ def csvExport(data, file_path="prueba.csv", header=None):
             writer.writeheader()
             writer.writerows(rows)
 
-        print(f"Exported to {file_path}")
+        logging.info(f"Exported to {file_path}")
 
     except Exception as e:
-        print(f"An error occurred while exporting data: {e}")
+        logging.info(f"An error occurred while exporting data: {e}")
 
 
 
