@@ -1,2 +1,2 @@
-Energy_Consumption,Reference,Heating,Country,City,Zone,Energy_Class,Publish_date,Sale_Price,Floor,Street,Bedrooms,Elevator,Bathrooms,Year_Construction,Surface,Autonomous_Community,Contrat,Property_Type
-"405,3 kW h/m&sup2; año",598033,,es,Valladolid,Arturo Eyries,g,2024-10-25 20:31:19,59900,,Calle Ecuador,3 dorm.,Sí,1 baño,1981,110.00,Castilla Y León,venta,Popular
+Surface,Bathrooms,Autonomous_Community,Zone,Publish_date,Energy_Consumption,Bedrooms,Street,City,Floor,Contrat,Reference,Property_Type,Heating,Sale_Price,Country,Elevator,Year_Construction,Energy_Class
+110.00,1 baño,Castilla Y León,Arturo Eyries,2024-10-25 20:31:19,"405,3 kW h/m&sup2; año",3 dorm.,Calle Ecuador,Valladolid,,venta,598033,Popular,,59900,es,Sí,1981,g

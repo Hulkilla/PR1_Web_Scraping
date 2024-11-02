@@ -1,12 +1,12 @@
-from source.functions import RobotsReading
-from source.functions import userAgentRequests
-from source.functions import dataExtraction
-from source.functions import tecnocasaWebpages
-from source.functions import urlsFilter
-from source.functions import detailUrls
-from source.functions import csvExport
-from source.functions import filterUrlsByLocation
-from source.functions import pagesIteration
+from functions import RobotsReading
+from functions import userAgentRequests
+from functions import dataExtraction
+from functions import tecnocasaWebpages
+from functions import urlsFilter
+from functions import detailUrls
+from functions import csvExport
+from functions import filterUrlsByLocation
+from functions import pagesIteration
 
 
 url = "https://www.tecnocasa.es/"

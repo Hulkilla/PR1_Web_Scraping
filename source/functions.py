@@ -63,7 +63,7 @@ def userAgentRequests(url):
 
     response = requests.get(url, headers=HEADERS)
     if response.status_code == 200:
-        logging.info("The User-Agent used in the requests:", HEADERS["User-Agent"])
+        logging.info(f"The User-Agent used in the requests: \n{HEADERS['User-Agent']}\n")
         return None
     else:
         logging.info(f"Error {response.status_code}: It could not connect to {url}")
