@@ -1,4 +1,17 @@
-# Grupal Practise 1
+# Grupal Practise 1 - Data Typology and Life Cycle
+Subject: M2.851 / Semester: 2024-1 / Date: 11-02-2024
+
+## Authors
+1) Marina Fernández Delgado - mfernandezdelg@uoc.edu
+2) César Alvarez Mendoza - 
+
+## Chosen Website
+
+https://www.tecnocasa.es/
+
+## DOI Zenodo Link
+
+The dataset has been published in Zenodo with DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14028180.svg)](https://doi.org/10.5281/zenodo.14028180)
 
 ## Description
 This project is based on a Web Scraping process to extract property data from specific cities or all cities available 
@@ -15,15 +28,16 @@ The project is divided into 6 parts:
 ## Project structure
 The project files are organized as follows:
 
-1) **main.py**. It is the main file where all the project functions are executed, which have been created in other files 
-and are imported into this one.
+1) *source* folder: 
+    - **main.py**. It is the main file where all the project functions are executed, which have been created in other files and are imported into this one.
+    - **functions.py**. It is the functions file needed to run the project. 
+    - **requirements.txt**. This is the file where the list of used packages is located (Python 3.12).
 
-2) The *source* folder contains the **functions** file to run the project. 
 
-The project data are found in the "dataset" folder and consist in three datasets:
-1) **dataset/apartment_valladolid.csv** contains the data of one property of Valladolid
-2) **dataset/properties_valladolid.csv** contains the data of all available properties of Valladolid
-3) **dataset/properties_Spain.csv** contains the data of all available properties of Spain
+2) *dataset* folder:
+    - **dataset/apartment_valladolid.csv** contains the data of one property of Valladolid
+    - **dataset/properties_valladolid.csv** contains the data of all available properties of Valladolid
+    - **dataset/properties_Spain.csv** contains the data of all available properties of Spain. This dataset is the one that has been published in Zenodo.
 
 ## Installation
 To start this project, the following steps must be followed:
@@ -36,6 +50,7 @@ This command will install all the specific libraries and versions necessary to r
 4) **Configure environment variables** (optional): If your project requires environment variables, create a .env file 
 in the root of the project and add the necessary variables. You can use the .env.example file as a reference.
 5) **Run main.py**: Once the dependencies are installed, you can run the **main.py** file to start the analysis.
+    - To run the script from the main folder (project), use ``python source/main.py ``. This will allow the script to run correctly and export the CSV file to the dataset folder.
 
 ## Uses
 
