@@ -11,7 +11,7 @@ https://www.tecnocasa.es/
 
 ## DOI Zenodo Link
 
-The dataset has been published in Zenodo with DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14028180.svg)](https://doi.org/10.5281/zenodo.14028180)
+The dataset has been published in Zenodo with DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14028610.svg)](https://doi.org/10.5281/zenodo.14028610)
 
 ## Description
 This project is based on a Web Scraping process to extract property data from specific cities or all cities available 
