@@ -1,543 +1,539 @@
-Energy_Consumption,Reference,Heating,Country,City,Zone,Energy_Class,Publish_date,Sale_Price,Floor,Street,Bedrooms,Elevator,Bathrooms,Year_Construction,Surface,Autonomous_Community,Contrat,Property_Type
-"42,06 kW h/m&sup2; año",594509,,es,Almería,,g,2024-09-13 17:32:47,105000,1,Calle Quinta Avenida,3 dorm.,,1 baño,1969,88.00,Andalucía,venta,Popular
-,599139,,es,Almería,,,2024-10-25 19:44:05,97990,Baja,C. Cámaras,3 dorm.,,1 baño,1960,111.00,Andalucía,venta,Popular
-,599242,,es,Almería,,,2024-10-25 19:26:17,59990,,C. Zagal,3 dorm.,,,1954,51.00,Andalucía,venta,Media
-,598061,,es,Almería,,,2024-10-18 16:40:37,119000,2,Calle Marchales,3 dorm.,,1 baño,1974,106.00,Andalucía,venta,Popular
-,532627,,es,Almería,,,2024-10-16 09:53:10,159500,,C. Maldonado Entrena,4 dorm.,,2 baños,1975,172.00,Andalucía,venta,Popular
-"211,8 kW h/m&sup2; año",594789,,es,Almería,,g,2024-09-20 11:26:59,127500,,Plus Ultra,4 dorm.,,1 baño,1975,114.00,Andalucía,venta,Popular
-,595160,,es,Almería,,,2024-09-19 18:01:51,79000,2 (planta media),Ctra. de Ronda,,,1 baño,1974,107.00,Andalucía,venta,Popular
-,596150,,es,Almería,,,2024-09-30 20:27:39,72000,,Calle Zafiro,,,,1966,64.00,Andalucía,venta,Media
-"84,60 kWh/m&sup2; año",598331,,es,Almería,Los Molinos - El Puche - Torrecardenas,e,2024-10-17 16:38:30,139000,,C. Pintor Zabaleta,3 dorm.,,1 baño,2012,70.00,Andalucía,venta,Popular
-"135,3 kW h/m&sup2; año",599671,,es,Almería,,e,2024-10-30 12:20:21,89900,,Av. de Madrid,3 dorm.,,1 baño,1968,108.00,Andalucía,venta,Popular
-"167,5 kW h/m&sup2; año",598971,,es,Almería,,g,2024-10-23 17:36:03,69900,Alta,Pl. del Niño Jesús,4 dorm.,,1 baño,1968,76.00,Andalucía,venta,Popular
-"281,5 kW h/m&sup2; año",598612,,es,Almería,,g,2024-10-21 12:35:43,92000,Baja,Calle Jaúl,2 dorm.,,1 baño,1955,50.00,Andalucía,venta,Popular
-,599281,,es,Almería,Los Molinos - El Puche - Torrecardenas,,2024-10-28 16:45:09,169900,5,C. Eñe,,,1 baño,1999,100.00,Andalucía,venta,Popular
-,598464,,es,Almería,Los Molinos - El Puche - Torrecardenas,,2024-10-18 16:48:52,119000,,C. Cantareros,3 dorm.,,1 baño,1992,115.00,Andalucía,venta,Popular
-,592697,,es,Almería,Almería - Centro Histórico,,2024-10-22 18:16:07,91500,5,C. Lope de Vega,,,,1970,55.00,Andalucía,venta,Media
-"127,42 kWh/m&sup2; año",597512,,es,Cádiz,Puerta Tierra,e,2024-10-10 11:01:51,169000,3 (planta media),C. Alfonso Aramburu,2 dorm.,,,1958,76.00,Andalucía,venta,Media
-,598646,,es,Cádiz,Puerta Tierra,,2024-10-21 18:27:49,148500,4 (planta media),C. Tanguillo,2 dorm.,,,1939,50.00,Andalucía,venta,Media
-,586352,,es,Cádiz,Puerta Tierra,,2024-06-18 10:41:19,267000,1 (planta baja),Pl. de los Porches,4 dorm.,,,1976,108.00,Andalucía,venta,Media
-,598216,,es,Cádiz,Puerta Tierra,,2024-10-17 18:28:41,169000,3 (planta alta),Av. Lacave,3 dorm.,,,1957,57.00,Andalucía,venta,Media
-,597551,,es,Cádiz,Puerta Tierra,,2024-10-10 18:40:19,225000,5 (planta alta),C. San Mateo,3 dorm.,,,1975,84.00,Andalucía,venta,Popular
-"101,17 kW h/m&sup2; año",557956,,es,Cádiz,Puerta Tierra,e,2023-09-13 10:56:57,168500,1,Calle Barbate,3 dorm.,Sí,1 baño,1991,86.00,Andalucía,venta,Media
-,592295,,es,Cádiz,Puerta Tierra,,2024-08-28 18:22:08,360000,4 (planta alta),C. Huerta del Obispo,3 dorm.,,,1986,104.00,Andalucía,venta,Media
-,587724,,es,Cádiz,Puerta Tierra,,2024-06-28 20:07:15,320000,3 (planta media),Av. Ana de Viya,3 dorm.,,,1970,90.00,Andalucía,venta,Media
-,592556,,es,Cádiz,Puerta Tierra,,2024-08-22 19:33:22,320000,Planta baja,C/ Adelfa,4 dorm.,,,1979,122.00,Andalucía,venta,Popular
-"228,88 kW h/m&sup2; año",587499,,es,Cádiz,Puerta Tierra,g,2024-07-02 09:23:48,119500,,C. Sor Cristina López García,2 dorm.,,,1957,58.00,Andalucía,venta,Popular
-,589548,,es,Cádiz,Puerta Tierra,,2024-07-17 13:42:27,460000,6 (planta alta),Pl. Escritor Ramón Solís,4 dorm.,,,1969,114.00,Andalucía,venta,Media
-,556113,,es,Cádiz,Puerta Tierra,,2023-08-24 18:55:05,480000,Baja,Calle Sociedad,4 dorm.,,,1978,113.00,Andalucía,venta,Popular
-,359446,,es,Cádiz,Puerta Tierra,,2024-05-02 18:10:07,365000,,Plaza de Madrid,3 dorm.,Sí,2 baños,1959,75.00,Andalucía,venta,Popular
-"113,07 kWh/m&sup2; año",598965,,es,Cordoba,Ciudad Jardin - Machaquito,e,2024-10-25 11:19:16,92900,5 (planta alta),C/ de la Previsión,3 dorm.,,,1970,78.00,Andalucía,venta,Popular
-,599257,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-10-28 13:19:54,32000,,C/ Loja,2 dorm.,,1 baño,1960,47.00,Andalucía,venta,Señorial
-,599009,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-10-25 10:56:57,49900,4,Calle Moriles,2 dorm.,,1 baño,1960,64.00,Andalucía,venta,Media
-,596250,,es,Cordoba,Barriada Guadalquivir - Sector Sur,,2024-09-30 13:11:28,45000,3 (planta alta),Libertador Andres de santacruz,3 dorm.,,1 baño,1980,83.00,Andalucía,venta,Media
-,598876,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-10-23 17:28:47,148000,,Avda. Cádiz,4 dorm.,,2 baños,1990,97.00,Andalucía,venta,Popular
-"151,76 kWh/m&sup2; año",598288,,es,Cordoba,Fatima,e,2024-10-18 09:54:18,135000,,Calle Vereda de la Alcaidía,3 dorm.,Sí,1 baño,1983,94.00,Andalucía,venta,Señorial
-,554691,centralizada (Chimenea),es,Cordoba,Barriada Guadalquivir - Sector Sur,,2023-08-02 11:04:26,89000,,Pasaje mezquita,3 dorm.,Sí,2 baños,1992,90.00,Andalucía,venta,Media
-"209,5 kW h/m&sup2; año",591658,,es,Cordoba,Fatima,g,2024-08-08 10:12:42,90000,,Av. Virgen de Fátima,3 dorm.,,1 baño,1970,84.00,Andalucía,venta,Media
-"214,4 kW h/m&sup2; año",599226,,es,Cordoba,Fatima,g,2024-10-28 10:37:48,95000,,Av. Virgen de Fátima,3 dorm.,,1 baño,1973,94.00,Andalucía,venta,Media
-,599661,,es,Cordoba,Levante - Fidiana,,2024-10-30 10:43:45,79900,,Cronista Maraver 26,,,1 baño,1975,75.00,Andalucía,venta,Media
-"57,75 kWh/m&sup2; año",592514,,es,Cordoba,Ciudad Jardin - Machaquito,d,2024-08-21 18:10:36,224900,4 (planta media),Avenida de los Mozarabes,3 dorm.,,,1986,105.00,Andalucía,venta,Señorial
-,598358,,es,Cordoba,Santa Rosa,,2024-10-17 18:12:25,104900,1 (planta baja),C. Raimundo Lulio,3 dorm.,,,1978,94.00,Andalucía,venta,Popular
-,598977,,es,Cordoba,Santa Rosa,,2024-10-28 19:21:00,149900,1 (planta baja),C. Pintor Arbasia,3 dorm.,,,1998,69.00,Andalucía,venta,Popular
-,597787,,es,Cordoba,Santa Rosa,,2024-10-11 19:50:29,109900,Planta baja,C. Mariana Pineda,3 dorm.,,,1969,61.00,Andalucía,venta,Popular
-,598967,,es,Cordoba,Ciudad Jardin - Machaquito,,2024-10-25 17:03:44,159900,3 (planta media),C. de la Prevision,3 dorm.,,,1975,63.00,Andalucía,venta,Popular
-"44,76 kW h/m&sup2; año",599856,,es,Granada,Chana - Cerillo - Maracena,e,2024-10-31 21:08:49,145000,Baja,Calle Olimpia,3 dorm.,,,1970,73.00,Andalucía,venta,Popular
-"160,6 kW h/m&sup2; año",573392,,es,Granada,Chana - Cerillo - Maracena,e,2024-10-31 19:50:04,112000,,C. Ledaña,3 dorm.,Sí,1 baño,1974,100.00,Andalucía,venta,Media
-"213,8 kW h/m&sup2; año",588664,centralizada (Gas),es,Granada,Chana - Cerillo - Maracena,e,2024-10-31 19:49:30,249900,,Av. de Maracena,3 dorm.,,2 baños,2006,164.00,Andalucía,venta,Popular
-"182,2 kW h/m&sup2; año",594201,,es,Granada,Chana - Cerillo - Maracena,e,2024-10-31 19:49:13,155900,,Calle Dr. Medina Olmos,3 dorm.,Sí,1 baño,1969,79.00,Andalucía,venta,Popular
-"339,2 kW h/m&sup2; año",592863,,es,Granada,Chana - Cerillo - Maracena,g,2024-10-31 19:49:18,112900,,C. Alianza,3 dorm.,,1 baño,1966,63.00,Andalucía,venta,Popular
-"199,39 kW h/m&sup2; año",580409,,es,Granada,Chana - Cerillo - Maracena,f,2024-10-31 19:49:50,79900,,C. Virgen del Monte,,,1 baño,1966,73.00,Andalucía,venta,Popular
-"178,6 kW h/m&sup2; año",589568,centralizada (Gas),es,Granada,Chana - Cerillo - Maracena,e,2024-10-31 19:49:22,205000,,Av. Gloria Fuertes,2 dorm.,,1 baño,2006,76.00,Andalucía,venta,Señorial
-00 kW h/m&sup2; año,597690,,es,Granada,Chana - Cerillo - Maracena,c,2024-10-31 19:49:04,172900,,Carretera de Málaga,,,2 baños,1990,84.00,Andalucía,venta,Señorial
-"141,6 kWh/m&sup2; año",598343,,es,Granada,Cartuja - Traumatología,e,2024-10-31 11:40:26,109900,,C. Víctor Hugo,2 dorm.,,1 baño,1970,89.00,Andalucía,venta,Popular
-"268,8 kWh/m&sup2; año",597989,,es,Granada,Cartuja - Traumatología,g,2024-10-31 11:40:29,35000,,Pje. de Teba,3 dorm.,,1 baño,1976,75.00,Andalucía,venta,Media
-"172,2 kW h/m&sup2; año",597600,,es,Granada,Cartuja - Joaquina Eguaras,e,2024-10-15 20:47:28,54900,Baja,C. Joaquín Corral Almagro,2 dorm.,,1 baño,1970,70.00,Andalucía,venta,Media
-,596918,,es,Granada,Chana - Villarejo - Barriada De La Cruz,,2024-10-31 17:16:54,130000,,C. Azor,,,1 baño,1960,78.00,Andalucía,venta,Popular
-,598045,,es,Granada,Chana - Villarejo - Barriada De La Cruz,,2024-10-31 16:58:32,230000,,Av. de la Constitución,,,2 baños,1968,113.00,Andalucía,venta,Popular
-,596247,,es,Granada,Chana - Villarejo - Barriada De La Cruz,,2024-10-31 16:45:28,90000,,C. Antonio Machado,2 dorm.,,,1960,60.00,Andalucía,venta,Popular
-"97,63 kW h/m&sup2; año",596068,,es,Granada,Albayzín,d,2024-10-29 17:41:03,259900,,C. Cibeles,4 dorm.,Sí,2 baños,1967,116.00,Andalucía,venta,Popular
-"142,59 kWh/m&sup2; año",597583,,es,Huelva,Fuentepiña - Poligono - Rosales - Pilar Balbueno,e,2024-10-22 19:48:20,95000,,Calle Sanlúcar de Guadiana,3 dorm.,,1 baño,1970,76.00,Andalucía,venta,Popular
-,597654,,es,Huelva,Avenida Andalucia - Hispanidad,,2024-10-22 19:03:40,175000,3,C. Fenicios,2 dorm.,,,2008,83.00,Andalucía,venta,Popular
-,595596,,es,Huelva,Huerto Paco,,2024-09-24 10:27:41,149900,,C. Villa Mundaka,3 dorm.,,1 baño,1975,90.00,Andalucía,venta,Popular
-,598724,,es,Huelva,Orden - Santa Marta,,2024-10-22 12:59:17,94900,,C. Niágara,4 dorm.,,2 baños,1980,90.00,Andalucía,venta,Popular
-326 kW h/m&sup2; año,597009,,es,Huelva,Avenida Andalucia - Hispanidad,g,2024-10-16 18:56:12,99900,,C. Hélice,3 dorm.,,1 baño,1968,70.00,Andalucía,venta,Popular
-,599542,,es,Huelva,Matadero,,2024-10-29 12:48:51,52000,3,C. Arizona,2 dorm.,,1 baño,1954,49.00,Andalucía,venta,Media
-,595025,,es,Huelva,Orden - Santa Marta,,2024-09-18 20:14:24,72900,,C. Río de la Plata,3 dorm.,,1 baño,1975,69.00,Andalucía,venta,Popular
-,596365,,es,Huelva,Orden - Santa Marta,,2024-10-08 20:15:39,90000,,C. Condado,3 dorm.,,1 baño,1975,90.00,Andalucía,venta,Popular
-,598544,,es,Huelva,Fuentepiña - Poligono - Rosales - Pilar Balbueno,,2024-10-19 10:43:25,104000,3,C. Río Guadalete,3 dorm.,Sí,2 baños,2008,146.00,Andalucía,venta,Popular
-"108,5 kW h/m&sup2; año",597782,,es,Huelva,Fuentepiña - Poligono - Rosales - Pilar Balbueno,e,2024-10-18 11:53:13,129000,,Pl. Eugenio Hermoso,4 dorm.,,2 baños,1973,121.00,Andalucía,venta,Popular
-"92,28 kW h/m&sup2; año",597818,,es,Huelva,Isla Chica - Viaplana,e,2024-10-21 13:14:06,105000,2,C. Manuel Sánchez,3 dorm.,,1 baño,1975,115.00,Andalucía,venta,Popular
-,598562,,es,Huelva,Isla Chica - Viaplana,,2024-10-19 12:34:57,230000,9,Av. Alcalde Federico Molina Orta,3 dorm.,,3 baños,1987,180.00,Andalucía,venta,Señorial
-,594230,,es,Huelva,Orden - Santa Marta,,2024-09-11 10:21:12,129900,,C. Río de la Plata,4 dorm.,Sí,2 baños,1974,104.00,Andalucía,venta,Popular
-,573184,,es,Huelva,Las Colonias El Carmen,,2024-06-26 19:32:32,95000,,Paseo de la glorieta,3 dorm.,,1 baño,1967,77.00,Andalucía,venta,Media
-,593726,,es,Huelva,Matadero,,2024-09-06 20:13:46,179900,,Av. Guatemala,4 dorm.,,2 baños,1989,114.00,Andalucía,venta,Popular
-"231,19 kWh/m&sup2; año",597682,,es,Jaén,,e,2024-10-14 10:47:21,150000,,Carr. Puente de la Sierra,3 dorm.,Sí,,1974,86.00,Andalucía,venta,Popular
-"208,22 kW h/m&sup2; año",541309,,es,Jaén,,e,2024-04-16 12:02:27,79000,,C. los Caños,3 dorm.,,1 baño,2015,91.00,Andalucía,venta,Media
-"233,20 kW h/m&sup2; año",595888,,es,Jaén,,e,2024-10-07 19:19:52,87500,,Pl. San Juan de Dios,2 dorm.,,1 baño,2007,74.00,Andalucía,venta,Popular
-,593108,Independiente (Eléctrica),es,Jaén,,,2024-09-02 20:43:43,100000,,C/ Juanito Valderrama,4 dorm.,,,1980,174.00,Andalucía,venta,De época
-"190,5 kW h/m&sup2; año",596215,centralizada (Eléctrica),es,Jaén,,e,2024-10-01 19:24:44,179000,,Calle Martínez Montañés,3 dorm.,,2 baños,1950,108.00,Andalucía,venta,Señorial
-,590090,,es,Jaén,,,2024-10-02 10:48:33,190000,1,C/Ben Saprut,4 dorm.,,2 baños,1998,102.00,Andalucía,venta,Media
-"241,61 kWh/m&sup2; año",531521,,es,Jaén,,f,2023-01-19 13:05:55,69900,,Calle conserje enrique lopez,3 dorm.,,1 baño,1975,60.00,Andalucía,venta,Popular
-,596048,,es,Jaén,Jaén,,2024-10-22 12:12:43,95800,Baja,Calle Hurtado,3 dorm.,,,1979,93.00,Andalucía,venta,Media
-,592088,,es,Jaén,,,2024-09-26 20:33:47,75000,,Calle Arco del Consuelo,2 dorm.,,1 baño,1960,63.00,Andalucía,venta,Media
-,592962,,es,Jaén,,,2024-09-05 19:16:10,124900,,Calle Hurtado,,Sí,1 baño,1977,81.00,Andalucía,venta,Popular
-"207,61 kWh/m&sup2; año",580194,,es,Jaén,,e,2024-04-22 20:17:13,78000,1,Calle senda de los huertos,2 dorm.,Sí,1 baño,1988,85.00,Andalucía,venta,Media
-,595245,,es,Jaén,Jaén,,2024-10-07 12:44:29,297000,,Plaza de la Constitución,,,,1980,220.00,Andalucía,venta,Popular
-,308638,,es,Jaén,,,2024-03-15 12:08:21,54000,2,Calle Betania,2 dorm.,,1 baño,1960,69.00,Andalucía,venta,Popular
-,595622,,es,Jaén,,,2024-10-02 12:40:43,83000,,Plaza Virgen de los Desamparados,3 dorm.,,,1977,78.00,Andalucía,venta,Media
-,580277,,es,Jaén,,,2024-04-22 12:00:22,139900,,Calle tableron,2 dorm.,,2 baños,1963,91.00,Andalucía,venta,Popular
-"114,23 kW h/m&sup2; año",598953,,es,Málaga,Eugenio Gross - Echevarria,e,2024-10-23 20:22:06,270000,,Pje. Begoña,3 dorm.,,2 baños,1970,111.00,Andalucía,venta,Media
-"127,3 kWh/m&sup2; año",598525,,es,Málaga,Cristo De La Epidemia - Victoria,e,2024-10-18 20:00:01,289000,5 (planta alta),C. Manrique,3 dorm.,Sí,1 baño,1970,85.00,Andalucía,venta,Media
-"102,8 kW h/m&sup2; año",580370,,es,Málaga,Fuenteolletas,e,2024-10-23 13:55:21,109000,1,Calle Obispo Juan de Eulate,2 dorm.,,1 baño,1965,49.00,Andalucía,venta,Popular
-"90,0 kW h/m&sup2; año",575477,,es,Málaga,Fuenteolletas,e,2024-10-31 16:44:25,370000,1,Alameda de Capuchinos,4 dorm.,Sí,2 baños,1977,113.00,Andalucía,venta,Popular
-"70,7 kW h/m&sup2; año",590793,,es,Málaga,Cristo De La Epidemia - Victoria,e,2024-09-20 19:09:38,218000,Baja,C. Conde de Ureña,3 dorm.,Sí,1 baño,1974,116.00,Andalucía,venta,Media
-"81,25 kW h/m&sup2; año",594440,,es,Málaga,Jardín Botánico - Sagrada Família,e,2024-09-16 20:33:52,153000,,C. Alcalde Narciso Briales,3 dorm.,,1 baño,1970,68.00,Andalucía,venta,Popular
-,596567,,es,Málaga,Miraflores De Los Angeles,,2024-10-08 12:24:26,129900,,Calle Genoveses,3 dorm.,,1 baño,1981,78.00,Andalucía,venta,Popular
-"120,3 kW h/m&sup2; año",592134,,es,Málaga,Fuenteolletas,e,2024-08-14 18:20:14,178000,1,Calle Obispo Alonso de la Cueva,3 dorm.,,1 baño,1962,62.00,Andalucía,venta,De época
-"0089,00 kW h/m&sup2; año",595921,,es,Málaga,Fuenteolletas,e,2024-09-26 11:44:11,198000,3 (planta alta),C. Tizo,2 dorm.,,1 baño,1992,87.00,Andalucía,venta,Media
-"149,9 kW h/m&sup2; año",479261,,es,Málaga,Fuenteolletas,g,2024-06-14 10:17:02,229000,9,Av. Manuel Gorria,2 dorm.,Sí,2 baños,1971,74.00,Andalucía,venta,Señorial
-"86,50 kW h/m&sup2; año",580612,,es,Málaga,Fuenteolletas,e,2024-09-13 10:23:38,275000,5,Alameda de Barceló,2 dorm.,Sí,1 baño,1996,113.00,Andalucía,venta,Media
-"70,31 kW h/m&sup2; año",587950,,es,Málaga,Fuenteolletas,e,2024-07-05 13:30:44,205000,1 (planta media),Calle Amores,2 dorm.,,1 baño,1992,66.00,Andalucía,venta,Media
-"89,0 kW h/m&sup2; año",590760,,es,Málaga,Fuenteolletas,e,2024-07-30 10:00:46,190000,1 (planta baja),C. Tizo,2 dorm.,,1 baño,1992,71.00,Andalucía,venta,Media
-"115,5 kW h/m&sup2; año",591130,,es,Málaga,Fuenteolletas,e,2024-08-02 11:48:18,82000,4,Calle obispo franquis lasso,2 dorm.,,1 baño,1964,50.00,Andalucía,venta,Media
-"130,3 kW h/m&sup2; año",591760,,es,Málaga,Fuenteolletas,e,2024-09-03 11:58:18,89000,3,Calle Obispo Franquis Lasso,2 dorm.,,1 baño,1965,49.00,Andalucía,venta,Media
-,599787,,es,Sevilla,Sevilla Este - Zona Este,,2024-10-31 11:00:05,190000,2,Plaza de la Malagueta,3 dorm.,,2 baños,1992,94.00,Andalucía,venta,Media
-,590749,,es,Sevilla,El Plantinar - Tiro De Linea,,2024-07-29 17:24:50,165000,2 (planta media),Calle naranco,3 dorm.,,1 baño,1963,76.00,Andalucía,venta,Media
-"189,29 kW h/m&sup2; año",592108,,es,Sevilla,El Plantinar - Tiro De Linea,f,2024-08-20 14:43:55,217260,,Pl. del Aljarafe,3 dorm.,,1 baño,1963,90.00,Andalucía,venta,Señorial
-"249,35 kW h/m&sup2; año",592998,,es,Sevilla,El Plantinar - Tiro De Linea,g,2024-08-28 17:25:47,142000,3,Av. de la Paz,2 dorm.,,1 baño,1970,67.00,Andalucía,venta,Media
-,589036,,es,Sevilla,El Plantinar - Tiro De Linea,,2024-07-17 18:58:19,166000,1,Av. de la Paz,2 dorm.,,1 baño,1970,79.00,Andalucía,venta,Media
-,599720,,es,Sevilla,Torreblanca,,2024-10-31 10:53:44,62000,Baja,Calle Torres Naharro,,,,1969,47.00,Andalucía,venta,Media
-"165,30 kW h/m&sup2; año",598093,,es,Sevilla,Bami - Heliopolis - Bermejales - Bellavista,e,2024-10-24 09:29:42,395000,,Av. de Grecia,4 dorm.,Sí,2 baños,1999,100.00,Andalucía,venta,Popular
-"39,78 kW h/m&sup2; año",599239,centralizada,es,Sevilla,Bami - Reina Mercedes - Pineda,c,2024-10-28 13:28:31,530000,Alta,C. Jandula,4 dorm.,,2 baños,2019,141.00,Andalucía,venta,Señorial
-,596746,,es,Sevilla,San Jeronimo,,2024-10-04 11:06:01,69900,3,C. Calamar,2 dorm.,,1 baño,1964,48.00,Andalucía,venta,Popular
-"172,3 kW h/m&sup2; año",556854,,es,Sevilla,Cerro Del Aguila,e,2024-10-23 10:43:55,144990,3 (planta media),C. José María de Pereda,3 dorm.,Sí,1 baño,1975,75.00,Andalucía,venta,Media
-,599686,Independiente,es,Sevilla,Palmete - La Negrilla,,2024-10-30 12:53:34,115000,,Calle Solidaridad,,,1 baño,1986,106.00,Andalucía,venta,Media
-"345,82 kWh/m&sup2; año",597607,,es,Sevilla,Macarena - La Salle - Begoña,g,2024-10-30 11:25:24,112000,3,C. Orquídea,2 dorm.,Sí,1 baño,1962,59.00,Andalucía,venta,Popular
-,575802,,es,Sevilla,Palmete - La Negrilla,,2024-10-30 10:50:43,131000,Media,Calle Moriles,,,2 baños,2004,132.00,Andalucía,venta,Popular
-"126,2 kW h/m&sup2; año",363215,,es,Sevilla,Nervion - San Pablo,e,2024-10-30 09:41:06,96500,,C/Exaltación de Baco,2 dorm.,,1 baño,1964,65.00,Andalucía,venta,Media
-"130,3 kWh/m&sup2; año",598760,,es,Sevilla,Juncal - Ciudad Jardin - Tiro De Linea,e,2024-10-22 09:57:19,149900,4,C. Tambre,,,,1964,59.00,Andalucía,venta,Media
-126 kWh/m&sup2; año,595390,centralizada,es,Zaragoza,Bombarda - Monsalud,d,2024-10-14 11:44:17,199000,,Calle Celanova,4 dorm.,Sí,2 baños,1986,108.00,Aragón,venta,Popular
-,598231,Independiente (Gas),es,Zaragoza,Oliver Y Valdefierro,,2024-10-17 18:33:58,125000,,Calle Vega,2 dorm.,,1 baño,1997,61.00,Aragón,venta,Media
-260 kWh/m&sup2; año,596901,Independiente,es,Zaragoza,Delicias,e,2024-10-14 11:29:04,169000,,Julian Sanz Ibañez,3 dorm.,Sí,2 baños,1980,88.00,Aragón,venta,Popular
-,594805,centralizada (Gas),es,Zaragoza,Centro,,2024-10-19 11:46:46,246000,,C. de José Luis Albareda,3 dorm.,,1 baño,1971,98.00,Aragón,venta,Señorial
-253 kW h/m&sup2; año,599495,,es,Zaragoza,Picarral,e,2024-10-29 07:52:46,130000,,Calle Monte  Perdido 4,,,1 baño,1974,67.00,Aragón,venta,Popular
-"269,18 kW h/m&sup2; año",189952,Independiente (Radiadores),es,Zaragoza,Picarral,f,2021-09-13 19:25:18,195000,,Avenida San Juan de la Peña 131,4 dorm.,,,1973,80.00,Aragón,venta,Popular
-"162,6 kWh/m&sup2; año",579782,centralizada,es,Zaragoza,San Pablo - El Gancho,e,2024-07-01 09:44:49,160000,4,Calle Benjamín Jarnés,2 dorm.,,2 baños,1970,112.00,Aragón,venta,Señorial
-"293,10 kW h/m&sup2; año",597919,Independiente (Gas),es,Zaragoza,Actur,e,2024-10-28 14:00:47,260000,7 (planta alta),C. de Rosa Chacel,4 dorm.,,2 baños,1993,114.00,Aragón,venta,Media
-446 kWh/m&sup2; año,585861,,es,Zaragoza,Las Fuentes,g,2024-06-25 19:27:39,77500,4,Calle Utrillas,2 dorm.,,1 baño,1936,55.00,Aragón,venta,Popular
-163 kWh/m&sup2; año,599203,Independiente (Gas),es,Zaragoza,Las Fuentes,e,2024-10-25 18:30:39,220000,5 (planta alta),Calle Cubel,2 dorm.,Sí,1 baño,1993,76.00,Aragón,venta,Popular
-309 kWh/m&sup2; año,598088,,es,Zaragoza,Las Fuentes,f,2024-10-16 11:50:12,98000,2 (planta media),Calle Octavio García Burriel,3 dorm.,Sí,1 baño,1961,60.00,Aragón,venta,Popular
-154 kWh/m&sup2; año,593125,,es,Zaragoza,Las Fuentes,e,2024-09-03 13:12:30,145000,3 (planta media),Plaza san victorian,3 dorm.,,1 baño,1975,100.00,Aragón,venta,Popular
-"177,1 kWh/m&sup2; año",597714,Independiente (Gas),es,Zaragoza,Almozara,e,2024-10-16 12:00:03,147000,Baja,Calle Mariano Castillo,3 dorm.,,1 baño,1965,70.00,Aragón,venta,Señorial
-,599211,,es,Zaragoza,Paseo Teruel,,2024-10-26 11:14:36,233500,,Calle Hernán Cortés,3 dorm.,,,1938,85.00,Aragón,venta,Media
-,596341,Independiente (Gas),es,Zaragoza,Las Fuentes,,2024-10-03 11:08:14,230000,1,Calle Dr. Iranzo,4 dorm.,Sí,2 baños,1991,107.00,Aragón,venta,Popular
-132 kWh/m&sup2; año,586526,,es,Santa Cruz De Tenerife,Cruz Del Señor,g,2024-06-19 21:41:27,210000,Baja,C. Ramón Trujillo Torres,2 dorm.,,2 baños,1994,105.00,Canarias,venta,Media
-52 kWh/m&sup2; año,599044,,es,Santa Cruz De Tenerife,Cruz Del Señor,e,2024-10-28 14:34:04,175000,2 (planta media),Alcalde mandillo tejera,3 dorm.,,1 baño,1974,97.00,Canarias,venta,Señorial
-110 kWh/m&sup2; año,594549,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,g,2024-10-15 19:44:00,205000,Baja,C. Porlier,3 dorm.,,1 baño,1900,115.00,Canarias,venta,Popular
-132 kWh/m&sup2; año,589656,,es,Santa Cruz De Tenerife,La Salle,g,2024-07-31 17:39:11,288000,3 (planta media),C. Jorge Manrique,3 dorm.,Sí,2 baños,1971,97.00,Canarias,venta,Popular
-132 kW h/m&sup2; año,599103,,es,Santa Cruz De Tenerife,La Salle,g,2024-10-25 19:06:03,174000,6,C. Tirso de Molina,1 dorm.,,1 baño,1970,47.00,Canarias,venta,Media
-120 kW h/m&sup2; año,596204,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,g,2024-10-11 12:44:57,285000,Media,Rbla. de Sta. Cruz,3 dorm.,,2 baños,1986,86.00,Canarias,venta,Popular
-147 kW h/m&sup2; año,585517,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,g,2024-07-01 10:21:23,379000,1 (planta media),Av. de Madrid,4 dorm.,Sí,2 baños,2001,109.00,Canarias,venta,Media
-147 kWh/m&sup2; año,587787,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,g,2024-10-04 18:57:03,299000,1 (planta baja),Av. de Madrid,2 dorm.,Sí,2 baños,2001,112.00,Canarias,venta,Media
-50 kW h/m&sup2; año,586185,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,d,2024-07-31 12:40:54,149900,,C. Verderón,3 dorm.,,2 baños,2006,97.00,Canarias,venta,Popular
-134 kW h/m&sup2; año,587032,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,g,2024-07-10 21:32:24,250000,1 (planta baja),Calle Lope de Vega,3 dorm.,,2 baños,1964,107.00,Canarias,venta,De época
-120 kW h/m&sup2; año,582528,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,f,2024-05-15 14:49:16,210000,Baja,C. el Winche,4 dorm.,Sí,2 baños,2004,134.00,Canarias,venta,Popular
-,570698,,es,Santa Cruz De Tenerife,Cruz Del Señor,,2024-03-12 10:53:35,198000,3 (planta media),C. Desiré Dugour,3 dorm.,,,1973,95.00,Canarias,venta,Popular
-"292,0 kWh/m&sup2; año",598730,Independiente,es,Valladolid,Pajarillos ,f,2024-10-31 20:26:06,79900,2,Calle Zorzal,3 dorm.,,1 baño,1970,86.00,Castilla Y León,venta,Popular
-"304,85 kWh/m&sup2; año",587640,,es,Valladolid,Delicias,e,2024-07-01 19:04:55,97500,2 (planta media),C. de San Isidro,4 dorm.,,1 baño,1964,100.00,Castilla Y León,venta,Media
-261 kW h/m&sup2; año,589620,Independiente,es,Valladolid,Pajarillos ,e,2024-10-31 12:37:19,74900,1,Calle Gallo,3 dorm.,,1 baño,1970,78.00,Castilla Y León,venta,Media
-"264,9 kWh/m&sup2; año",594761,,es,Valladolid,La Rondilla,e,2024-09-24 19:50:33,94900,1,Calle Lope de Vega,3 dorm.,Sí,1 baño,1967,83.00,Castilla Y León,venta,Popular
-"281,1 kWh/m&sup2; año",595855,centralizada (Gas),es,Valladolid,Vadillo - Batallas,e,2024-10-16 16:59:13,198000,,Calle Huelgas,4 dorm.,Sí,2 baños,1972,110.00,Castilla Y León,venta,Popular
-"405,3 kW h/m&sup2; año",598033,,es,Valladolid,Arturo Eyries,g,2024-10-25 20:31:19,59900,,Calle Ecuador,3 dorm.,Sí,1 baño,1981,110.00,Castilla Y León,venta,Popular
-"250,9 kWh/m&sup2; año",597523,,es,Valladolid,Centro Ciudad,e,2024-10-30 18:01:08,98000,Media,C. Veinte de Febrero,1 dorm.,,1 baño,1972,94.00,Castilla Y León,venta,Popular
-"314,8 kW h/m&sup2; año",599025,Independiente (Gas),es,Valladolid,Delicias,f,2024-10-28 18:44:09,50000,Alta,C/ Ebro,3 dorm.,Sí,1 baño,1969,69.00,Castilla Y León,venta,Media
-"244,7 kW h/m&sup2; año",599447,Independiente (Gas),es,Valladolid,Delicias,e,2024-10-30 13:48:00,83000,2,C. Celtas Cortos,3 dorm.,Sí,1 baño,1970,70.00,Castilla Y León,venta,Popular
-"104,82 kW h/m&sup2; año",585574,,es,Valladolid,Delicias,e,2024-06-18 18:24:53,65000,Baja,C. Gral. Shelly,3 dorm.,Sí,1 baño,1970,62.00,Castilla Y León,venta,Popular
-142 kW h/m&sup2; año,505770,centralizada (Gas),es,Valladolid,Centro Ciudad,c,2024-10-30 13:19:56,379900,14,P.º Isabel la Catolica,4 dorm.,Sí,2 baños,1973,163.00,Castilla Y León,venta,Señorial
-"95,7 kWh/m&sup2; año",551279,,es,Valladolid,Puente Jardín,e,2024-03-08 20:25:23,156000,1,Calle Villanubla,4 dorm.,,1 baño,1976,154.00,Castilla Y León,venta,Popular
-"222,7 kWh/m&sup2; año",597693,Independiente (Gas),es,Valladolid,Hospital - Universidad,e,2024-10-23 20:47:20,199900,6 (planta alta),C. de Sta. Clara,4 dorm.,,2 baños,1974,125.00,Castilla Y León,venta,Popular
-"284,20 kWh/m&sup2; año",592146,Independiente (Gas),es,Valladolid,La Rondilla,f,2024-08-29 13:03:37,99900,5,Calle de Portillo de Balboa,3 dorm.,,1 baño,1978,90.00,Castilla Y León,venta,Popular
-"390,1 kW h/m&sup2; año",572373,Independiente (Gas),es,Valladolid,La Rondilla,g,2024-08-27 12:41:15,93000,,C. del Amor de Dios,3 dorm.,,1 baño,1969,76.00,Castilla Y León,venta,Popular
-"224,7 kW h/m&sup2; año",598903,,es,Toledo,Palomarejos,e,2024-10-24 13:03:10,59900,,C. Pablo Neruda,,,,1956,37.00,Castilla-La Mancha,venta,Media
-"259,7 kW h/m&sup2; año",599119,"Independiente (Eléctrica, Radiadores)",es,Toledo,Casco Histórico,f,2024-10-28 17:29:57,129990,,C. Plata,1 dorm.,,1 baño,1900,51.00,Castilla-La Mancha,venta,Popular
-"103,9 kWh/m&sup2; año",581943,Independiente (Gas),es,Toledo,Buenavista - Av. Irlanda,d,2024-05-09 10:07:35,304900,1,C. Reino Unido,3 dorm.,,2 baños,1999,120.00,Castilla-La Mancha,venta,Popular
-"178,0 kWh/m&sup2; año",573371,Independiente,es,Toledo,Casco Histórico,e,2024-08-10 11:34:22,130000,,C. Sacramento,3 dorm.,,1 baño,1960,103.00,Castilla-La Mancha,venta,Media
-"130,3 kW h/m&sup2; año",598227,Independiente (Gas),es,Toledo,Polígono S.m. Benquerencia,e,2024-10-24 19:34:39,159900,,C. Laguna de Arcas,3 dorm.,Sí,2 baños,2011,104.00,Castilla-La Mancha,venta,Popular
-"118,7 kW h/m&sup2; año",589323,,es,Toledo,Santa Barbara,e,2024-10-10 13:36:31,114990,3,C. Tejar,3 dorm.,,2 baños,2010,134.00,Castilla-La Mancha,venta,Media
-"90,5 kW h/m&sup2; año",599229,Independiente (Gas),es,Toledo,Polígono S.m. Benquerencia,d,2024-10-25 21:00:15,179900,3,Av. del Río Boladiez,3 dorm.,,2 baños,2007,104.00,Castilla-La Mancha,venta,Media
-"226,2 kWh/m&sup2; año",503021,Independiente (Eléctrica),es,Toledo,Palomarejos,e,2024-10-22 12:35:09,99900,,C. Madre Teresa de Calcuta,3 dorm.,,1 baño,1960,59.00,Castilla-La Mancha,venta,Media
-"125,6 kW h/m&sup2; año",596019,,es,Toledo,Santa Barbara,e,2024-10-23 10:53:20,114990,,C. de los Estudios,2 dorm.,,1 baño,2006,98.00,Castilla-La Mancha,venta,Media
-"151,0 kW h/m&sup2; año",583086,Independiente (Gas),es,Toledo,Avenida De Europa - San Antón - Plaza De Toros,e,2024-05-22 12:23:56,359990,,Av. de Europa,4 dorm.,,3 baños,1991,196.00,Castilla-La Mancha,venta,Media
-"137,4 kW h/m&sup2; año",579310,Independiente (Gas),es,Toledo,Avenida De Europa - San Antón - Plaza De Toros,e,2024-07-31 19:41:45,299900,,C. Huérfanos Cristinos,3 dorm.,Sí,3 baños,2001,160.00,Castilla-La Mancha,venta,Señorial
-85 kWh/m&sup2; año,598270,,es,Toledo,Santa Barbara,d,2024-10-17 19:39:04,114990,2,Paseo de la Rosa,3 dorm.,,1 baño,1980,90.00,Castilla-La Mancha,venta,Media
-110 kWh/m&sup2; año,585277,,es,Toledo,Santa Barbara,e,2024-06-27 19:51:25,194990,4,P.º de la Rosa,5 dorm.,,2 baños,2000,140.00,Castilla-La Mancha,venta,Popular
-"281,1 kWh/m&sup2; año",587263,Independiente (Gas),es,Toledo,Casco Histórico,g,2024-06-26 18:08:04,115000,1,C. de la Merced,2 dorm.,,1 baño,1880,87.00,Castilla-La Mancha,venta,Media
-"119,7 kWh/m&sup2; año",594578,,es,Toledo,Casco Histórico,d,2024-09-16 20:20:44,119990,,Plaza de la Merced,1 dorm.,,1 baño,2008,60.00,Castilla-La Mancha,venta,Popular
-94 kWh/m&sup2; año,582110,,es,Barcelona,Nova Esquerra De L'Eixample (Alta),d,2024-05-10 20:00:12,530000,8 (planta ático),Carrer del Consell de Cent,3 dorm.,Sí,1 baño,1979,79.00,Cataluña,venta,Popular
-293 kWh/m&sup2; año,582471,centralizada (Aéreo Termo),es,Barcelona,Nova Esquerra De L'Eixample (Alta),g,2024-09-25 20:10:02,545000,7 (planta ático),Carrer del Comte Borrell,2 dorm.,Sí,1 baño,1966,90.00,Cataluña,venta,Popular
-,592256,Independiente (Gas),es,Barcelona,Nova Esquerra De L'Eixample (Alta),,2024-09-25 20:09:45,309000,3 (planta media),Carrer de la Diputació,2 dorm.,Sí,1 baño,1976,65.00,Cataluña,venta,Media
-207 kWh/m&sup2; año,597185,,es,Barcelona,Nova Esquerra De L'Eixample (Alta),e,2024-10-10 12:58:53,325000,4 (planta media),Carrer de Rocafort,3 dorm.,,1 baño,1969,83.00,Cataluña,venta,Popular
-,599819,Independiente (Gas),es,Barcelona,La Dreta De L'Eixample,,2024-10-31 19:53:22,540000,3 (planta media),Passeig de Sant Joan,2 dorm.,,1 baño,1940,93.00,Cataluña,venta,Señorial
-170 kW h/m&sup2; año,590445,,es,Barcelona,Plaça De Sants,e,2024-08-05 19:46:48,259000,3,Carrer de Premià,4 dorm.,,1 baño,1910,78.00,Cataluña,venta,Media
-166 kW h/m&sup2; año,598615,,es,Barcelona,Hostafrancs,e,2024-10-21 11:45:28,260000,3 (planta ático),Carrer de la Creu Coberta,4 dorm.,,1 baño,1900,70.00,Cataluña,venta,De época
-999 kW h/m&sup2; año,599799,,es,Barcelona,La Prosperitat,g,2024-10-31 19:50:03,205000,1,Carrer de Pablo Iglesias,,Sí,,1962,66.00,Cataluña,venta,De época
-185 kW h/m&sup2; año,599744,Independiente (Gas),es,Barcelona,Hostafrancs,e,2024-10-31 16:53:22,390000,,Carrer del Príncep Jordi,4 dorm.,,1 baño,1969,127.00,Cataluña,venta,Media
-273 kWh/m&sup2; año,556775,,es,Barcelona,Plaça Maragall,g,2024-08-23 19:01:45,185000,2 (planta media),Carrer de Campo Florido,3 dorm.,,1 baño,1960,81.00,Cataluña,venta,Popular
-136 kWh/m&sup2; año,596730,,es,Barcelona,La Pau,e,2024-10-03 17:49:31,220000,7 (planta alta),Avinguda de Les Corts Catalanes,4 dorm.,Sí,1 baño,1968,81.00,Cataluña,venta,Media
-185 kWh/m&sup2; año,599721,,es,Barcelona,Plaça De Sants,e,2024-10-31 17:33:00,330000,,C/ de Sant Jordi,3 dorm.,,1 baño,1924,79.00,Cataluña,venta,Media
-269 kW h/m&sup2; año,594228,Independiente (Gas),es,Barcelona,Verdun,e,2024-10-31 19:07:27,295000,5,Carrer de Viladrosa,3 dorm.,Sí,1 baño,1968,78.00,Cataluña,venta,Popular
-120 kWh/m&sup2; año,596544,Independiente (Gas),es,Barcelona,Les Corts - Diagonal,e,2024-10-24 20:25:54,390000,4 (planta media),Travessera de les Corts,4 dorm.,Sí,2 baños,1967,82.00,Cataluña,venta,Media
-36 kWh/m&sup2; año,599451,,es,Barcelona,Sants-Montjuic,e,2024-10-31 17:37:46,350000,3 (planta alta),Carrer de Portugalete,4 dorm.,,1 baño,1978,80.00,Cataluña,venta,Media
-"104,09 kWh/m&sup2; año",595459,,es,Tarragona,,e,2024-10-16 10:50:25,145000,4 (planta alta),Carrer de Misericòrdia,3 dorm.,,1 baño,1971,80.00,Cataluña,venta,Media
-19 kWh/m&sup2; año,594867,Independiente,es,Tarragona,Tarragona,c,2024-09-17 13:25:24,50000,7,Avinguda de Ramón y Cajal,3 dorm.,,1 baño,1967,94.00,Cataluña,venta,Media
-106 kW h/m&sup2; año,587883,centralizada (Gas),es,Tarragona,Tarragona,e,2024-07-10 10:59:40,190000,4 (planta media),Carrer Higini Anglès,4 dorm.,Sí,1 baño,1975,112.00,Cataluña,venta,Media
-105 kWh/m&sup2; año,596623,Independiente (Termo Ventilación),es,Tarragona,,e,2024-10-10 17:32:38,175000,1 (planta media),Violant De Hungría,3 dorm.,Sí,2 baños,1994,102.00,Cataluña,venta,Popular
-157 kWh/m&sup2; año,599332,,es,Tarragona,,e,2024-10-28 11:27:11,65000,,Bloc Sant Jordi,2 dorm.,,1 baño,1969,70.00,Cataluña,venta,Media
-150 kW h/m&sup2; año,599334,,es,Tarragona,,e,2024-10-28 11:30:18,60000,,Bloc Sant Mateu,3 dorm.,,,1969,70.00,Cataluña,venta,Media
-103 kW h/m&sup2; año,594501,,es,Tarragona,Torreforta,e,2024-09-17 13:29:50,110000,,C/ Illes Balears,3 dorm.,,1 baño,1970,76.00,Cataluña,venta,Popular
-105 kWh/m&sup2; año,586867,,es,Tarragona,,f,2024-06-28 09:59:03,129000,,Carrer d'en Goya,3 dorm.,,1 baño,1962,80.00,Cataluña,venta,Media
-270 kWh/m&sup2; año,584050,Independiente (Gas),es,Madrid,Alto Extremadura - Paseo Extremadura,e,2024-06-27 20:56:45,240000,1 (planta media),C/ de los Sagrados Corazones,3 dorm.,Sí,2 baños,1961,76.00,Comunidad De Madrid,venta,Media
-187 kWh/m&sup2; año,599864,,es,Madrid,,e,2024-10-31 20:50:00,80000,1 (planta media),Calle Pico de la Maliciosa,1 dorm.,,,1930,27.00,Comunidad De Madrid,venta,Popular
-248 kWh/m&sup2; año,597087,,es,Madrid,Valdezarza,e,2024-10-30 13:28:06,330000,2,Calle de Valderrey,3 dorm.,Sí,1 baño,1965,79.00,Comunidad De Madrid,venta,Media
-"242,7 kW h/m&sup2; año",599247,Independiente,es,Madrid,Moratalaz,e,2024-10-31 18:58:19,215000,1,C. de Arroyo de Fontarrón,2 dorm.,,1 baño,1970,58.00,Comunidad De Madrid,venta,Popular
-,599069,,es,Madrid,Puerta Toledo,,2024-10-31 19:29:50,599900,,C/ de la Ribera de Curtidores,,Sí,2 baños,1993,144.00,Comunidad De Madrid,venta,Media
-,597719,centralizada (A Gasoil),es,Madrid,Ciudad De Los Angeles,,2024-10-14 18:52:22,285000,1,Calle Arama,3 dorm.,,2 baños,1979,112.00,Comunidad De Madrid,venta,Media
-380 kWh/m&sup2; año,597882,Independiente (Gas),es,Madrid,Aluche,g,2024-10-31 19:10:29,210000,,Calle los Yébenes,2 dorm.,Sí,1 baño,1965,65.00,Comunidad De Madrid,venta,Popular
-350 kWh/m&sup2; año,599463,centralizada (Radiadores),es,Madrid,Aluche,f,2024-10-31 10:49:42,275000,,Calle de Ocaña,2 dorm.,Sí,1 baño,1970,71.00,Comunidad De Madrid,venta,Popular
-341 kWh/m&sup2; año,598292,Independiente (Eléctrica),es,Madrid,Moratalaz,g,2024-10-21 09:15:25,259000,3,C. del Corregidor Juan Francisco de Luján,3 dorm.,,1 baño,1962,72.00,Comunidad De Madrid,venta,Popular
-196 kWh/m&sup2; año,588797,centralizada (A Gasoil),es,Madrid,Moratalaz,e,2024-07-18 19:03:18,379000,2,C. de Arroyo de Fontarrón,4 dorm.,Sí,2 baños,1967,128.00,Comunidad De Madrid,venta,Señorial
-"160,8 kWh/m&sup2; año",597760,,es,Madrid,Valdezarza,e,2024-10-31 12:22:22,265000,3 (planta media),Calle azuaga,4 dorm.,,1 baño,1950,72.00,Comunidad De Madrid,venta,Media
-"159,5 kW h/m&sup2; año",596240,Independiente (Gas),es,Madrid,Valdezarza,e,2024-10-22 18:53:49,260000,3 (planta media),Calle azuaga,4 dorm.,,2 baños,1950,72.00,Comunidad De Madrid,venta,Media
-"173,6 kWh/m&sup2; año",584843,Independiente (Gas),es,Madrid,Valdezarza,e,2024-06-04 18:14:21,280000,,Calle de Ofelia Nieto,3 dorm.,,1 baño,1950,72.00,Comunidad De Madrid,venta,Popular
-346 kW h/m&sup2; año,478099,centralizada (Gas),es,Madrid,Plaza De España,g,2023-12-18 10:15:32,650000,1 (planta media),Calle Ventura Rodríguez,3 dorm.,Sí,2 baños,1978,135.00,Comunidad De Madrid,venta,Media
-,583928,,es,Madrid,Plaza De España,,2024-05-29 17:17:27,1000000,,Calle Ponciano,8 dorm.,Sí,2 baños,1969,229.00,Comunidad De Madrid,venta,Popular
-,599370,Independiente (Eléctrica),es,Alicante,Benalua,,2024-10-31 19:47:38,129000,3 (planta media),Calle Deportista Ángel Aznar,2 dorm.,,1 baño,1962,94.00,Comunidad Valenciana,venta,Popular
-118 kW h/m&sup2; año,599838,,es,Alicante,Pla - Carolinas,e,2024-10-31 18:07:46,105000,1,C. San Pablo,3 dorm.,,1 baño,1964,60.00,Comunidad Valenciana,venta,Media
-118 kW h/m&sup2; año,595468,,es,Alicante,Pla - Carolinas,e,2024-09-23 13:57:12,85000,3 (planta media),C. Enrique Monsonís Domingo,2 dorm.,,1 baño,1966,55.00,Comunidad Valenciana,venta,Popular
-38 kWh/m&sup2; año,594072,centralizada (Eléctrica),es,Alicante,Pla - Carolinas,e,2024-09-19 18:10:06,156000,,Calle Lérida,3 dorm.,,2 baños,1982,91.00,Comunidad Valenciana,venta,Media
-,597517,,es,Alicante,Benalua,,2024-10-28 10:01:41,195000,2,Plaza Navarro Rodrigo,,,,1963,92.00,Comunidad Valenciana,venta,Señorial
-,585923,,es,Alicante,Benalua,,2024-07-26 19:10:35,165000,Media,Calle Alberola,3 dorm.,,2 baños,1974,112.00,Comunidad Valenciana,venta,Popular
-,592877,Independiente,es,Alicante,Benalua,,2024-08-27 12:30:02,159000,2,Calle San Agatangelo,3 dorm.,,1 baño,1993,74.00,Comunidad Valenciana,venta,Popular
-,599524,,es,Alicante,Pla - Carolinas,,2024-10-29 10:46:09,85000,,C. Dr. Sapena,3 dorm.,,,1962,73.00,Comunidad Valenciana,venta,Media
-,597331,,es,Alicante,Tómbola,,2024-10-28 20:15:34,135000,Baja,Pl. Mediterraneo,3 dorm.,Sí,1 baño,1979,74.00,Comunidad Valenciana,venta,Media
-,599483,,es,Alicante,Altozano - Campoamor,,2024-10-28 20:14:57,129000,1,C. Francisco Carratalá Cernuda,3 dorm.,,,1984,72.00,Comunidad Valenciana,venta,Popular
-,599170,,es,Alicante,Altozano - Campoamor,,2024-10-28 20:15:00,129000,1 (planta baja),Pl. San Juan de Dios,3 dorm.,,,1964,89.00,Comunidad Valenciana,venta,Media
-,598531,,es,Alicante,Babel - La Florida,,2024-10-28 10:08:10,109000,1 (planta media),C. León XIII,2 dorm.,,1 baño,1962,60.00,Comunidad Valenciana,venta,Popular
-215 kW h/m&sup2; año,595893,,es,Alicante,Babel - La Florida,d,2024-10-28 10:17:33,104999,Planta baja,C. Jaime Niñoles,3 dorm.,,1 baño,1960,57.00,Comunidad Valenciana,venta,Señorial
-203 kWh/m&sup2; año,598294,,es,Alicante,Virgen Del Remedio,g,2024-10-21 18:17:05,75000,,Carrer Granada,2 dorm.,,2 baños,1975,75.00,Comunidad Valenciana,venta,Media
-,586883,,es,Alicante,San Blas,,2024-06-21 10:48:21,179900,,Calle Callosa de Segura,3 dorm.,Sí,2 baños,1975,92.00,Comunidad Valenciana,venta,Popular
-,598859,,es,Valencia,Monteolivete - Waskman,,2024-10-25 20:05:52,120000,4 (planta alta),C/ de Montitxelvo,2 dorm.,,1 baño,1961,53.00,Comunidad Valenciana,venta,Popular
-,595903,,es,Valencia,Nuevo Benicalap - Ciudad Fallera,,2024-10-07 18:12:04,155000,,C. Lorenzo Saiz,2 dorm.,,,2011,75.00,Comunidad Valenciana,venta,Popular
-,599655,,es,Valencia,Jesus,,2024-10-31 14:30:21,187500,4,Calle Jerónima Galés,2 dorm.,Sí,1 baño,1967,79.00,Comunidad Valenciana,venta,Media
-,599828,Independiente (Gas),es,Valencia,Jesus,,2024-10-31 14:31:15,197500,3,Calle Juan de Garay,2 dorm.,Sí,1 baño,1973,99.00,Comunidad Valenciana,venta,Media
-,594574,,es,Valencia,Cabañal - Canyamelar,,2024-09-24 12:41:02,335000,4 (planta alta),Calle De La Reina,3 dorm.,Sí,1 baño,1957,98.00,Comunidad Valenciana,venta,Señorial
-,599472,,es,Valencia,Cabañal - Canyamelar,,2024-10-31 13:52:25,165000,2 (planta media),C/ d'Osset,3 dorm.,,1 baño,1972,73.00,Comunidad Valenciana,venta,Media
-,596963,,es,Valencia,Monteolivete - Waskman,,2024-10-14 19:33:49,190000,,Carrer de Planas,2 dorm.,,1 baño,1946,60.00,Comunidad Valenciana,venta,Popular
-218 kWh/m&sup2; año,598521,,es,Valencia,Camins Al Grau,g,2024-10-27 11:12:44,186900,,Carrer dels Lleons,3 dorm.,Sí,1 baño,1967,79.00,Comunidad Valenciana,venta,Media
-203 kW h/m&sup2; año,521196,,es,Valencia,Camins Al Grau,g,2024-10-27 11:12:51,217000,2 (planta media),Carrer de Peris Brell,2 dorm.,Sí,1 baño,1957,86.00,Comunidad Valenciana,venta,Señorial
-,592139,,es,Valencia,El Grau,,2024-09-24 09:45:40,270000,3 (planta media),Calle Isaac Peral,4 dorm.,,2 baños,1980,103.00,Comunidad Valenciana,venta,Media
-,595101,,es,Valencia,La Malvarrosa,,2024-09-23 09:47:12,230000,Baja,Pintor Ferrandis,3 dorm.,Sí,1 baño,1976,82.00,Comunidad Valenciana,venta,Media
-,597794,,es,Valencia,Nuevo Benicalap - Ciudad Fallera,,2024-10-24 16:34:23,107500,,Calle Regino Mas,3 dorm.,,1 baño,1969,66.00,Comunidad Valenciana,venta,Señorial
-,598719,,es,Valencia,Campanar - Nuevo Centro,,2024-10-24 15:55:21,245000,,Carrer del Monestir de Poblet,3 dorm.,Sí,1 baño,1965,87.00,Comunidad Valenciana,venta,Señorial
-221 kWh/m&sup2; año,505779,,es,Valencia,L'Olivereta - Av Del Cid,g,2022-03-24 19:16:41,160000,1 (planta baja),Carrer de Manolo Taberner,4 dorm.,,1 baño,1967,85.00,Comunidad Valenciana,venta,Popular
-,591502,,es,Valencia,Torrefiel,,2024-08-06 17:35:09,160000,,Carrer de Jacomart,3 dorm.,,1 baño,1977,87.00,Comunidad Valenciana,venta,Señorial
-,584884,,es,Badajoz,San Fernando,,2024-06-06 13:11:08,82900,2 (planta media),Argüello Carvajal Teologo Siglo XVII,3 dorm.,,1 baño,1972,90.00,Extremadura,venta,Popular
-,596265,,es,Badajoz,San Fernando,,2024-09-30 13:57:06,90000,,Av. Felipe Trigo,3 dorm.,Sí,2 baños,2000,113.00,Extremadura,venta,Media
-,597104,,es,Badajoz,Ciudad Jardin,,2024-10-21 11:55:34,220000,1 (planta media),C. San Isidro,5 dorm.,,,1999,150.00,Extremadura,venta,Popular
-,599564,,es,Badajoz,San Fernando,,2024-10-29 19:13:24,92500,7 (planta alta),C. Gabriel y Galán,3 dorm.,,2 baños,1979,84.00,Extremadura,venta,Popular
-,591339,,es,Badajoz,San Fernando,,2024-10-29 17:58:36,92500,2 (planta media),Cardenal Cisneros,2 dorm.,Sí,2 baños,2006,72.00,Extremadura,venta,Popular
-,598948,,es,Badajoz,San Fernando,,2024-10-25 19:28:39,35000,,C. Estremoz,3 dorm.,,1 baño,1975,75.00,Extremadura,venta,Media
-,598741,,es,Badajoz,Estacion De Autobuses,,2024-10-22 11:54:37,92500,Baja,C. Suecia,3 dorm.,,1 baño,1999,90.00,Extremadura,venta,Popular
-,598738,,es,Badajoz,Ciudad Jardin,,2024-10-22 13:52:57,87500,1 (planta media),C. Suecia,4 dorm.,,2 baños,1999,100.00,Extremadura,venta,Popular
-,596581,,es,Badajoz,Estacion De Autobuses,,2024-10-18 17:35:09,89900,Media,El Mimbrero,3 dorm.,,1 baño,1990,90.00,Extremadura,venta,Popular
-,597527,,es,Badajoz,San Roque,,2024-10-22 10:06:56,178900,,C. Santo Cristo de la Paz,4 dorm.,,2 baños,1994,130.00,Extremadura,venta,Señorial
-,597877,,es,Badajoz,Corte De Peleas,,2024-10-16 13:51:21,199900,,Corte de Peleas,4 dorm.,,2 baños,2002,122.00,Extremadura,venta,Señorial
-,598346,,es,Badajoz,Ciudad Jardin,,2024-10-18 17:28:24,92500,Media,Cardenal Cisneros,2 dorm.,,,2006,72.00,Extremadura,venta,De época
-,597443,,es,Badajoz,Ciudad Jardin,,2024-10-09 20:11:57,269000,1 (planta media),Av. María Auxiliadora,3 dorm.,,,2008,132.00,Extremadura,venta,Popular
-,595074,,es,Badajoz,San Fernando,,2024-09-18 19:21:42,102500,,C. Pintor Barjola,3 dorm.,Sí,1 baño,1976,94.00,Extremadura,venta,Media
-,585547,,es,Badajoz,San Roque,,2024-06-10 19:13:23,145500,,C. de José Macón,2 dorm.,,1 baño,1998,111.00,Extremadura,venta,Popular
-"116,9 kWh/m&sup2; año",590855,Independiente (Gas),es,Bilbao,Txurdinaga,e,2024-07-30 13:59:34,335000,8 (planta alta),Gabriel Aresti Hiribidea,3 dorm.,,2 baños,1981,105.00,País Vasco,venta,Popular
-173 kW h/m&sup2; año,599702,Independiente (Gas),es,Bilbao,Otxarkoaga,e,2024-10-30 17:46:41,260000,Alta,Gárate Kalea,3 dorm.,,2 baños,2002,88.00,País Vasco,venta,Popular
-,598659,,es,Bilbao,Txurdinaga,,2024-10-21 18:41:37,205000,4 (planta media),Julian Gaiarre Hiribidea,2 dorm.,Sí,1 baño,1995,75.00,País Vasco,venta,Popular
-1000 kWh/m&sup2; año,598595,Independiente (Gas),es,Bilbao,Basarrate - Bolueta,c,2024-10-29 18:59:23,239000,Baja,Pintor Losada,2 dorm.,,2 baños,2000,83.00,País Vasco,venta,Media
-189 kW h/m&sup2; año,599275,centralizada (Gas),es,Bilbao,Rekalde,e,2024-10-28 13:43:10,142826,Baja,Orbegozo Matilde Kalea,1 dorm.,Sí,1 baño,2008,55.00,País Vasco,venta,Media
-,598472,centralizada,es,Bilbao,Santutxu,,2024-10-28 13:20:41,325000,Media,Miraflores Etorbidea,3 dorm.,,2 baños,1977,96.00,País Vasco,venta,Popular
-137 kW h/m&sup2; año,599187,centralizada (Gas),es,Bilbao,Basarrate - Bolueta,e,2024-10-25 17:21:40,324990,,Miraflores Etorbidea,3 dorm.,,2 baños,1977,94.00,País Vasco,venta,De época
-,595047,Independiente (Eléctrica),es,Bilbao,Solokoetxe,,2024-09-19 18:39:35,185000,4,Zabalbide Kalea,3 dorm.,Sí,1 baño,1949,63.00,País Vasco,venta,Popular
-183 kW h/m&sup2; año,598447,Independiente (Eléctrica),es,Bilbao,Atxuri,e,2024-10-21 10:44:24,285000,3,Atxuri Kalea,3 dorm.,,2 baños,1965,135.00,País Vasco,venta,Popular
-"188,8 kW h/m&sup2; año",596303,,es,Bilbao,La Peña,e,2024-09-30 19:12:33,180000,Alta,Bo. Olatxu,4 dorm.,Sí,,1984,105.00,País Vasco,venta,Popular
-,595938,,es,Bilbao,Basarrate - Bolueta,,2024-09-30 12:59:53,161000,2 (planta baja),Bonaparte Luis Luciano Kalea,3 dorm.,,1 baño,1956,62.00,País Vasco,venta,Media
-,595183,,es,Almería,,,2024-09-23 14:04:40,49990,,C. Memorias,2 dorm.,,,1930,71.00,Andalucía,venta,Popular
-,592202,centralizada,es,Almería,Almería - Centro Histórico,,2024-08-27 17:08:36,130000,,C. Eduardo VII,,Sí,2 baños,2003,102.00,Andalucía,venta,Popular
-,572805,,es,Almería,Los Molinos - El Puche - Torrecardenas,,2024-10-22 11:04:51,29900,1 (planta baja),C. Escuela de los Molinos,,,,1920,55.00,Andalucía,venta,Popular
-162 kW h/m&sup2; año,596706,,es,Almería,,e,2024-10-03 16:12:05,474900,Baja,Calle C.andalucia,,,2 baños,1991,336.00,Andalucía,venta,Señorial
-,582550,,es,Almería,Los Molinos - El Puche - Torrecardenas,,2024-06-19 18:05:26,298000,,C. Costa Canaria,4 dorm.,,3 baños,1992,206.00,Andalucía,venta,Popular
-,597237,,es,Almería,Los Molinos - El Puche - Torrecardenas,,2024-10-08 11:48:47,85000,,Carrera del Mami,,,1 baño,1961,71.00,Andalucía,venta,Popular
-,595362,centralizada,es,Almería,Almería - Centro Histórico,,2024-10-07 18:10:10,49900,Baja,C. Hipócrates,,,1 baño,1930,55.00,Andalucía,venta,Popular
-,591575,,es,Almería,Almería - Centro Histórico,,2024-08-27 12:01:00,59999,Baja,Calle Rosario,,,,1975,50.00,Andalucía,venta,Popular
-,589220,centralizada,es,Almería,Almería - Centro Histórico,,2024-08-27 10:42:19,130000,Baja,C. Eduardo VII,,,2 baños,1987,86.00,Andalucía,venta,Popular
-,594360,,es,Almería,Los Molinos - El Puche - Torrecardenas,,2024-09-13 12:35:13,154900,3,C. Lijar,3 dorm.,,1 baño,2001,115.00,Andalucía,venta,Media
-"176,91 kWh/m&sup2; año",596052,,es,Almería,La Cañada,e,2024-09-27 19:34:05,139000,,C. Ave Fénix,4 dorm.,,2 baños,2001,141.00,Andalucía,venta,Popular
-,591118,centralizada,es,Almería,Almería - Centro Histórico,,2024-08-27 11:56:04,49999,,Calle Reducto,,,1 baño,1936,54.00,Andalucía,venta,Popular
-"168,6 kWh/m&sup2; año",519153,,es,Almería,,e,2024-02-01 13:05:15,185000,,C. Vera,6 dorm.,,2 baños,1967,194.00,Andalucía,venta,Media
-,590288,centralizada,es,Almería,Almería - Centro Histórico,,2024-08-27 11:23:43,116000,,C. Eduardo VII,,,2 baños,1962,157.00,Andalucía,venta,Popular
-,589016,,es,Almería,,,2024-08-14 11:34:35,79990,Baja,C. Cámaras,,,,1935,118.00,Andalucía,venta,Señorial
-,588806,,es,Cádiz,Puerta Tierra,,2024-07-11 18:20:43,310000,Baja,C. Sancti Petri,5 dorm.,,,1969,118.00,Andalucía,venta,Media
-,551406,,es,Cordoba,Sector Sur - Campo La Verdad,,2023-07-11 19:30:51,85000,,Monseñor Juan Manuel Font del riego,4 dorm.,,2 baños,1950,190.00,Andalucía,venta,Media
-,563341,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-10-02 10:20:05,88000,,C. Medea,2 dorm.,,1 baño,1950,66.00,Andalucía,venta,Media
-,590043,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-07-23 19:36:34,29900,Baja,C. Rey Don Pelayo,3 dorm.,,1 baño,1950,85.00,Andalucía,venta,Media
-,595661,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-09-27 12:14:49,69900,,Calle Leovigildo,2 dorm.,,1 baño,2011,57.00,Andalucía,venta,Media
-,597875,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-10-17 18:54:45,69900,Baja,Alfonso Onceno,2 dorm.,,1 baño,2017,85.00,Andalucía,venta,Media
-,598181,,es,Cordoba,Santa Rosa,,2024-10-16 13:18:45,49900,Baja,C. el Encinar,,,,1982,129.00,Andalucía,venta,Popular
-,594684,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-09-17 12:41:58,240000,,C. Horno,3 dorm.,,3 baños,2000,118.00,Andalucía,venta,Popular
-,595001,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-09-18 20:13:59,109000,,C. Secunda Romana,3 dorm.,,2 baños,2004,86.00,Andalucía,venta,Media
-,574359,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-10-01 17:55:15,59800,Baja,Calle Yosuf,3 dorm.,,1 baño,1953,60.00,Andalucía,venta,Media
-,570949,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-10-01 17:55:18,145000,,C. Rey Don Pelayo,2 dorm.,,2 baños,1949,144.00,Andalucía,venta,Popular
-,594295,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-09-13 12:42:30,290000,,C/ Aguilares,3 dorm.,,3 baños,2009,84.00,Andalucía,venta,Señorial
-,593345,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-09-05 12:09:06,97500,,Calle la Rábida,2 dorm.,,1 baño,1960,97.00,Andalucía,venta,Media
-,590044,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-07-23 19:39:27,35000,Baja,C. Rey Don Pelayo,3 dorm.,,,1950,85.00,Andalucía,venta,Media
-,583415,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-05-21 17:51:12,168000,,C. Cdad. de Carmona,5 dorm.,,2 baños,1991,189.00,Andalucía,venta,Media
-,590244,,es,Cordoba,Sector Sur - Campo La Verdad,,2024-07-23 13:07:11,79990,,C. Pompeya Paulina,3 dorm.,,1 baño,1900,65.00,Andalucía,venta,Media
-"311,2 kW h/m&sup2; año",594278,,es,Granada,Chana - Cerillo - Maracena,f,2024-10-31 19:49:10,114900,,C. Pozo,3 dorm.,,1 baño,1970,114.00,Andalucía,venta,Popular
-,598642,,es,Granada,Chana - Villarejo - Barriada De La Cruz,,2024-10-31 16:54:18,499000,3,C. Jesús Fandila,,,,1975,210.00,Andalucía,venta,Popular
-"311,8 kW h/m&sup2; año",533122,,es,Granada,Albayzín,f,2023-06-28 20:05:04,399900,,Callejon Almona Albayzin,4 dorm.,,2 baños,1900,234.00,Andalucía,venta,Popular
-"375,28 kWh/m&sup2; año",592706,Independiente,es,Granada,Albayzín,g,2024-09-02 20:28:07,402000,,Cta. Aljibe de Trillo,3 dorm.,,3 baños,1910,108.00,Andalucía,venta,Popular
-,589327,,es,Granada,Beiro - Plaza De Toros - Triunfo,,2024-07-31 11:49:09,249900,1,Calle Cristo De La  Yedra 15,3 dorm.,,1 baño,1970,80.00,Andalucía,venta,Popular
-"205,13 kWh/m&sup2; año",337288,,es,Granada,Genil,e,2024-08-27 12:15:06,249000,,C. Javier Tortosa,4 dorm.,,3 baños,1997,126.00,Andalucía,venta,Popular
-,596454,centralizada (Radiadores),es,Granada,Zaidín,,2024-10-07 19:50:53,447900,,Torre De Alquiza,,,1 baño,1994,195.00,Andalucía,venta,Popular
-"217,18 kW h/m&sup2; año",589322,,es,Granada,Albayzín,e,2024-07-23 12:04:55,79900,,C. Acequia de Aynadamar,2 dorm.,,1 baño,1950,76.00,Andalucía,venta,Media
-,583606,centralizada (Gas),es,Granada,Zaidín,,2024-05-29 13:02:31,470000,3 (planta media),C. Torre de las Rocas,4 dorm.,,,2006,203.00,Andalucía,venta,Señorial
-"261,47 kWh/m&sup2; año",591523,centralizada (Radiadores),es,Granada,Albayzín,e,2024-10-09 18:11:45,299900,,C. Luis Heredia Maya,3 dorm.,,3 baños,2002,173.00,Andalucía,venta,De época
-"798,51 kWh/m&sup2; año",541529,,es,Granada,Beiro - Plaza De Toros - Triunfo,g,2024-01-01 18:44:01,180000,3 (planta media),C. Portería de Sta. Paula,5 dorm.,,1 baño,1910,178.00,Andalucía,venta,Popular
-"255,12 kWh/m&sup2; año",595961,,es,Jaén,,f,2024-10-07 19:17:12,77500,,Calle Sta. Cruz,2 dorm.,,2 baños,2000,90.00,Andalucía,venta,Señorial
-,555412,,es,Jaén,Jaén,,2024-10-28 14:12:36,23500,,C. Bobadilla Baja,,,2 baños,1960,109.00,Andalucía,venta,Media
-,593413,,es,Jaén,Jaén,,2024-09-06 11:53:20,119000,,Carretera de Arbuniel,5 dorm.,,2 baños,1994,10000.00,Andalucía,venta,Media
-"278,42 kW h/m&sup2; año",586796,,es,Jaén,,e,2024-06-26 11:14:21,37000,,C. Castillo de Jaén,3 dorm.,,,1900,94.00,Andalucía,venta,Media
-,579105,,es,Jaén,,,2024-04-23 11:28:07,18500,,C. Vacas,,,1 baño,1965,136.00,Andalucía,venta,Media
-"357,7 kW h/m&sup2; año",582481,,es,Jaén,,f,2024-05-13 13:12:29,47000,,C. Llana de San Juan,3 dorm.,,1 baño,1940,143.00,Andalucía,venta,De época
-"279,40 kW h/m&sup2; año",585416,,es,Jaén,,e,2024-06-28 17:23:32,45500,,C. Elvin,4 dorm.,,2 baños,1940,222.00,Andalucía,venta,De época
-"437,29 kW h/m&sup2; año",589632,,es,Jaén,Jaén,f,2024-07-18 10:49:46,47500,,C. Hornos Mírez,3 dorm.,,1 baño,1955,116.00,Andalucía,venta,Popular
-"352,4 kW h/m&sup2; año",593484,Independiente (Gas),es,Jaén,,f,2024-09-06 11:50:34,85500,,C. Bobadilla Alta,3 dorm.,,2 baños,2007,62.00,Andalucía,venta,Popular
-"109,03 kWh/m&sup2; año",567909,,es,Jaén,,c,2023-12-20 11:58:48,112000,,Calle Compañía,4 dorm.,,2 baños,1950,278.00,Andalucía,venta,Media
-,581302,,es,Jaén,,,2024-05-13 18:38:21,44900,,Calle Santiago,2 dorm.,,1 baño,1940,50.00,Andalucía,venta,Media
-"301,91 kW h/m&sup2; año",365749,,es,Jaén,,e,2022-11-28 11:00:15,93000,,Callejón los Mártires,3 dorm.,,1 baño,1950,167.00,Andalucía,venta,Media
-,585126,,es,Jaén,,,2024-06-07 10:42:21,47900,,C. Positillo,3 dorm.,,1 baño,1940,163.00,Andalucía,venta,De época
-,588665,,es,Jaén,,,2024-09-05 19:25:24,87200,,Calle arrastradero,,,2 baños,1950,163.00,Andalucía,venta,Media
-,573321,,es,Jaén,Jaén,,2024-02-15 13:03:30,77500,,C. la Corona,2 dorm.,,3 baños,1964,69.00,Andalucía,venta,Media
-"93,99 kWh/m&sup2; año",591827,,es,Málaga,Marmoles - Bailen - Trinidad,d,2024-08-30 19:32:17,365000,,C. Eduardo Bayo,4 dorm.,,2 baños,1944,173.00,Andalucía,venta,Media
-"110,5 kW h/m&sup2; año",599456,,es,Málaga,Pedregalejo,e,2024-10-29 11:49:02,310000,,Calle bolivia,2 dorm.,,1 baño,1936,65.00,Andalucía,venta,De época
-"105,3 kW h/m&sup2; año",589280,,es,Málaga,Jardín Botánico - Sagrada Família,d,2024-07-16 19:09:24,120000,,Calle Dr. Carrión Pérez,2 dorm.,,2 baños,1968,96.00,Andalucía,venta,Media
-"93,8 kWh/m&sup2; año",598327,Independiente,es,Málaga,Puerto De La Torre,d,2024-10-18 19:28:36,350000,2 (planta media),C. Balzac,3 dorm.,,2 baños,1990,172.00,Andalucía,venta,Popular
-"93,99 kWh/m&sup2; año",572249,,es,Málaga,Eugenio Gross - Echevarria,d,2024-02-02 20:08:24,349000,,C. Eloy Sebastián Fraile,4 dorm.,,2 baños,1944,185.00,Andalucía,venta,Media
-"55,3 kW h/m&sup2; año",597752,,es,Málaga,Puerto De La Torre,c,2024-10-18 14:01:15,360000,,C. Gavilán,3 dorm.,,2 baños,1998,275.00,Andalucía,venta,Popular
-"93,99 kW h/m&sup2; año",588362,,es,Málaga,Eugenio Gross - Echevarria,d,2024-07-05 10:50:55,262000,,C. Manuel Aparicio,3 dorm.,,1 baño,1954,78.00,Andalucía,venta,Media
-"128,5 kWh/m&sup2; año",589416,,es,Málaga,Ortega Y Gasset,e,2024-10-25 11:10:34,378000,Baja,C. Irlanda,3 dorm.,,3 baños,2005,102.00,Andalucía,venta,Media
-"74,7 kWh/m&sup2; año",593102,,es,Málaga,Ortega Y Gasset,d,2024-10-25 11:10:02,369000,,C. Río Távora,4 dorm.,,3 baños,1997,214.00,Andalucía,venta,Popular
-"81,12 kWh/m&sup2; año",592218,Independiente,es,Málaga,Puerto De La Torre,e,2024-09-03 11:35:03,250000,,Fortunata y Jacinta,3 dorm.,,1 baño,2007,119.00,Andalucía,venta,Media
-"100,1 kWh/m&sup2; año",594783,,es,Málaga,Ciudad Jardin Norte,e,2024-10-11 09:09:31,289900,Baja,C. Santillana,4 dorm.,,3 baños,1986,270.00,Andalucía,venta,Media
-,595127,,es,Málaga,Carlos De Haya,,2024-09-19 19:50:52,380000,,Calle Tambre,3 dorm.,,2 baños,1991,146.00,Andalucía,venta,Media
-"188,66 kWh/m&sup2; año",590046,,es,Málaga,El Palo,f,2024-08-05 19:39:07,350000,,Av. Salvador Allende,4 dorm.,,2 baños,1936,84.00,Andalucía,venta,Media
-"49,1 kW h/m&sup2; año",593330,,es,Málaga,Ortega Y Gasset,c,2024-09-10 17:47:33,550000,Baja,C. Irlanda,3 dorm.,,2 baños,2007,130.00,Andalucía,venta,Popular
-171 kWh/m&sup2; año,533924,,es,Sevilla,Cerro Del Aguila,e,2024-10-02 17:55:51,179990,Planta baja,Calle alvarez benavides,2 dorm.,,1 baño,1952,140.00,Andalucía,venta,Media
-,597337,,es,Sevilla,Torreblanca,,2024-10-10 17:32:36,126500,Baja,Calle Torrepalma,,,2 baños,1984,173.00,Andalucía,venta,Media
-"259,49 kWh/m&sup2; año",593270,,es,Sevilla,Cerro Del Aguila,g,2024-09-03 13:13:42,289990,2 (planta planta baja),C. Diamantino García Acosta,2 dorm.,,1 baño,1994,244.00,Andalucía,venta,Señorial
-,581171,,es,Sevilla,Palmete - La Negrilla,,2024-10-08 13:47:19,120000,,Calle Puebla de Cazalla,3 dorm.,,2 baños,1980,158.00,Andalucía,venta,Popular
-,595348,,es,Sevilla,Palmete - La Negrilla,,2024-10-08 13:46:36,117260,,Calle Serenidad,3 dorm.,,2 baños,1984,135.00,Andalucía,venta,Media
-,599608,Independiente,es,Sevilla,Palmete - La Negrilla,,2024-10-30 10:46:57,110000,,Calle Generosidad,,,2 baños,1981,139.00,Andalucía,venta,Popular
-,599292,,es,Sevilla,Oliva - Tiro De Linea,,2024-10-29 20:07:38,200000,,Calle Écija,,,1 baño,1945,78.00,Andalucía,venta,Popular
-,598539,,es,Sevilla,Torreblanca,,2024-10-22 19:16:00,59900,Baja,Calle Torrejoncillo,,,1 baño,1971,89.00,Andalucía,venta,De época
-,593912,,es,Sevilla,Torreblanca,,2024-09-11 18:04:29,157000,Baja,Calle Torrenueva,,,2 baños,1975,294.00,Andalucía,venta,Media
-"180,75 kW h/m&sup2; año",597213,,es,Sevilla,Macarena - León XIII - Pio XII,e,2024-10-17 17:41:16,399999,,Calle Almensilla,5 dorm.,,2 baños,1959,145.00,Andalucía,venta,Popular
-,594172,,es,Sevilla,Torreblanca,,2024-09-11 17:36:41,129000,2,Calle Torresandino,,,2 baños,1970,225.00,Andalucía,venta,Señorial
-"245,13 kW h/m&sup2; año",579034,,es,Sevilla,Su Eminencia ,f,2024-04-16 17:35:16,49900,,Calle  Virgen de la Saletta,2 dorm.,,1 baño,1955,57.00,Andalucía,venta,Señorial
-,598309,,es,Sevilla,Pino Montano - Los Oficios Y Mares,,2024-10-17 13:23:21,255000,,Calle Linaria,4 dorm.,,2 baños,2010,200.00,Andalucía,venta,Popular
-"197,87 kW h/m&sup2; año",549014,,es,Sevilla,Cerro Del Aguila,e,2023-06-07 18:09:46,325000,2,Calle Párroco Antonio Gómez Villalobos,5 dorm.,,3 baños,1970,232.00,Andalucía,venta,Popular
-,593723,,es,Sevilla,Bellavista - Jardines De Hercules,,2024-10-23 10:54:42,109900,,C. Borja,3 dorm.,,1 baño,1950,76.00,Andalucía,venta,Media
-,577080,Independiente (Gas),es,Zaragoza,Las Fuentes,,2024-03-20 20:33:08,290000,,C. de José Ramírez,5 dorm.,,3 baños,1995,250.00,Aragón,venta,Señorial
-,591933,Independiente,es,Zaragoza,Casetas,,2024-09-19 19:25:28,257000,,Cl. Mayor,3 dorm.,,2 baños,1990,178.00,Aragón,venta,Media
-"212,5 kW h/m&sup2; año",592229,Independiente (Radiadores),es,Zaragoza,Picarral,e,2024-09-16 19:01:08,366000,,Calle Monte Perdido,,,2 baños,1993,320.00,Aragón,venta,Popular
-,507776,,es,Zaragoza,San Jose,,2024-04-10 19:14:13,210000,,Av. de San José,4 dorm.,,1 baño,1950,124.00,Aragón,venta,Popular
-"131,8 kW h/m&sup2; año",575371,Independiente (A Gasoil),es,Zaragoza,Miralbueno,c,2024-03-06 17:03:52,390000,Baja,Camino del Pilón,4 dorm.,,3 baños,1998,248.00,Aragón,venta,Media
-102 kWh/m&sup2; año,596969,,es,Santa Cruz De Tenerife,La Cuesta,g,2024-10-14 14:08:31,170000,,Calle el Tanque,3 dorm.,,2 baños,1962,100.00,Canarias,venta,Popular
-150 kWh/m&sup2; año,597361,Independiente (Solar),es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,g,2024-10-16 11:11:30,110000,,Pasaje Draguillo,3 dorm.,,1 baño,1989,160.00,Canarias,venta,Popular
-"74,50 kWh/m&sup2; año",595792,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,e,2024-10-11 20:20:12,670000,,Pje. de Gaspar Fernández,7 dorm.,,4 baños,1999,380.00,Canarias,venta,Señorial
-159 kWh/m&sup2; año,597209,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,g,2024-10-16 11:54:16,160000,,C. Tangara,9 dorm.,,3 baños,1968,297.00,Canarias,venta,Media
-,595737,,es,Santa Cruz De Tenerife,Santa Cruz De Tenerife,,2024-10-23 21:57:49,72000,2,C. Antonio Saro,,,,1980,90.00,Canarias,venta,Popular
-98 kW h/m&sup2; año,590005,,es,Santa Cruz De Tenerife,Cruz Del Señor,g,2024-10-24 14:13:13,129900,,Calle Isla de La Gomera,3 dorm.,,1 baño,1961,112.00,Canarias,venta,Señorial
-132 kW h/m&sup2; año,594483,,es,Santa Cruz De Tenerife,La Salle,g,2024-10-11 20:49:38,239200,,C. Castellon de la Plana,,,1 baño,1939,90.00,Canarias,venta,Media
-81 kW h/m&sup2; año,599605,Independiente (Geotérmica),es,Valladolid,La Victoria ,c,2024-10-31 17:44:02,159900,Baja,Don Juan Bravo,4 dorm.,,2 baños,2009,140.00,Castilla Y León,venta,Popular
-"362,00 kW h/m&sup2; año",597383,Independiente (Gas),es,Valladolid,Santa Clara ,e,2024-10-29 18:17:02,114900,,C. Valoria,3 dorm.,,1 baño,1958,91.00,Castilla Y León,venta,Popular
-,596363,,es,Valladolid,La Victoria ,,2024-09-30 20:50:02,95000,Baja,Subida Fuente el Sol,3 dorm.,,,1940,145.00,Castilla Y León,venta,Popular
-412 kW h/m&sup2; año,597944,,es,Valladolid,Pajarillos ,f,2024-10-21 20:46:35,69900,Baja,Rincon Del Esgueva,3 dorm.,,1 baño,1936,60.00,Castilla Y León,venta,Media
-"498,2 kWh/m&sup2; año",575545,,es,Valladolid,Barrio España ,g,2024-03-15 13:27:02,154900,Baja,C. Alcarria,4 dorm.,,2 baños,1960,150.00,Castilla Y León,venta,Popular
-,594542,,es,Valladolid,Barrio España ,,2024-09-23 12:43:25,63900,Baja,C. Alcarria,,,1 baño,1940,96.00,Castilla Y León,venta,Popular
-176 kWh/m&sup2; año,590165,Independiente (Eléctrica),es,Valladolid,Parquesol,d,2024-09-20 17:25:26,299900,,Calle Mariano de los Cobos,4 dorm.,,3 baños,1988,243.00,Castilla Y León,venta,Señorial
-155 kWh/m&sup2; año,585048,Independiente (Gas),es,Valladolid,Parquesol,d,2024-06-08 13:06:06,285000,,Calle Compositor Facundo Viña,4 dorm.,,3 baños,2001,174.00,Castilla Y León,venta,Media
-"233,95 kWh/m&sup2; año",579879,"Independiente (Chimenea, A Gasoil)",es,Valladolid,La Rubia,g,2024-05-03 19:04:01,299900,71 (planta planta baja),Avenida Cedro,5 dorm.,,3 baños,1980,284.00,Castilla Y León,venta,Media
-250 kWh/m&sup2; año,593138,Independiente,es,Valladolid,La Rubia,e,2024-08-29 19:10:53,179000,,Calle Hoyo de la arena,4 dorm.,,2 baños,1995,241.00,Castilla Y León,venta,Popular
-351 kWh/m&sup2; año,558966,Independiente (Gas),es,Valladolid,Parquesol,e,2023-09-22 15:28:31,399900,,C. Compositor Facundo Viña,5 dorm.,,3 baños,2006,276.00,Castilla Y León,venta,Señorial
-98 kWh/m&sup2; año,585985,Independiente (Gas),es,Valladolid,Parquesol,c,2024-07-01 19:28:08,399900,,Calle de Miriam Blasco,4 dorm.,,3 baños,1998,234.00,Castilla Y León,venta,Señorial
-,552256,,es,Valladolid,4 Marzo - La Farola,,2024-02-22 11:51:58,75000,Planta baja,Calle del Sol,3 dorm.,,1 baño,1952,71.00,Castilla Y León,venta,Popular
-,518282,,es,Valladolid,4 Marzo - La Farola,,2023-01-24 12:46:22,84900,,Calle del Sol,,,,1928,114.00,Castilla Y León,venta,Popular
-"228,5 kWh/m&sup2; año",598563,Independiente (A Gasoil),es,Toledo,Avenida De Europa - San Antón - Plaza De Toros,e,2024-10-31 11:32:08,245990,,C. Perala,4 dorm.,,2 baños,1965,100.00,Castilla-La Mancha,venta,Media
-"335,1 kW h/m&sup2; año",595928,Independiente,es,Toledo,Casco Histórico,f,2024-10-04 19:39:54,229990,,Cta. San Justo,7 dorm.,,2 baños,1880,214.00,Castilla-La Mancha,venta,De época
-"190,2 kW h/m&sup2; año",596993,Independiente (Gas),es,Toledo,Buenavista - Av. Irlanda,e,2024-10-11 19:18:21,319999,,C. Rodrigo de la Fuente,3 dorm.,,,2005,190.00,Castilla-La Mancha,venta,Popular
-"179,7 kWh/m&sup2; año",563769,,es,Toledo,Casco Histórico,e,2023-11-30 16:57:52,120000,,Bajada Barco,3 dorm.,,2 baños,1900,108.00,Castilla-La Mancha,venta,Media
-"303,3 kW h/m&sup2; año",589603,,es,Toledo,Casco Histórico,e,2024-08-10 10:26:10,85000,,C. de la Retama,1 dorm.,,1 baño,1900,52.00,Castilla-La Mancha,venta,De época
-"405,90 kW h/m&sup2; año",596462,Independiente (Eléctrica),es,Toledo,Casco Histórico,g,2024-10-15 16:39:46,159990,,C. Cristo de la Calavera,2 dorm.,,2 baños,1880,133.00,Castilla-La Mancha,venta,De época
-"335,1 kW h/m&sup2; año",595210,Independiente (A Gasoil),es,Toledo,Casco Histórico,f,2024-09-24 20:37:56,210000,,C. San Cipriano,3 dorm.,,1 baño,1900,226.00,Castilla-La Mancha,venta,Media
-"145,45 kW h/m&sup2; año",578943,,es,Toledo,Casco Histórico,e,2024-07-25 17:33:03,74900,,Callejón Recogidas,6 dorm.,,3 baños,1880,283.00,Castilla-La Mancha,venta,Media
-110 kW h/m&sup2; año,577549,,es,Toledo,Santa Barbara,f,2024-04-10 13:04:13,109990,,C. Cuestas,,,,1930,347.00,Castilla-La Mancha,venta,De época
-"178,8 kW h/m&sup2; año",571056,,es,Toledo,Casco Histórico,e,2024-07-09 09:53:32,104990,,Calle de la Sal,3 dorm.,,1 baño,1970,105.00,Castilla-La Mancha,venta,Popular
-"149,5 kW h/m&sup2; año",575927,,es,Toledo,Casco Histórico,e,2024-03-12 11:27:10,139990,,C. Cristo de la Calavera,12 dorm.,,1 baño,1900,324.00,Castilla-La Mancha,venta,Media
-126 kWh/m&sup2; año,531941,,es,Barcelona,Zona Franca,d,2022-12-27 12:48:47,305000,,Carrer L'Aviador Ruiz de Alda,4 dorm.,,3 baños,1912,215.00,Cataluña,venta,De época
-168 kWh/m&sup2; año,591377,,es,Barcelona,El Guinardó,e,2024-08-05 13:36:04,599000,Baja,Carrer de Llobet I Vall-llosera,5 dorm.,,2 baños,1957,224.00,Cataluña,venta,Popular
-220 kW h/m&sup2; año,595106,,es,Barcelona,Verdun,e,2024-09-18 20:29:11,575000,,Carrer de Viladrosa,6 dorm.,,4 baños,1994,526.00,Cataluña,venta,Popular
-200 kW h/m&sup2; año,588513,centralizada (Radiadores),es,Barcelona,Porta,e,2024-07-06 12:53:17,480000,,Carrer de Santanyí,7 dorm.,,2 baños,1954,206.00,Cataluña,venta,Señorial
-,588111,,es,Barcelona,Horta,,2024-07-11 13:22:28,650000,Baja,Carrer dels Consorts Sans Bernet,,,,2024,107.00,Cataluña,venta,Popular
-450 kW h/m&sup2; año,582546,,es,Barcelona,Plaça Maragall,g,2024-05-13 17:54:22,280000,1 (planta baja),Passatge Compañyia,4 dorm.,,1 baño,1930,150.00,Cataluña,venta,Media
-264 kW h/m&sup2; año,587754,centralizada,es,Tarragona,,g,2024-07-10 13:22:14,255000,,Camí de Terres Cavades,4 dorm.,,2 baños,1985,250.00,Cataluña,venta,Media
-189 kWh/m&sup2; año,591752,Independiente (Gas),es,Madrid,Alameda De Osuna,e,2024-08-19 12:14:56,1350000,,P.º de la Alameda de Osuna,4 dorm.,,2 baños,1980,822.00,Comunidad De Madrid,venta,Señorial
-272 kWh/m&sup2; año,535085,"centralizada (Chimenea, Gas)",es,Madrid,Montecarmelo,e,2023-01-30 10:51:04,810000,Media,C. Arbucias,3 dorm.,,4 baños,2003,236.00,Comunidad De Madrid,venta,Popular
-,596097,,es,Madrid,Barajas,,2024-10-16 09:39:23,180000,,Calle de las Poderosas,2 dorm.,,1 baño,1900,79.00,Comunidad De Madrid,venta,Señorial
-,599084,,es,Madrid,Carabanchel Alto,,2024-10-25 11:00:04,450000,,C. Piqueñas,3 dorm.,,2 baños,1934,260.00,Comunidad De Madrid,venta,Popular
-"282,3 kWh/m&sup2; año",573269,Independiente (Gas),es,Madrid,Salvador - Arturo Soria,e,2024-07-10 11:00:00,1300000,,C. de Teseo,4 dorm.,,5 baños,1977,339.00,Comunidad De Madrid,venta,Señorial
-50 kW h/m&sup2; año,593286,,es,Madrid,Villaverde Alto,d,2024-09-27 10:55:10,390000,Baja,Plaza parvillas,4 dorm.,,2 baños,1956,144.00,Comunidad De Madrid,venta,Media
-306 kWh/m&sup2; año,598256,Independiente,es,Madrid,,e,2024-10-16 20:07:06,429000,,C. de Gomeznarro,,,1 baño,2003,90.00,Comunidad De Madrid,venta,Popular
-,596758,Independiente (Gas),es,Madrid,Madrid,,2024-10-09 12:56:41,719000,Media,Calle Ribera del Manzanares,3 dorm.,,1 baño,1940,103.00,Comunidad De Madrid,venta,Media
-598 kWh/m&sup2; año,584104,,es,Madrid,Ciudad Pegaso,d,2024-05-30 09:39:21,500000,,C. Nueve,4 dorm.,,1 baño,1959,156.00,Comunidad De Madrid,venta,Media
-50 kW h/m&sup2; año,585403,,es,Madrid,Villaverde Alto,d,2024-09-24 18:15:44,159000,,C. Alberto Palacios,,,1 baño,1930,62.00,Comunidad De Madrid,venta,Popular
-,590065,,es,Madrid,Aravaca,,2024-07-31 12:58:33,900000,Baja,C. Fernando Oriol,4 dorm.,,4 baños,1978,265.00,Comunidad De Madrid,venta,Popular
-"328,3 kWh/m&sup2; año",594065,Independiente (Gas),es,Madrid,,f,2024-09-11 19:55:12,1890000,,C. del Santo Ángel,7 dorm.,,,2003,454.00,Comunidad De Madrid,venta,Media
-,590404,,es,Madrid,San Blas - Canillejas,,2024-07-30 23:59:55,730000,,Calle Versalles,3 dorm.,,3 baños,2002,192.00,Comunidad De Madrid,venta,Popular
-344 kWh/m&sup2; año,579293,,es,Madrid,San Diego,g,2024-04-11 17:31:45,117000,Baja,C. Carlos Aurioles,2 dorm.,,,1978,30.00,Comunidad De Madrid,venta,Popular
-,576560,,es,Madrid,,,2024-07-02 17:48:27,490000,Baja,C. Castromonte,3 dorm.,,2 baños,1958,80.00,Comunidad De Madrid,venta,Popular
-,587412,,es,Alicante,San Blas,,2024-06-27 18:19:27,290000,,C. Magistral Segura,3 dorm.,,2 baños,1950,228.00,Comunidad Valenciana,venta,Señorial
-238 kWh/m&sup2; año,583944,,es,Alicante,Los Ángeles,e,2024-05-24 18:56:00,249900,,C. Río Misisipi,2 dorm.,,1 baño,1980,147.00,Comunidad Valenciana,venta,Media
-,590166,,es,Valencia,Fonteta - Hnos Maristas,,2024-07-24 10:11:17,380000,,Ctra. del Pi,6 dorm.,,2 baños,1890,2400.00,Comunidad Valenciana,venta,Señorial
-,588676,,es,Badajoz,San Roque,,2024-10-31 20:25:38,35000,,C. Herradura,5 dorm.,,1 baño,1999,175.00,Extremadura,venta,Señorial
-,596593,,es,Badajoz,Estacion De Autobuses,,2024-10-31 11:11:32,24900,,C. San Vicente de Paul,,,1 baño,1990,100.00,Extremadura,venta,Popular
-,560052,,es,Badajoz,San Roque,,2024-03-01 10:20:59,41900,,C. Caballero Villarroel,5 dorm.,,2 baños,1960,161.00,Extremadura,venta,Señorial
-,565362,,es,Badajoz,San Roque,,2024-10-31 09:52:15,42000,,C. Caballero Villarroel,,,2 baños,1960,80.00,Extremadura,venta,Señorial
-,597088,,es,Badajoz,Ciudad Jardin,,2024-10-07 20:04:52,244900,Baja,Rafael Gil Gonzalez,,,,2016,250.00,Extremadura,venta,Popular
-,597373,,es,Badajoz,Ciudad Jardin,,2024-10-29 10:43:58,89900,1 (planta media),C. Bonifacio Gil,,,,1972,82.00,Extremadura,venta,Popular
-,598880,,es,Badajoz,San Fernando,,2024-10-25 19:32:04,710000,,Calle de Ntra. Sra. de Guadalupe,6 dorm.,,4 baños,2000,280.00,Extremadura,venta,Popular
-,598566,,es,Badajoz,Ciudad Jardin,,2024-10-21 11:35:14,86000,Baja,C. Bélgica,4 dorm.,,2 baños,1999,110.00,Extremadura,venta,Media
-,596806,,es,Badajoz,San Roque,,2024-10-24 11:18:18,74900,,C. de José Macón,3 dorm.,,,1975,91.00,Extremadura,venta,Popular
-,595469,,es,Badajoz,San Fernando,,2024-10-22 20:34:44,109900,,C. Gurugú,8 dorm.,,5 baños,1974,419.00,Extremadura,venta,Media
-,596936,,es,Badajoz,Estacion De Autobuses,,2024-10-21 17:18:44,147500,,El Fresno,5 dorm.,,1 baño,1999,165.00,Extremadura,venta,Popular
-,598436,,es,Badajoz,San Fernando,,2024-10-18 17:29:15,96000,,Calle Jalifa,4 dorm.,,2 baños,1968,100.00,Extremadura,venta,Media
-,595142,,es,Badajoz,San Fernando,,2024-09-20 13:55:10,57000,Baja,C. San Marcial,3 dorm.,,2 baños,1974,142.00,Extremadura,venta,Popular
-,564139,,es,Badajoz,San Roque,,2024-10-14 20:19:35,137000,,C. Lopez de Tovar,4 dorm.,,1 baño,1965,160.00,Extremadura,venta,Señorial
-"146,3 kW h/m&sup2; año",596942,,es,Badajoz,San Roque,d,2024-10-16 12:57:38,89900,,C. Herradura,2 dorm.,,1 baño,2007,148.00,Extremadura,venta,Media
-164 kW h/m&sup2; año,520676,centralizada (Gas),es,Granada,Cartuja - Traumatología,e,2024-10-31 11:41:01,780,,C. Minerva,3 dorm.,Sí,1 baño,2000,85.00,Andalucía,alquiler,Media
-"85,47 kWh/m&sup2; año",564311,,es,Granada,Cartuja - Traumatología,e,2024-10-31 11:40:55,1400,,Cam. de Alfacar,5 dorm.,Sí,2 baños,1980,85.00,Andalucía,alquiler,Señorial
-,591678,,es,Granada,Beiro - Plaza De Toros - Triunfo,,2024-08-22 20:53:09,109000,Semisótano,C. Real de Cartuja,2 dorm.,,1 baño,2000,67.00,Andalucía,alquiler,Popular
-"72,32 kWh/m&sup2; año",596594,centralizada,es,Málaga,Puerto De La Torre,c,2024-10-07 10:39:22,2300,,Calle Vesta,3 dorm.,,2 baños,2020,215.00,Andalucía,alquiler,Media
-"154,8 kW h/m&sup2; año",597960,Independiente,es,Málaga,Puerto De La Torre,e,2024-10-18 19:28:39,1700,,Calle Ortosa,3 dorm.,,2 baños,2000,103.00,Andalucía,alquiler,Popular
-,599224,,es,Málaga,Miraflores De Los Angeles,,2024-10-28 12:16:48,150,-4 (planta sótano),Calle Ntra. Sra. de los Clarines,,,,2010,26.00,Andalucía,alquiler,Popular
-,564429,,es,Málaga,La Paz - Puerta Blanca,,2024-10-28 11:54:28,750,Baja,P.º Tanima,3 dorm.,,,1960,83.00,Andalucía,alquiler,Popular
-"20,44 kW h/m&sup2; año",597338,,es,Málaga,Martiricos,b,2024-10-09 10:31:56,1600,19 (planta alta),Paseo Martiricos,2 dorm.,,,2023,70.00,Andalucía,alquiler,Popular
-,596737,,es,Málaga,Carlos De Haya,,2024-10-08 12:58:51,1100,,C. México,3 dorm.,Sí,,1998,89.00,Andalucía,alquiler,Popular
-,596646,,es,Málaga,Las Delicias - Giron - Parque Mediterraneo,,2024-10-03 09:55:24,600,Planta baja,C. Victoria Mérida y Piret,2 dorm.,,,1983,67.00,Andalucía,alquiler,Popular
-,588974,,es,Málaga,Nueva Malaga - Las Chapas,,2024-07-30 11:09:38,600,,C/ José Iturbi,1 dorm.,,,1992,142.00,Andalucía,alquiler,Señorial
-,594165,Independiente,es,Málaga,Carlos De Haya,,2024-09-12 09:29:48,4000,Planta baja,Av. de Carlos Haya,,,4 baños,1998,254.00,Andalucía,alquiler,Media
-,594692,,es,Sevilla,El Plantinar - Tiro De Linea,,2024-09-17 09:24:57,1000,6,C. Ulía,,,,1960,85.00,Andalucía,alquiler,Popular
-"132,28 kWh/m&sup2; año",346477,Independiente (Eléctrica),es,Sevilla,Cerro Del Aguila,e,2020-05-27 13:39:20,1200,Baja,Calle Afán de Ribera,,,2 baños,2003,161.00,Andalucía,alquiler,Popular
-,576402,,es,Sevilla,Cerro Del Aguila,,2024-03-12 19:24:56,530,Baja,Calle Aragon,,,1 baño,1975,54.00,Andalucía,alquiler,Media
-,588980,,es,Sevilla,El Plantinar - Tiro De Linea,,2024-07-10 19:25:37,70,1 (planta media),C. Rector Candil,,,,2005,12.00,Andalucía,alquiler,Media
-,599204,,es,Sevilla,Arroyo - Santa Justa,,2024-10-25 11:24:00,650,Baja,C. San Joaquín,,,,1969,96.00,Andalucía,alquiler,De época
-,592421,centralizada (Paneles Solares),es,Sevilla,Su Eminencia ,,2024-08-20 19:38:43,950,Planta baja,C. Nicolás Díaz Benjumea,2 dorm.,Sí,1 baño,2023,80.00,Andalucía,alquiler,Señorial
-,574301,,es,Sevilla,Su Eminencia ,,2024-05-27 17:40:34,950,1 (planta media),C. Nicolás Díaz Benjumea,2 dorm.,Sí,,2023,60.00,Andalucía,alquiler,Señorial
-"135,65 kW h/m&sup2; año",593234,,es,Sevilla,Cerro Del Aguila,e,2024-08-30 20:35:51,420,Media,C. Afán de Ribera,1 dorm.,,2 baños,2001,185.00,Andalucía,alquiler,Popular
-,595385,,es,Sevilla,Cerro Del Aguila,,2024-09-23 20:48:19,320,Baja,C. Párroco Antonio Gómez Villalobos,1 dorm.,,1 baño,1970,14.00,Andalucía,alquiler,Popular
-,589589,,es,Sevilla,Amate - Rochelambert,,2024-08-06 10:41:00,800,,Calle Puerto de la Molina,,,,1975,84.00,Andalucía,alquiler,Popular
-,589306,,es,Sevilla,Carretera De Carmona - San Diego - Las Naciones,,2024-08-20 10:54:46,450,Baja,Cortijo de la Albarrana,,,1 baño,2002,24.00,Andalucía,alquiler,Media
-,583429,,es,Sevilla,Macarena - La Salle - Begoña,,2024-05-23 12:15:19,650,Baja,Av. de Pino Montano,,,2 baños,1940,55.00,Andalucía,alquiler,Popular
-,513789,Independiente (Eléctrica),es,Sevilla,Macarena Golondrinas - Sanchez Pijuan,,2023-12-21 19:11:08,500,Baja,Plaza Dr. Barraquer,,,1 baño,1973,60.00,Andalucía,alquiler,Popular
-"388,45 kWh/m&sup2; año",586238,,es,Sevilla,Cerro Del Aguila,f,2024-06-18 10:12:28,700,Baja,C. José María de Pereda,,,1 baño,1978,50.00,Andalucía,alquiler,Media
-,599554,Independiente (Gas),es,Zaragoza,Casetas,,2024-10-29 13:14:15,650,1 (planta alta),Av. de Logroño,2 dorm.,Sí,1 baño,2008,85.00,Aragón,alquiler,Media
-,504523,centralizada (Eléctrica),es,Zaragoza,Arrabal,,2022-03-10 20:26:00,1500,Baja,Calle de Pano y Ruata,2 dorm.,,1 baño,1977,65.00,Aragón,alquiler,Media
-,550093,centralizada (Gas),es,Zaragoza,Parque Roma,,2023-06-16 16:47:25,75,Baja,Urbanización Parque Roma,,Sí,,1979,10.00,Aragón,alquiler,Señorial
-141 kW h/m&sup2; año,592125,,es,Zaragoza,Delicias,f,2024-08-21 10:50:51,650,Baja,C. de las Delicias,,,,1980,81.00,Aragón,alquiler,Media
-"247,1 kWh/m&sup2; año",192640,,es,Zaragoza,Actur,c,2024-06-25 14:04:53,700,Baja,C. Pedro Saputo,5 dorm.,,2 baños,2005,100.00,Aragón,alquiler,Media
-292 kWh/m&sup2; año,522775,,es,Zaragoza,Las Fuentes,c,2024-09-27 11:40:13,400,Baja,Salvador minguijon,,,1 baño,1961,39.00,Aragón,alquiler,Popular
-,582506,,es,Zaragoza,Miralbueno,,2024-05-13 13:34:27,35,,Calle Ibón de Catieras,,Sí,,2005,13.00,Aragón,alquiler,Media
-"305,30 kWh/m&sup2; año",353114,,es,Zaragoza,Actur,d,2023-04-03 17:29:25,2260,,Calle Pablo Ruiz Picasso,,,1 baño,1984,199.00,Aragón,alquiler,Popular
-"212,5 kWh/m&sup2; año",593105,,es,Zaragoza,Picarral,e,2024-08-29 17:29:38,1200,Alta,C. de Jesús y María,3 dorm.,,2 baños,1990,300.00,Aragón,alquiler,Señorial
-"296,00 kW h/m&sup2; año",548628,,es,Zaragoza,Actur,f,2024-07-20 11:45:47,375,Baja,Calle Poeta Rosalía de Castro,,,,2000,58.00,Aragón,alquiler,Media
-"271,8 kWh/m&sup2; año",570646,,es,Zaragoza,Arrabal,d,2024-01-19 19:45:30,950,,Plaza San Gregorio,,,1 baño,1944,85.00,Aragón,alquiler,De época
-"1333,38 kWh/m&sup2; año",503468,centralizada (Eléctrica),es,Zaragoza,Arrabal,d,2022-03-02 19:49:50,480,Planta baja,Calle Mariano Turmo,,,1 baño,1990,101.00,Aragón,alquiler,Popular
-,554135,,es,Zaragoza,Casetas,,2024-03-06 10:44:20,400,Baja,C. Domingo Legua Rudilla,,,1 baño,1970,153.00,Aragón,alquiler,Media
-,318805,,es,Zaragoza,Almozara,,2023-12-26 10:51:01,450,,Calle Reino,1 dorm.,,,1969,125.00,Aragón,alquiler,Media
-,215134,,es,Zaragoza,Actur,,2024-06-25 13:04:46,800,Baja,"Calle Iglesias, Pablo",,,,2004,235.00,Aragón,alquiler,Media
-"186,66 kWh/m&sup2; año",571671,,es,Valladolid,La Rubia,e,2024-01-29 20:10:46,650,,Paseo de Zorrilla,2 dorm.,Sí,1 baño,1965,66.00,Castilla Y León,alquiler,Popular
-210 kW h/m&sup2; año,598632,Independiente,es,Valladolid,La Rubia,e,2024-10-21 17:56:44,730,,Calle del Final,2 dorm.,Sí,1 baño,1990,78.00,Castilla Y León,alquiler,Popular
-"614,2 kW h/m&sup2; año",571622,,es,Valladolid,4 Marzo - La Farola,e,2024-10-21 20:37:07,550,,Calle del Arzobispo Marcelo González,,,2 baños,1960,110.00,Castilla Y León,alquiler,Popular
-,582018,,es,Valladolid,Hospital Militar,,2024-05-21 19:45:03,300,Baja,Calle Capuchinos,,,1 baño,1941,71.00,Castilla Y León,alquiler,Media
-,597823,,es,Valladolid,Pajarillos ,,2024-10-14 13:42:45,90,Sótano,Calle Urraca,,,,1983,15.00,Castilla Y León,alquiler,Popular
-197 kWh/m&sup2; año,596559,Independiente (Gas),es,Valladolid,Parquesol,e,2024-10-02 11:38:27,850,5,Calle Manuel Azaña,3 dorm.,Sí,2 baños,2003,140.00,Castilla Y León,alquiler,Señorial
-,590638,,es,Valladolid,4 Marzo - La Farola,,2024-08-02 19:49:49,450,Planta baja,Calle Falla,,,1 baño,1960,58.00,Castilla Y León,alquiler,Popular
-,569791,,es,Valladolid,Villa Del Prado,,2024-01-12 20:20:33,35,-1 (planta planta baja),Monasterio santa maria de moreruela,,,,2006,24.00,Castilla Y León,alquiler,Popular
-,577026,,es,Valladolid,La Rubia,,2024-04-04 18:04:03,350,,Calle Dr. Moreno,2 dorm.,,1 baño,1978,46.00,Castilla Y León,alquiler,Popular
-,579077,,es,Valladolid,La Rubia,,2024-04-09 18:16:56,600,,Calle Dr. Moreno,4 dorm.,,1 baño,1972,183.00,Castilla Y León,alquiler,Popular
-305 kWh/m&sup2; año,573462,Independiente (Aéreo Termo),es,Valladolid,Parquesol,d,2024-02-14 17:42:50,1100,Baja,C. Prof. Adolfo Miaja de la Muela,1 dorm.,,2 baños,1996,120.00,Castilla Y León,alquiler,Popular
-,578296,,es,Valladolid,Parquesol,,2024-04-02 20:59:52,65,Sótano,C. Prof. Adolfo Miaja de la Muela,1 dorm.,,,1990,34.00,Castilla Y León,alquiler,Popular
-,570739,,es,Valladolid,Huerta Del Rey,,2024-02-07 20:24:45,40,-1 (planta planta baja),Calle del Monasterio Sta. Isabel,,,,2007,20.00,Castilla Y León,alquiler,Media
-,572967,,es,Valladolid,Delicias,,2024-02-27 19:39:29,330,,C. Gerona,,,1 baño,1990,25.00,Castilla Y León,alquiler,Media
-125 kWh/m&sup2; año,598124,,es,Toledo,Santa Barbara,d,2024-10-25 12:44:47,700,2 (planta media),Av. de Santa Bárbara,2 dorm.,,,2007,66.00,Castilla-La Mancha,alquiler,Media
-"242,42 kW h/m&sup2; año",503200,centralizada (Gas),es,Toledo,Polígono S.m. Benquerencia,f,2024-10-08 12:33:45,750,,Calle Guadarrama,3 dorm.,Sí,1 baño,1980,85.00,Castilla-La Mancha,alquiler,Media
-"161,8 kW h/m&sup2; año",598189,,es,Toledo,Casco Histórico,e,2024-10-18 20:29:54,550,Baja,Bajada Antequeruela,,,1 baño,1991,50.00,Castilla-La Mancha,alquiler,Media
-"271,3 kWh/m&sup2; año",589442,,es,Toledo,Casco Histórico,g,2024-07-15 20:29:31,750,2,C. Miguel de Cervantes,3 dorm.,Sí,3 baños,1950,147.00,Castilla-La Mancha,alquiler,Media
-"335,1 kWh/m&sup2; año",526593,Independiente (Gas),es,Toledo,Casco Histórico,f,2024-09-10 19:11:30,700,,C. Carreras San Sebastián,3 dorm.,,2 baños,1970,86.00,Castilla-La Mancha,alquiler,Media
-"89,0 kW h/m&sup2; año",588355,,es,Toledo,Polígono S.m. Benquerencia,d,2024-07-05 10:24:40,450,Baja,Av. del Río Boladiez,1 dorm.,,,1977,70.00,Castilla-La Mancha,alquiler,Media
-"130,3 kW h/m&sup2; año",570727,,es,Toledo,Polígono S.m. Benquerencia,e,2024-01-31 21:12:52,400,Baja,C. Río Alberche,,,1 baño,1995,60.00,Castilla-La Mancha,alquiler,Popular
-304 kWh/m&sup2; año,549784,,es,Barcelona,La Sagrada Familia,f,2023-06-17 14:13:53,1690,,C/ de Padilla,2 dorm.,,1 baño,1951,59.00,Cataluña,alquiler,Media
-,589966,,es,Barcelona,La Sagrada Familia,,2024-07-24 18:07:22,1200,Planta baja,Carrer de Lepant,1 dorm.,,1 baño,1953,88.00,Cataluña,alquiler,Media
-169 kWh/m&sup2; año,340463,,es,Barcelona,Poble Sec,e,2020-02-05 20:25:41,1400,,Carrer de la Concòrdia,3 dorm.,Sí,1 baño,1936,69.00,Cataluña,alquiler,Media
-99 kW h/m&sup2; año,591720,,es,Barcelona,El Guinardó,g,2024-10-30 11:11:55,2300,,Av. de la Mare de Déu de Montserrat,,,1 baño,1998,252.00,Cataluña,alquiler,Popular
-103 kWh/m&sup2; año,590802,,es,Barcelona,Sant Andreu Centre,c,2024-07-31 11:41:22,1500,Baja,C/ Gran de Sant Andreu,,,,1970,183.00,Cataluña,alquiler,Media
-,599574,,es,Barcelona,Sant Antoni,,2024-10-29 19:24:54,2300,4 (planta alta),Carrer de Villarroel,4 dorm.,,1 baño,1900,91.00,Cataluña,alquiler,Señorial
-141 kWh/m&sup2; año,580289,centralizada (Gas),es,Barcelona,La Sagrada Familia,e,2024-04-19 20:03:43,1690,3 (planta media),Carrer de Mallorca,2 dorm.,Sí,2 baños,1924,78.00,Cataluña,alquiler,Media
-130 kWh/m&sup2; año,563277,,es,Barcelona,La Barceloneta,e,2024-10-28 15:57:35,900,,Carrer de la Vila Joiosa,1 dorm.,,1 baño,1900,30.00,Cataluña,alquiler,Popular
-197 kWh/m&sup2; año,596922,,es,Barcelona,La Barceloneta,d,2024-10-04 18:13:41,840,,Carrer de la Maquinista,,,,1900,45.00,Cataluña,alquiler,Media
-205 kW h/m&sup2; año,573687,,es,Barcelona,La Barceloneta,c,2024-10-28 19:05:11,800,Baja,Pg. de Joan de Borbó,,,,1800,9.00,Cataluña,alquiler,Media
-,346799,Independiente (Termo Ventilación),es,Barcelona,La Barceloneta,,2023-11-13 17:04:09,750,Alta,Calle pescadors,,,1 baño,1930,33.00,Cataluña,alquiler,Popular
-,591010,,es,Barcelona,Antiga Esquerra De L'Eixample (Alta),,2024-09-16 14:00:17,4800,,Gran via de les corts catalanes,,,1 baño,1900,409.00,Cataluña,alquiler,Media
-259 kW h/m&sup2; año,596917,,es,Barcelona,La Barceloneta,g,2024-10-04 18:20:00,1800,3 (planta media),Passeig de Joan de Borbó Comte de Barcelona,1 dorm.,Sí,1 baño,1800,56.00,Cataluña,alquiler,Media
-,599081,,es,Barcelona,Raval,,2024-10-24 20:08:09,1800,,Carrer de Lancaster,,,,1841,105.00,Cataluña,alquiler,Popular
-217 kW h/m&sup2; año,246171,,es,Barcelona,La Barceloneta,f,2022-06-27 18:02:36,800,2 (planta media),Carrer del Comte de Santa Clara,1 dorm.,,1 baño,1940,35.00,Cataluña,alquiler,Popular
-,599462,,es,Madrid,Argüelles,,2024-10-29 11:56:27,1200,Semisótano,Santa Cruz de Marcenado,,,1 baño,1940,61.00,Comunidad De Madrid,alquiler,Media
-"195,4 kWh/m&sup2; año",599419,Independiente (Eléctrica),es,Madrid,,e,2024-10-28 17:48:49,1500,,Calle Mota del Cuervo,4 dorm.,,2 baños,1970,105.00,Comunidad De Madrid,alquiler,Popular
-260 kWh/m&sup2; año,583211,Independiente,es,Madrid,Alameda De Osuna,e,2024-06-07 09:52:02,850,,C. del Balandro,,,1 baño,1973,57.00,Comunidad De Madrid,alquiler,Popular
-176 kW h/m&sup2; año,599682,,es,Madrid,Ciudad Pegaso,d,2024-10-31 10:59:08,900,Baja,Av. Séptima,1 dorm.,,1 baño,2002,42.00,Comunidad De Madrid,alquiler,Media
-119 kW h/m&sup2; año,594404,Independiente (Gas),es,Madrid,Eugenia De Montijo - Colonia De La Prensa,d,2024-09-17 11:18:21,1190,2 (planta media),C. Marqués de Casa Jiménez,2 dorm.,,2 baños,2004,89.00,Comunidad De Madrid,alquiler,Popular
-,599176,,es,Madrid,Barrio Concepcion,,2024-10-30 21:09:19,1150,,Virgen del Coro,,,,1956,71.00,Comunidad De Madrid,alquiler,Popular
-,308869,,es,Madrid,Cuatro Caminos,,2023-05-20 13:29:28,1600,,Calle Dulcinea,,,1 baño,1950,60.00,Comunidad De Madrid,alquiler,Media
-326 kW h/m&sup2; año,598174,,es,Madrid,Usera,d,2024-10-30 18:53:01,580,Baja,C. de Hermenegildo Bielsa,,,,1956,50.00,Comunidad De Madrid,alquiler,Media
-304 kW h/m&sup2; año,497411,,es,Madrid,Usera,f,2024-10-30 18:52:27,900,,C. Matilde Gayo,1 dorm.,,,1956,63.00,Comunidad De Madrid,alquiler,Popular
-393 kWh/m&sup2; año,596720,centralizada (Radiadores),es,Madrid,Lacoma - Peñagrande ,g,2024-10-16 14:11:35,1100,4 (planta alta),Calle Cadalso de los Vidrios,3 dorm.,,1 baño,1957,55.00,Comunidad De Madrid,alquiler,Popular
-393 kWh/m&sup2; año,596704,centralizada (Radiadores),es,Madrid,Lacoma - Peñagrande ,g,2024-10-16 14:14:46,1150,,Calle Cadalso de los Vidrios,,,1 baño,1957,55.00,Comunidad De Madrid,alquiler,Popular
-2072 kWh/m&sup2; año,597537,,es,Madrid,Barrio Concepcion,e,2024-10-21 11:19:18,1200,,Calle Aristoteles,,,1 baño,1967,80.00,Comunidad De Madrid,alquiler,Señorial
-402 kW h/m&sup2; año,555550,,es,Madrid,Lacoma - Peñagrande ,e,2024-10-30 09:52:21,650,Baja,Islas cies,1 dorm.,,1 baño,1970,56.00,Comunidad De Madrid,alquiler,Popular
-,564383,,es,Madrid,Santa Eugenia ,,2024-10-29 20:11:50,500,Baja,C. Real de Arganda,,,1 baño,1976,37.00,Comunidad De Madrid,alquiler,Popular
-,517256,Independiente (Gas),es,Madrid,Prosperidad,,2024-10-29 18:53:10,1495,Alta,Calle Martín Martínez,2 dorm.,Sí,1 baño,1980,61.00,Comunidad De Madrid,alquiler,Media
-118 kWh/m&sup2; año,558003,,es,Alicante,Pla - Carolinas,e,2024-07-02 13:34:17,300,4,C. Pradilla,3 dorm.,Sí,1 baño,1969,90.00,Comunidad Valenciana,alquiler,Popular
-118 kWh/m&sup2; año,587290,,es,Alicante,Pla - Carolinas,e,2024-06-25 19:33:45,320,,Calle Foguerer,4 dorm.,,2 baños,1972,94.00,Comunidad Valenciana,alquiler,Popular
-,597020,,es,Alicante,Pla - Carolinas,,2024-10-05 14:04:44,1100,,Calle Monforte del cid,,,,1960,203.00,Comunidad Valenciana,alquiler,Popular
-,569601,,es,Alicante,Pla - Carolinas,,2024-01-10 20:02:14,650,Baja,Inmaculada del Pla,,,,1968,67.00,Comunidad Valenciana,alquiler,Popular
-,583409,,es,Valencia,Sant Antoni - Primado Reig,,2024-10-19 10:26:11,450,Baja,Carrer del Pare Urbà,1 dorm.,,1 baño,1966,54.00,Comunidad Valenciana,alquiler,Popular
-,591454,,es,Valencia,Benicalap - Peset Aleixandre,,2024-08-06 19:30:13,650,,Av. del Dr. Peset Aleixandre,,,1 baño,1963,65.00,Comunidad Valenciana,alquiler,Popular
-,596736,Independiente (Gas),es,Valencia,Sant Antoni - Primado Reig,,2024-10-04 12:24:14,1700,,C/ de Sagunt,4 dorm.,Sí,2 baños,1995,160.00,Comunidad Valenciana,alquiler,Señorial
-,580458,,es,Valencia,Monteolivete - Waskman,,2024-10-02 11:45:08,750,Baja,Carrera de la Fonteta de Sant Lluís,,,1 baño,1936,96.00,Comunidad Valenciana,alquiler,Señorial
-,595253,,es,Valencia,El Grau,,2024-09-27 10:53:01,1200,,Av. Francia,,,,1965,231.00,Comunidad Valenciana,alquiler,Media
-,594135,,es,Valencia,Albors - Cami Fondo,,2024-09-10 11:54:42,1450,,C/ del Dr. Manuel Candela,,Sí,2 baños,1966,90.00,Comunidad Valenciana,alquiler,Media
-,339899,,es,Valencia,Sant Antoni - Primado Reig,,2024-09-20 12:32:08,450,Baja,Carrer de Sant Joan de la Creu,4 dorm.,,1 baño,1998,127.00,Comunidad Valenciana,alquiler,Popular
-,585799,,es,Valencia,L'Olivereta - Av Del Cid,,2024-07-12 10:34:44,500,Planta baja,C/ de Pintor Stolz,1 dorm.,,,1960,31.00,Comunidad Valenciana,alquiler,Media
-,592832,,es,Valencia,Benimaclet,,2024-08-27 14:00:27,800,Baja,C/Marcelino Giner,,,,1970,100.00,Comunidad Valenciana,alquiler,Popular
-67 kW h/m&sup2; año,593564,,es,Valencia,Saidia - Marxalenes,d,2024-09-04 20:37:19,950,6,Av. del Dr. Peset Aleixandre,,Sí,1 baño,1965,85.00,Comunidad Valenciana,alquiler,Popular
-185 kWh/m&sup2; año,569647,,es,Valencia,Extramurs,c,2024-02-16 17:22:28,850,Baja,Calle Norte,,,,2005,247.00,Comunidad Valenciana,alquiler,De época
-,514515,,es,Valencia,Fonteta - Hnos Maristas,,2023-02-15 18:38:46,800,Baja,Fuente san luis,,,,1961,169.00,Comunidad Valenciana,alquiler,Media
-,558437,,es,Valencia,Fonteta - Hnos Maristas,,2023-10-31 11:08:49,400,Planta baja,Ebenista caselles,,,,1960,45.00,Comunidad Valenciana,alquiler,Media
-54 kW h/m&sup2; año,512329,,es,Valencia,Sant Antoni - Primado Reig,d,2024-06-19 20:26:57,550,Baja,Carrer de Gual Villalbí,1 dorm.,,1 baño,1968,42.00,Comunidad Valenciana,alquiler,Popular
+Reference,Bathrooms,Contrat,Energy_Class,Sale_Price,Property_Type,Year_Construction,Surface,Energy_Consumption,Elevator,Publish_date,Floor,Street,Heating,City,Country,Autonomous_Community,Bedrooms,Zone
+594789,1 baño,venta,g,122500,Popular,1975,114.00,"211,8 kWh/m&sup2; año",,2024-09-20 11:26:59,,Plus Ultra,,Almería,es,Andalucía,4 dorm.,
+594509,1 baño,venta,g,105000,Popular,1969,88.00,"42,06 kW h/m&sup2; año",,2024-09-13 17:32:47,1,Calle Quinta Avenida,,Almería,es,Andalucía,3 dorm.,
+599139,1 baño,venta,,97990,Popular,1960,111.00,,,2024-10-25 19:44:05,Baja,C. Cámaras,,Almería,es,Andalucía,3 dorm.,
+599242,,venta,,59990,Media,1954,51.00,,,2024-10-25 19:26:17,,C. Zagal,,Almería,es,Andalucía,3 dorm.,
+598061,1 baño,venta,,119000,Popular,1974,106.00,,,2024-10-18 16:40:37,2,Calle Marchales,,Almería,es,Andalucía,3 dorm.,
+532627,2 baños,venta,,159500,Popular,1975,172.00,,,2024-10-16 09:53:10,,C. Maldonado Entrena,,Almería,es,Andalucía,4 dorm.,
+595160,1 baño,venta,,79000,Popular,1974,107.00,,,2024-09-19 18:01:51,2 (planta media),Ctra. de Ronda,,Almería,es,Andalucía,,
+596150,,venta,,72000,Media,1966,64.00,,,2024-09-30 20:27:39,,Calle Zafiro,,Almería,es,Andalucía,,
+598331,1 baño,venta,e,139000,Popular,2012,70.00,"84,60 kWh/m&sup2; año",,2024-10-17 16:38:30,,C. Pintor Zabaleta,,Almería,es,Andalucía,3 dorm.,Los Molinos - El Puche - Torrecardenas
+599671,1 baño,venta,e,89900,Popular,1968,108.00,"135,3 kW h/m&sup2; año",,2024-10-30 12:20:21,,Av. de Madrid,,Almería,es,Andalucía,3 dorm.,
+598971,1 baño,venta,g,69900,Popular,1968,76.00,"167,5 kW h/m&sup2; año",,2024-10-23 17:36:03,Alta,Pl. del Niño Jesús,,Almería,es,Andalucía,4 dorm.,
+598612,1 baño,venta,g,92000,Popular,1955,50.00,"281,5 kW h/m&sup2; año",,2024-10-21 12:35:43,Baja,Calle Jaúl,,Almería,es,Andalucía,2 dorm.,
+599281,1 baño,venta,,169900,Popular,1999,100.00,,,2024-10-28 16:45:09,5,C. Eñe,,Almería,es,Andalucía,,Los Molinos - El Puche - Torrecardenas
+598464,1 baño,venta,,119000,Popular,1992,115.00,,,2024-10-18 16:48:52,,C. Cantareros,,Almería,es,Andalucía,3 dorm.,Los Molinos - El Puche - Torrecardenas
+592697,,venta,,91500,Media,1970,55.00,,,2024-10-22 18:16:07,5,C. Lope de Vega,,Almería,es,Andalucía,,Almería - Centro Histórico
+597512,,venta,e,169000,Media,1958,76.00,"127,42 kWh/m&sup2; año",,2024-10-10 11:01:51,3 (planta media),C. Alfonso Aramburu,,Cádiz,es,Andalucía,2 dorm.,Puerta Tierra
+598646,,venta,,148500,Media,1939,50.00,,,2024-10-21 18:27:49,4 (planta media),C. Tanguillo,,Cádiz,es,Andalucía,2 dorm.,Puerta Tierra
+586352,,venta,,267000,Media,1976,108.00,,,2024-06-18 10:41:19,1 (planta baja),Pl. de los Porches,,Cádiz,es,Andalucía,4 dorm.,Puerta Tierra
+598216,,venta,,169000,Media,1957,57.00,,,2024-10-17 18:28:41,3 (planta alta),Av. Lacave,,Cádiz,es,Andalucía,3 dorm.,Puerta Tierra
+597551,,venta,,225000,Popular,1975,84.00,,,2024-10-10 18:40:19,5 (planta alta),C. San Mateo,,Cádiz,es,Andalucía,3 dorm.,Puerta Tierra
+557956,1 baño,venta,e,168500,Media,1991,86.00,"101,17 kW h/m&sup2; año",Sí,2023-09-13 10:56:57,1,Calle Barbate,,Cádiz,es,Andalucía,3 dorm.,Puerta Tierra
+592295,,venta,,360000,Media,1986,104.00,,,2024-08-28 18:22:08,4 (planta alta),C. Huerta del Obispo,,Cádiz,es,Andalucía,3 dorm.,Puerta Tierra
+587724,,venta,,320000,Media,1970,90.00,,,2024-06-28 20:07:15,3 (planta media),Av. Ana de Viya,,Cádiz,es,Andalucía,3 dorm.,Puerta Tierra
+592556,,venta,,320000,Popular,1979,122.00,,,2024-08-22 19:33:22,Planta baja,C/ Adelfa,,Cádiz,es,Andalucía,4 dorm.,Puerta Tierra
+587499,,venta,g,119500,Popular,1957,58.00,"228,88 kW h/m&sup2; año",,2024-07-02 09:23:48,,C. Sor Cristina López García,,Cádiz,es,Andalucía,2 dorm.,Puerta Tierra
+589548,,venta,,460000,Media,1969,114.00,,,2024-07-17 13:42:27,6 (planta alta),Pl. Escritor Ramón Solís,,Cádiz,es,Andalucía,4 dorm.,Puerta Tierra
+556113,,venta,,480000,Popular,1978,113.00,,,2023-08-24 18:55:05,Baja,Calle Sociedad,,Cádiz,es,Andalucía,4 dorm.,Puerta Tierra
+359446,2 baños,venta,,365000,Popular,1959,75.00,,Sí,2024-05-02 18:10:07,,Plaza de Madrid,,Cádiz,es,Andalucía,3 dorm.,Puerta Tierra
+598965,,venta,e,92900,Popular,1970,78.00,"113,07 kWh/m&sup2; año",,2024-10-25 11:19:16,5 (planta alta),C/ de la Previsión,,Cordoba,es,Andalucía,3 dorm.,Ciudad Jardin - Machaquito
+599257,1 baño,venta,,32000,Señorial,1960,47.00,,,2024-10-28 13:19:54,,C/ Loja,,Cordoba,es,Andalucía,2 dorm.,Sector Sur - Campo La Verdad
+599009,1 baño,venta,,49900,Media,1960,64.00,,,2024-10-25 10:56:57,4,Calle Moriles,,Cordoba,es,Andalucía,2 dorm.,Sector Sur - Campo La Verdad
+596250,1 baño,venta,,45000,Media,1980,83.00,,,2024-09-30 13:11:28,3 (planta alta),Libertador Andres de santacruz,,Cordoba,es,Andalucía,3 dorm.,Barriada Guadalquivir - Sector Sur
+598876,2 baños,venta,,148000,Popular,1990,97.00,,,2024-10-23 17:28:47,,Avda. Cádiz,,Cordoba,es,Andalucía,4 dorm.,Sector Sur - Campo La Verdad
+598288,1 baño,venta,e,135000,Señorial,1983,94.00,"151,76 kWh/m&sup2; año",Sí,2024-10-18 09:54:18,,Calle Vereda de la Alcaidía,,Cordoba,es,Andalucía,3 dorm.,Fatima
+554691,2 baños,venta,,89000,Media,1992,90.00,,Sí,2023-08-02 11:04:26,,Pasaje mezquita,centralizada (Chimenea),Cordoba,es,Andalucía,3 dorm.,Barriada Guadalquivir - Sector Sur
+591658,1 baño,venta,g,90000,Media,1970,84.00,"209,5 kW h/m&sup2; año",,2024-08-08 10:12:42,,Av. Virgen de Fátima,,Cordoba,es,Andalucía,3 dorm.,Fatima
+599226,1 baño,venta,g,95000,Media,1973,94.00,"214,4 kW h/m&sup2; año",,2024-10-28 10:37:48,,Av. Virgen de Fátima,,Cordoba,es,Andalucía,3 dorm.,Fatima
+599661,1 baño,venta,,79900,Media,1975,75.00,,,2024-10-30 10:43:45,,Cronista Maraver 26,,Cordoba,es,Andalucía,,Levante - Fidiana
+592514,,venta,d,224900,Señorial,1986,105.00,"57,75 kWh/m&sup2; año",,2024-08-21 18:10:36,4 (planta media),Avenida de los Mozarabes,,Cordoba,es,Andalucía,3 dorm.,Ciudad Jardin - Machaquito
+598358,,venta,,104900,Popular,1978,94.00,,,2024-10-17 18:12:25,1 (planta baja),C. Raimundo Lulio,,Cordoba,es,Andalucía,3 dorm.,Santa Rosa
+598977,,venta,,149900,Popular,1998,69.00,,,2024-10-28 19:21:00,1 (planta baja),C. Pintor Arbasia,,Cordoba,es,Andalucía,3 dorm.,Santa Rosa
+597787,,venta,,109900,Popular,1969,61.00,,,2024-10-11 19:50:29,Planta baja,C. Mariana Pineda,,Cordoba,es,Andalucía,3 dorm.,Santa Rosa
+598967,,venta,,159900,Popular,1975,63.00,,,2024-10-25 17:03:44,3 (planta media),C. de la Prevision,,Cordoba,es,Andalucía,3 dorm.,Ciudad Jardin - Machaquito
+599856,,venta,e,145000,Popular,1970,73.00,"44,76 kW h/m&sup2; año",,2024-10-31 21:08:49,Baja,Calle Olimpia,,Granada,es,Andalucía,3 dorm.,Chana - Cerillo - Maracena
+573392,1 baño,venta,e,112000,Media,1974,100.00,"160,6 kW h/m&sup2; año",Sí,2024-10-31 19:50:04,,C. Ledaña,,Granada,es,Andalucía,3 dorm.,Chana - Cerillo - Maracena
+588664,2 baños,venta,e,249900,Popular,2006,164.00,"213,8 kW h/m&sup2; año",,2024-10-31 19:49:30,,Av. de Maracena,centralizada (Gas),Granada,es,Andalucía,3 dorm.,Chana - Cerillo - Maracena
+594201,1 baño,venta,e,155900,Popular,1969,79.00,"182,2 kW h/m&sup2; año",Sí,2024-10-31 19:49:13,,Calle Dr. Medina Olmos,,Granada,es,Andalucía,3 dorm.,Chana - Cerillo - Maracena
+592863,1 baño,venta,g,112900,Popular,1966,63.00,"339,2 kW h/m&sup2; año",,2024-10-31 19:49:18,,C. Alianza,,Granada,es,Andalucía,3 dorm.,Chana - Cerillo - Maracena
+580409,1 baño,venta,f,79900,Popular,1966,73.00,"199,39 kW h/m&sup2; año",,2024-10-31 19:49:50,,C. Virgen del Monte,,Granada,es,Andalucía,,Chana - Cerillo - Maracena
+589568,1 baño,venta,e,205000,Señorial,2006,76.00,"178,6 kW h/m&sup2; año",,2024-10-31 19:49:22,,Av. Gloria Fuertes,centralizada (Gas),Granada,es,Andalucía,2 dorm.,Chana - Cerillo - Maracena
+597690,2 baños,venta,c,172900,Señorial,1990,84.00,00 kW h/m&sup2; año,,2024-10-31 19:49:04,,Carretera de Málaga,,Granada,es,Andalucía,,Chana - Cerillo - Maracena
+598343,1 baño,venta,e,109900,Popular,1970,89.00,"141,6 kWh/m&sup2; año",,2024-10-31 11:40:26,,C. Víctor Hugo,,Granada,es,Andalucía,2 dorm.,Cartuja - Traumatología
+597989,1 baño,venta,g,35000,Media,1976,75.00,"268,8 kWh/m&sup2; año",,2024-10-31 11:40:29,,Pje. de Teba,,Granada,es,Andalucía,3 dorm.,Cartuja - Traumatología
+597600,1 baño,venta,e,54900,Media,1970,70.00,"172,2 kW h/m&sup2; año",,2024-10-15 20:47:28,Baja,C. Joaquín Corral Almagro,,Granada,es,Andalucía,2 dorm.,Cartuja - Joaquina Eguaras
+596918,1 baño,venta,,130000,Popular,1960,78.00,,,2024-10-31 17:16:54,,C. Azor,,Granada,es,Andalucía,,Chana - Villarejo - Barriada De La Cruz
+598045,2 baños,venta,,230000,Popular,1968,113.00,,,2024-10-31 16:58:32,,Av. de la Constitución,,Granada,es,Andalucía,,Chana - Villarejo - Barriada De La Cruz
+596247,,venta,,90000,Popular,1960,60.00,,,2024-10-31 16:45:28,,C. Antonio Machado,,Granada,es,Andalucía,2 dorm.,Chana - Villarejo - Barriada De La Cruz
+596068,2 baños,venta,d,259900,Popular,1967,116.00,"97,63 kW h/m&sup2; año",Sí,2024-10-29 17:41:03,,C. Cibeles,,Granada,es,Andalucía,4 dorm.,Albayzín
+597583,1 baño,venta,e,95000,Popular,1970,76.00,"142,59 kWh/m&sup2; año",,2024-10-22 19:48:20,,Calle Sanlúcar de Guadiana,,Huelva,es,Andalucía,3 dorm.,Fuentepiña - Poligono - Rosales - Pilar Balbueno
+597654,,venta,,175000,Popular,2008,83.00,,,2024-10-22 19:03:40,3,C. Fenicios,,Huelva,es,Andalucía,2 dorm.,Avenida Andalucia - Hispanidad
+595596,1 baño,venta,,149900,Popular,1975,90.00,,,2024-09-24 10:27:41,,C. Villa Mundaka,,Huelva,es,Andalucía,3 dorm.,Huerto Paco
+598724,2 baños,venta,,94900,Popular,1980,90.00,,,2024-10-22 12:59:17,,C. Niágara,,Huelva,es,Andalucía,4 dorm.,Orden - Santa Marta
+597009,1 baño,venta,g,99900,Popular,1968,70.00,326 kW h/m&sup2; año,,2024-10-16 18:56:12,,C. Hélice,,Huelva,es,Andalucía,3 dorm.,Avenida Andalucia - Hispanidad
+599542,1 baño,venta,,52000,Media,1954,49.00,,,2024-10-29 12:48:51,3,C. Arizona,,Huelva,es,Andalucía,2 dorm.,Matadero
+595025,1 baño,venta,,72900,Popular,1975,69.00,,,2024-09-18 20:14:24,,C. Río de la Plata,,Huelva,es,Andalucía,3 dorm.,Orden - Santa Marta
+596365,1 baño,venta,,90000,Popular,1975,90.00,,,2024-10-08 20:15:39,,C. Condado,,Huelva,es,Andalucía,3 dorm.,Orden - Santa Marta
+598544,2 baños,venta,,104000,Popular,2008,146.00,,Sí,2024-10-19 10:43:25,3,C. Río Guadalete,,Huelva,es,Andalucía,3 dorm.,Fuentepiña - Poligono - Rosales - Pilar Balbueno
+597782,2 baños,venta,e,129000,Popular,1973,121.00,"108,5 kW h/m&sup2; año",,2024-10-18 11:53:13,,Pl. Eugenio Hermoso,,Huelva,es,Andalucía,4 dorm.,Fuentepiña - Poligono - Rosales - Pilar Balbueno
+597818,1 baño,venta,e,105000,Popular,1975,115.00,"92,28 kW h/m&sup2; año",,2024-10-21 13:14:06,2,C. Manuel Sánchez,,Huelva,es,Andalucía,3 dorm.,Isla Chica - Viaplana
+598562,3 baños,venta,,230000,Señorial,1987,180.00,,,2024-10-19 12:34:57,9,Av. Alcalde Federico Molina Orta,,Huelva,es,Andalucía,3 dorm.,Isla Chica - Viaplana
+594230,2 baños,venta,,129900,Popular,1974,104.00,,Sí,2024-09-11 10:21:12,,C. Río de la Plata,,Huelva,es,Andalucía,4 dorm.,Orden - Santa Marta
+573184,1 baño,venta,,95000,Media,1967,77.00,,,2024-06-26 19:32:32,,Paseo de la glorieta,,Huelva,es,Andalucía,3 dorm.,Las Colonias El Carmen
+593726,2 baños,venta,,179900,Popular,1989,114.00,,,2024-09-06 20:13:46,,Av. Guatemala,,Huelva,es,Andalucía,4 dorm.,Matadero
+597682,,venta,e,150000,Popular,1974,86.00,"231,19 kWh/m&sup2; año",Sí,2024-10-14 10:47:21,,Carr. Puente de la Sierra,,Jaén,es,Andalucía,3 dorm.,
+541309,1 baño,venta,e,79000,Media,2015,91.00,"208,22 kW h/m&sup2; año",,2024-04-16 12:02:27,,C. los Caños,,Jaén,es,Andalucía,3 dorm.,
+595888,1 baño,venta,e,87500,Popular,2007,74.00,"233,20 kW h/m&sup2; año",,2024-10-07 19:19:52,,Pl. San Juan de Dios,,Jaén,es,Andalucía,2 dorm.,
+593108,,venta,,100000,De época,1980,174.00,,,2024-09-02 20:43:43,,C/ Juanito Valderrama,Independiente (Eléctrica),Jaén,es,Andalucía,4 dorm.,
+596215,2 baños,venta,e,179000,Señorial,1950,108.00,"190,5 kW h/m&sup2; año",,2024-10-01 19:24:44,,Calle Martínez Montañés,centralizada (Eléctrica),Jaén,es,Andalucía,3 dorm.,
+590090,2 baños,venta,,190000,Media,1998,102.00,,,2024-10-02 10:48:33,1,C/Ben Saprut,,Jaén,es,Andalucía,4 dorm.,
+531521,1 baño,venta,f,69900,Popular,1975,60.00,"241,61 kWh/m&sup2; año",,2023-01-19 13:05:55,,Calle conserje enrique lopez,,Jaén,es,Andalucía,3 dorm.,
+596048,,venta,,95800,Media,1979,93.00,,,2024-10-22 12:12:43,Baja,Calle Hurtado,,Jaén,es,Andalucía,3 dorm.,Jaén
+592088,1 baño,venta,,75000,Media,1960,63.00,,,2024-09-26 20:33:47,,Calle Arco del Consuelo,,Jaén,es,Andalucía,2 dorm.,
+592962,1 baño,venta,,124900,Popular,1977,81.00,,Sí,2024-09-05 19:16:10,,Calle Hurtado,,Jaén,es,Andalucía,,
+580194,1 baño,venta,e,78000,Media,1988,85.00,"207,61 kWh/m&sup2; año",Sí,2024-04-22 20:17:13,1,Calle senda de los huertos,,Jaén,es,Andalucía,2 dorm.,
+595245,,venta,,297000,Popular,1980,220.00,,,2024-10-07 12:44:29,,Plaza de la Constitución,,Jaén,es,Andalucía,,Jaén
+308638,1 baño,venta,,54000,Popular,1960,69.00,,,2024-03-15 12:08:21,2,Calle Betania,,Jaén,es,Andalucía,2 dorm.,
+595622,,venta,,83000,Media,1977,78.00,,,2024-10-02 12:40:43,,Plaza Virgen de los Desamparados,,Jaén,es,Andalucía,3 dorm.,
+580277,2 baños,venta,,139900,Popular,1963,91.00,,,2024-04-22 12:00:22,,Calle tableron,,Jaén,es,Andalucía,2 dorm.,
+598953,2 baños,venta,e,270000,Media,1970,111.00,"114,23 kW h/m&sup2; año",,2024-10-23 20:22:06,,Pje. Begoña,,Málaga,es,Andalucía,3 dorm.,Eugenio Gross - Echevarria
+598525,1 baño,venta,e,289000,Media,1970,85.00,"127,3 kWh/m&sup2; año",Sí,2024-10-18 20:00:01,5 (planta alta),C. Manrique,,Málaga,es,Andalucía,3 dorm.,Cristo De La Epidemia - Victoria
+580370,1 baño,venta,e,109000,Popular,1965,49.00,"102,8 kW h/m&sup2; año",,2024-10-23 13:55:21,1,Calle Obispo Juan de Eulate,,Málaga,es,Andalucía,2 dorm.,Fuenteolletas
+575477,2 baños,venta,e,370000,Popular,1977,113.00,"90,0 kW h/m&sup2; año",Sí,2024-10-31 16:44:25,1,Alameda de Capuchinos,,Málaga,es,Andalucía,4 dorm.,Fuenteolletas
+590793,1 baño,venta,e,218000,Media,1974,116.00,"70,7 kW h/m&sup2; año",Sí,2024-09-20 19:09:38,Baja,C. Conde de Ureña,,Málaga,es,Andalucía,3 dorm.,Cristo De La Epidemia - Victoria
+594440,1 baño,venta,e,153000,Popular,1970,68.00,"81,25 kW h/m&sup2; año",,2024-09-16 20:33:52,,C. Alcalde Narciso Briales,,Málaga,es,Andalucía,3 dorm.,Jardín Botánico - Sagrada Família
+596567,1 baño,venta,,129900,Popular,1981,78.00,,,2024-10-08 12:24:26,,Calle Genoveses,,Málaga,es,Andalucía,3 dorm.,Miraflores De Los Angeles
+592134,1 baño,venta,e,178000,De época,1962,62.00,"120,3 kW h/m&sup2; año",,2024-08-14 18:20:14,1,Calle Obispo Alonso de la Cueva,,Málaga,es,Andalucía,3 dorm.,Fuenteolletas
+595921,1 baño,venta,e,198000,Media,1992,87.00,"0089,00 kW h/m&sup2; año",,2024-09-26 11:44:11,3 (planta alta),C. Tizo,,Málaga,es,Andalucía,2 dorm.,Fuenteolletas
+479261,2 baños,venta,g,229000,Señorial,1971,74.00,"149,9 kW h/m&sup2; año",Sí,2024-06-14 10:17:02,9,Av. Manuel Gorria,,Málaga,es,Andalucía,2 dorm.,Fuenteolletas
+580612,1 baño,venta,e,275000,Media,1996,113.00,"86,50 kW h/m&sup2; año",Sí,2024-09-13 10:23:38,5,Alameda de Barceló,,Málaga,es,Andalucía,2 dorm.,Fuenteolletas
+587950,1 baño,venta,e,205000,Media,1992,66.00,"70,31 kW h/m&sup2; año",,2024-07-05 13:30:44,1 (planta media),Calle Amores,,Málaga,es,Andalucía,2 dorm.,Fuenteolletas
+590760,1 baño,venta,e,190000,Media,1992,71.00,"89,0 kW h/m&sup2; año",,2024-07-30 10:00:46,1 (planta baja),C. Tizo,,Málaga,es,Andalucía,2 dorm.,Fuenteolletas
+591130,1 baño,venta,e,82000,Media,1964,50.00,"115,5 kW h/m&sup2; año",,2024-08-02 11:48:18,4,Calle obispo franquis lasso,,Málaga,es,Andalucía,2 dorm.,Fuenteolletas
+591760,1 baño,venta,e,89000,Media,1965,49.00,"130,3 kW h/m&sup2; año",,2024-09-03 11:58:18,3,Calle Obispo Franquis Lasso,,Málaga,es,Andalucía,2 dorm.,Fuenteolletas
+599787,2 baños,venta,,190000,Media,1992,94.00,,,2024-10-31 11:00:05,2,Plaza de la Malagueta,,Sevilla,es,Andalucía,3 dorm.,Sevilla Este - Zona Este
+590749,1 baño,venta,,165000,Media,1963,76.00,,,2024-07-29 17:24:50,2 (planta media),Calle naranco,,Sevilla,es,Andalucía,3 dorm.,El Plantinar - Tiro De Linea
+592108,1 baño,venta,f,217260,Señorial,1963,90.00,"189,29 kW h/m&sup2; año",,2024-08-20 14:43:55,,Pl. del Aljarafe,,Sevilla,es,Andalucía,3 dorm.,El Plantinar - Tiro De Linea
+592998,1 baño,venta,g,142000,Media,1970,67.00,"249,35 kW h/m&sup2; año",,2024-08-28 17:25:47,3,Av. de la Paz,,Sevilla,es,Andalucía,2 dorm.,El Plantinar - Tiro De Linea
+589036,1 baño,venta,,166000,Media,1970,79.00,,,2024-07-17 18:58:19,1,Av. de la Paz,,Sevilla,es,Andalucía,2 dorm.,El Plantinar - Tiro De Linea
+599720,,venta,,62000,Media,1969,47.00,,,2024-10-31 10:53:44,Baja,Calle Torres Naharro,,Sevilla,es,Andalucía,,Torreblanca
+598093,2 baños,venta,e,395000,Popular,1999,100.00,"165,30 kW h/m&sup2; año",Sí,2024-10-24 09:29:42,,Av. de Grecia,,Sevilla,es,Andalucía,4 dorm.,Bami - Heliopolis - Bermejales - Bellavista
+599239,2 baños,venta,c,530000,Señorial,2019,141.00,"39,78 kW h/m&sup2; año",,2024-10-28 13:28:31,Alta,C. Jandula,centralizada,Sevilla,es,Andalucía,4 dorm.,Bami - Reina Mercedes - Pineda
+596746,1 baño,venta,,69900,Popular,1964,48.00,,,2024-10-04 11:06:01,3,C. Calamar,,Sevilla,es,Andalucía,2 dorm.,San Jeronimo
+556854,1 baño,venta,e,144990,Media,1975,75.00,"172,3 kW h/m&sup2; año",Sí,2024-10-23 10:43:55,3 (planta media),C. José María de Pereda,,Sevilla,es,Andalucía,3 dorm.,Cerro Del Aguila
+599686,1 baño,venta,,115000,Media,1986,106.00,,,2024-10-30 12:53:34,,Calle Solidaridad,Independiente,Sevilla,es,Andalucía,,Palmete - La Negrilla
+597607,1 baño,venta,g,112000,Popular,1962,59.00,"345,82 kWh/m&sup2; año",Sí,2024-10-30 11:25:24,3,C. Orquídea,,Sevilla,es,Andalucía,2 dorm.,Macarena - La Salle - Begoña
+575802,2 baños,venta,,131000,Popular,2004,132.00,,,2024-10-30 10:50:43,Media,Calle Moriles,,Sevilla,es,Andalucía,,Palmete - La Negrilla
+363215,1 baño,venta,e,96500,Media,1964,65.00,"126,2 kW h/m&sup2; año",,2024-10-30 09:41:06,,C/Exaltación de Baco,,Sevilla,es,Andalucía,2 dorm.,Nervion - San Pablo
+598760,,venta,e,149900,Media,1964,59.00,"130,3 kWh/m&sup2; año",,2024-10-22 09:57:19,4,C. Tambre,,Sevilla,es,Andalucía,,Juncal - Ciudad Jardin - Tiro De Linea
+593634,1 baño,venta,e,130000,Popular,1988,100.00,"241,2 kWh/m&sup2; año",,2024-09-06 18:26:07,Planta baja,Calle Altair,Independiente (Gas),Zaragoza,es,Aragón,3 dorm.,Oliver Y Valdefierro
+597445,1 baño,venta,,129000,De época,1900,81.00,,,2024-10-10 19:33:25,Baja,Cantin y Gamboa,,Zaragoza,es,Aragón,3 dorm.,La Magdalena
+595390,2 baños,venta,d,199000,Popular,1986,108.00,126 kWh/m&sup2; año,Sí,2024-10-14 11:44:17,,Calle Celanova,centralizada,Zaragoza,es,Aragón,4 dorm.,Bombarda - Monsalud
+598231,1 baño,venta,,125000,Media,1997,61.00,,,2024-10-17 18:33:58,,Calle Vega,Independiente (Gas),Zaragoza,es,Aragón,2 dorm.,Oliver Y Valdefierro
+596901,2 baños,venta,e,169000,Popular,1980,88.00,260 kWh/m&sup2; año,Sí,2024-10-14 11:29:04,,Julian Sanz Ibañez,Independiente,Zaragoza,es,Aragón,3 dorm.,Delicias
+594805,1 baño,venta,,246000,Señorial,1971,98.00,,,2024-10-19 11:46:46,,C. de José Luis Albareda,centralizada (Gas),Zaragoza,es,Aragón,3 dorm.,Centro
+599495,1 baño,venta,e,130000,Popular,1974,67.00,253 kW h/m&sup2; año,,2024-10-29 07:52:46,,Calle Monte  Perdido 4,,Zaragoza,es,Aragón,,Picarral
+189952,,venta,f,195000,Popular,1973,80.00,"269,18 kW h/m&sup2; año",,2021-09-13 19:25:18,,Avenida San Juan de la Peña 131,Independiente (Radiadores),Zaragoza,es,Aragón,4 dorm.,Picarral
+579782,2 baños,venta,e,160000,Señorial,1970,112.00,"162,6 kWh/m&sup2; año",,2024-07-01 09:44:49,4,Calle Benjamín Jarnés,centralizada,Zaragoza,es,Aragón,2 dorm.,San Pablo - El Gancho
+597919,2 baños,venta,e,260000,Media,1993,114.00,"293,10 kW h/m&sup2; año",,2024-10-28 14:00:47,7 (planta alta),C. de Rosa Chacel,Independiente (Gas),Zaragoza,es,Aragón,4 dorm.,Actur
+585861,1 baño,venta,g,77500,Popular,1936,55.00,446 kWh/m&sup2; año,,2024-06-25 19:27:39,4,Calle Utrillas,,Zaragoza,es,Aragón,2 dorm.,Las Fuentes
+599203,1 baño,venta,e,220000,Popular,1993,76.00,163 kWh/m&sup2; año,Sí,2024-10-25 18:30:39,5 (planta alta),Calle Cubel,Independiente (Gas),Zaragoza,es,Aragón,2 dorm.,Las Fuentes
+598088,1 baño,venta,f,98000,Popular,1961,60.00,309 kWh/m&sup2; año,Sí,2024-10-16 11:50:12,2 (planta media),Calle Octavio García Burriel,,Zaragoza,es,Aragón,3 dorm.,Las Fuentes
+593125,1 baño,venta,e,145000,Popular,1975,100.00,154 kWh/m&sup2; año,,2024-09-03 13:12:30,3 (planta media),Plaza san victorian,,Zaragoza,es,Aragón,3 dorm.,Las Fuentes
+597714,1 baño,venta,e,147000,Señorial,1965,70.00,"177,1 kWh/m&sup2; año",,2024-10-16 12:00:03,Baja,Calle Mariano Castillo,Independiente (Gas),Zaragoza,es,Aragón,3 dorm.,Almozara
+586526,2 baños,venta,g,210000,Media,1994,105.00,132 kWh/m&sup2; año,,2024-06-19 21:41:27,Baja,C. Ramón Trujillo Torres,,Santa Cruz De Tenerife,es,Canarias,2 dorm.,Cruz Del Señor
+599044,1 baño,venta,e,175000,Señorial,1974,97.00,52 kWh/m&sup2; año,,2024-10-28 14:34:04,2 (planta media),Alcalde mandillo tejera,,Santa Cruz De Tenerife,es,Canarias,3 dorm.,Cruz Del Señor
+594549,1 baño,venta,g,205000,Popular,1900,115.00,110 kWh/m&sup2; año,,2024-10-15 19:44:00,Baja,C. Porlier,,Santa Cruz De Tenerife,es,Canarias,3 dorm.,Santa Cruz De Tenerife
+589656,2 baños,venta,g,288000,Popular,1971,97.00,132 kWh/m&sup2; año,Sí,2024-07-31 17:39:11,3 (planta media),C. Jorge Manrique,,Santa Cruz De Tenerife,es,Canarias,3 dorm.,La Salle
+599103,1 baño,venta,g,174000,Media,1970,47.00,132 kW h/m&sup2; año,,2024-10-25 19:06:03,6,C. Tirso de Molina,,Santa Cruz De Tenerife,es,Canarias,1 dorm.,La Salle
+596204,2 baños,venta,g,285000,Popular,1986,86.00,120 kW h/m&sup2; año,,2024-10-11 12:44:57,Media,Rbla. de Sta. Cruz,,Santa Cruz De Tenerife,es,Canarias,3 dorm.,Santa Cruz De Tenerife
+585517,2 baños,venta,g,379000,Media,2001,109.00,147 kW h/m&sup2; año,Sí,2024-07-01 10:21:23,1 (planta media),Av. de Madrid,,Santa Cruz De Tenerife,es,Canarias,4 dorm.,Santa Cruz De Tenerife
+587787,2 baños,venta,g,299000,Media,2001,112.00,147 kWh/m&sup2; año,Sí,2024-10-04 18:57:03,1 (planta baja),Av. de Madrid,,Santa Cruz De Tenerife,es,Canarias,2 dorm.,Santa Cruz De Tenerife
+586185,2 baños,venta,d,149900,Popular,2006,97.00,50 kW h/m&sup2; año,,2024-07-31 12:40:54,,C. Verderón,,Santa Cruz De Tenerife,es,Canarias,3 dorm.,Santa Cruz De Tenerife
+587032,2 baños,venta,g,250000,De época,1964,107.00,134 kW h/m&sup2; año,,2024-07-10 21:32:24,1 (planta baja),Calle Lope de Vega,,Santa Cruz De Tenerife,es,Canarias,3 dorm.,Santa Cruz De Tenerife
+582528,2 baños,venta,f,210000,Popular,2004,134.00,120 kW h/m&sup2; año,Sí,2024-05-15 14:49:16,Baja,C. el Winche,,Santa Cruz De Tenerife,es,Canarias,4 dorm.,Santa Cruz De Tenerife
+570698,,venta,,198000,Popular,1973,95.00,,,2024-03-12 10:53:35,3 (planta media),C. Desiré Dugour,,Santa Cruz De Tenerife,es,Canarias,3 dorm.,Cruz Del Señor
+598423,2 baños,venta,e,179900,Popular,1988,147.00,245 kWh/m&sup2; año,Sí,2024-10-24 12:01:09,1,Calle Eusebio González Suárez,Independiente (Gas),Valladolid,es,Castilla Y León,3 dorm.,Parquesol
+598537,3 baños,venta,e,310000,Popular,1995,279.00,412 kWh/m&sup2; año,,2024-10-22 15:32:22,,Calle de Juan de Valladolid,Independiente (Gas),Valladolid,es,Castilla Y León,3 dorm.,Parquesol
+566284,2 baños,venta,e,159900,Popular,1990,148.00,179 kWh/m&sup2; año,Sí,2024-01-30 12:50:34,2,C. Prof. Adolfo Miaja de la Muela,centralizada (Gas),Valladolid,es,Castilla Y León,3 dorm.,Parquesol
+591054,1 baño,venta,e,184900,Popular,1999,118.00,208 kWh/m&sup2; año,,2024-08-01 13:14:19,9,Manuel Silvela,Independiente (Gas),Valladolid,es,Castilla Y León,2 dorm.,Parquesol
+595876,2 baños,venta,e,187900,Señorial,1983,149.00,181 kWh/m&sup2; año,,2024-09-26 10:58:17,10,Calle Prof. Adolfo Miaja de la Muela,centralizada (Gas),Valladolid,es,Castilla Y León,3 dorm.,Parquesol
+598730,1 baño,venta,f,79900,Popular,1970,86.00,"292,0 kWh/m&sup2; año",,2024-10-31 20:26:06,2,Calle Zorzal,Independiente,Valladolid,es,Castilla Y León,3 dorm.,Pajarillos 
+587640,1 baño,venta,e,97500,Media,1964,100.00,"304,85 kWh/m&sup2; año",,2024-07-01 19:04:55,2 (planta media),C. de San Isidro,,Valladolid,es,Castilla Y León,4 dorm.,Delicias
+589620,1 baño,venta,e,74900,Media,1970,78.00,261 kW h/m&sup2; año,,2024-10-31 12:37:19,1,Calle Gallo,Independiente,Valladolid,es,Castilla Y León,3 dorm.,Pajarillos 
+594761,1 baño,venta,e,94900,Popular,1967,83.00,"264,9 kWh/m&sup2; año",Sí,2024-09-24 19:50:33,1,Calle Lope de Vega,,Valladolid,es,Castilla Y León,3 dorm.,La Rondilla
+595855,2 baños,venta,e,198000,Popular,1972,110.00,"281,1 kWh/m&sup2; año",Sí,2024-10-16 16:59:13,,Calle Huelgas,centralizada (Gas),Valladolid,es,Castilla Y León,4 dorm.,Vadillo - Batallas
+598033,1 baño,venta,g,59900,Popular,1981,110.00,"405,3 kW h/m&sup2; año",Sí,2024-10-25 20:31:19,,Calle Ecuador,,Valladolid,es,Castilla Y León,3 dorm.,Arturo Eyries
+597523,1 baño,venta,e,98000,Popular,1972,94.00,"250,9 kWh/m&sup2; año",,2024-10-30 18:01:08,Media,C. Veinte de Febrero,,Valladolid,es,Castilla Y León,1 dorm.,Centro Ciudad
+599025,1 baño,venta,f,50000,Media,1969,69.00,"314,8 kW h/m&sup2; año",Sí,2024-10-28 18:44:09,Alta,C/ Ebro,Independiente (Gas),Valladolid,es,Castilla Y León,3 dorm.,Delicias
+599447,1 baño,venta,e,83000,Popular,1970,70.00,"244,7 kW h/m&sup2; año",Sí,2024-10-30 13:48:00,2,C. Celtas Cortos,Independiente (Gas),Valladolid,es,Castilla Y León,3 dorm.,Delicias
+585574,1 baño,venta,e,65000,Popular,1970,62.00,"104,82 kW h/m&sup2; año",Sí,2024-06-18 18:24:53,Baja,C. Gral. Shelly,,Valladolid,es,Castilla Y León,3 dorm.,Delicias
+598903,,venta,e,59900,Media,1956,37.00,"224,7 kW h/m&sup2; año",,2024-10-24 13:03:10,,C. Pablo Neruda,,Toledo,es,Castilla-La Mancha,,Palomarejos
+599119,1 baño,venta,f,129990,Popular,1900,51.00,"259,7 kW h/m&sup2; año",,2024-10-28 17:29:57,,C. Plata,"Independiente (Eléctrica, Radiadores)",Toledo,es,Castilla-La Mancha,1 dorm.,Casco Histórico
+581943,2 baños,venta,d,304900,Popular,1999,120.00,"103,9 kWh/m&sup2; año",,2024-05-09 10:07:35,1,C. Reino Unido,Independiente (Gas),Toledo,es,Castilla-La Mancha,3 dorm.,Buenavista - Av. Irlanda
+573371,1 baño,venta,e,130000,Media,1960,103.00,"178,0 kWh/m&sup2; año",,2024-08-10 11:34:22,,C. Sacramento,Independiente,Toledo,es,Castilla-La Mancha,3 dorm.,Casco Histórico
+598227,2 baños,venta,e,159900,Popular,2011,104.00,"130,3 kW h/m&sup2; año",Sí,2024-10-24 19:34:39,,C. Laguna de Arcas,Independiente (Gas),Toledo,es,Castilla-La Mancha,3 dorm.,Polígono S.m. Benquerencia
+589323,2 baños,venta,e,114990,Media,2010,134.00,"118,7 kW h/m&sup2; año",,2024-10-10 13:36:31,3,C. Tejar,,Toledo,es,Castilla-La Mancha,3 dorm.,Santa Barbara
+599229,2 baños,venta,d,179900,Media,2007,104.00,"90,5 kW h/m&sup2; año",,2024-10-25 21:00:15,3,Av. del Río Boladiez,Independiente (Gas),Toledo,es,Castilla-La Mancha,3 dorm.,Polígono S.m. Benquerencia
+503021,1 baño,venta,e,99900,Media,1960,59.00,"226,2 kWh/m&sup2; año",,2024-10-22 12:35:09,,C. Madre Teresa de Calcuta,Independiente (Eléctrica),Toledo,es,Castilla-La Mancha,3 dorm.,Palomarejos
+596019,1 baño,venta,e,114990,Media,2006,98.00,"125,6 kW h/m&sup2; año",,2024-10-23 10:53:20,,C. de los Estudios,,Toledo,es,Castilla-La Mancha,2 dorm.,Santa Barbara
+583086,3 baños,venta,e,359990,Media,1991,196.00,"151,0 kW h/m&sup2; año",,2024-05-22 12:23:56,,Av. de Europa,Independiente (Gas),Toledo,es,Castilla-La Mancha,4 dorm.,Avenida De Europa - San Antón - Plaza De Toros
+579310,3 baños,venta,e,299900,Señorial,2001,160.00,"137,4 kW h/m&sup2; año",Sí,2024-07-31 19:41:45,,C. Huérfanos Cristinos,Independiente (Gas),Toledo,es,Castilla-La Mancha,3 dorm.,Avenida De Europa - San Antón - Plaza De Toros
+598270,1 baño,venta,d,114990,Media,1980,90.00,85 kWh/m&sup2; año,,2024-10-17 19:39:04,2,Paseo de la Rosa,,Toledo,es,Castilla-La Mancha,3 dorm.,Santa Barbara
+585277,2 baños,venta,e,194990,Popular,2000,140.00,110 kWh/m&sup2; año,,2024-06-27 19:51:25,4,P.º de la Rosa,,Toledo,es,Castilla-La Mancha,5 dorm.,Santa Barbara
+587263,1 baño,venta,g,115000,Media,1880,87.00,"281,1 kWh/m&sup2; año",,2024-06-26 18:08:04,1,C. de la Merced,Independiente (Gas),Toledo,es,Castilla-La Mancha,2 dorm.,Casco Histórico
+594578,1 baño,venta,d,119990,Popular,2008,60.00,"119,7 kWh/m&sup2; año",,2024-09-16 20:20:44,,Plaza de la Merced,,Toledo,es,Castilla-La Mancha,1 dorm.,Casco Histórico
+582110,1 baño,venta,d,530000,Popular,1979,79.00,94 kWh/m&sup2; año,Sí,2024-05-10 20:00:12,8 (planta ático),Carrer del Consell de Cent,,Barcelona,es,Cataluña,3 dorm.,Nova Esquerra De L'Eixample (Alta)
+582471,1 baño,venta,g,545000,Popular,1966,90.00,293 kWh/m&sup2; año,Sí,2024-09-25 20:10:02,7 (planta ático),Carrer del Comte Borrell,centralizada (Aéreo Termo),Barcelona,es,Cataluña,2 dorm.,Nova Esquerra De L'Eixample (Alta)
+592256,1 baño,venta,,309000,Media,1976,65.00,,Sí,2024-09-25 20:09:45,3 (planta media),Carrer de la Diputació,Independiente (Gas),Barcelona,es,Cataluña,2 dorm.,Nova Esquerra De L'Eixample (Alta)
+597185,1 baño,venta,e,325000,Popular,1969,83.00,207 kWh/m&sup2; año,,2024-10-10 12:58:53,4 (planta media),Carrer de Rocafort,,Barcelona,es,Cataluña,3 dorm.,Nova Esquerra De L'Eixample (Alta)
+599819,1 baño,venta,,540000,Señorial,1940,93.00,,,2024-10-31 19:53:22,3 (planta media),Passeig de Sant Joan,Independiente (Gas),Barcelona,es,Cataluña,2 dorm.,La Dreta De L'Eixample
+590445,1 baño,venta,e,259000,Media,1910,78.00,170 kW h/m&sup2; año,,2024-08-05 19:46:48,3,Carrer de Premià,,Barcelona,es,Cataluña,4 dorm.,Plaça De Sants
+598615,1 baño,venta,e,260000,De época,1900,70.00,166 kW h/m&sup2; año,,2024-10-21 11:45:28,3 (planta ático),Carrer de la Creu Coberta,,Barcelona,es,Cataluña,4 dorm.,Hostafrancs
+599799,,venta,g,205000,De época,1962,66.00,999 kW h/m&sup2; año,Sí,2024-10-31 19:50:03,1,Carrer de Pablo Iglesias,,Barcelona,es,Cataluña,,La Prosperitat
+599744,1 baño,venta,e,390000,Media,1969,127.00,185 kW h/m&sup2; año,,2024-10-31 16:53:22,,Carrer del Príncep Jordi,Independiente (Gas),Barcelona,es,Cataluña,4 dorm.,Hostafrancs
+556775,1 baño,venta,g,185000,Popular,1960,81.00,273 kWh/m&sup2; año,,2024-08-23 19:01:45,2 (planta media),Carrer de Campo Florido,,Barcelona,es,Cataluña,3 dorm.,Plaça Maragall
+596730,1 baño,venta,e,220000,Media,1968,81.00,136 kWh/m&sup2; año,Sí,2024-10-03 17:49:31,7 (planta alta),Avinguda de Les Corts Catalanes,,Barcelona,es,Cataluña,4 dorm.,La Pau
+599721,1 baño,venta,e,330000,Media,1924,79.00,185 kWh/m&sup2; año,,2024-10-31 17:33:00,,C/ de Sant Jordi,,Barcelona,es,Cataluña,3 dorm.,Plaça De Sants
+594228,1 baño,venta,e,295000,Popular,1968,78.00,269 kW h/m&sup2; año,Sí,2024-10-31 19:07:27,5,Carrer de Viladrosa,Independiente (Gas),Barcelona,es,Cataluña,3 dorm.,Verdun
+596544,2 baños,venta,e,390000,Media,1967,82.00,120 kWh/m&sup2; año,Sí,2024-10-24 20:25:54,4 (planta media),Travessera de les Corts,Independiente (Gas),Barcelona,es,Cataluña,4 dorm.,Les Corts - Diagonal
+599451,1 baño,venta,e,350000,Media,1978,80.00,36 kWh/m&sup2; año,,2024-10-31 17:37:46,3 (planta alta),Carrer de Portugalete,,Barcelona,es,Cataluña,4 dorm.,Sants-Montjuic
+595459,1 baño,venta,e,145000,Media,1971,80.00,"104,09 kWh/m&sup2; año",,2024-10-16 10:50:25,4 (planta alta),Carrer de Misericòrdia,,Tarragona,es,Cataluña,3 dorm.,
+594867,1 baño,venta,c,50000,Media,1967,94.00,19 kWh/m&sup2; año,,2024-09-17 13:25:24,7,Avinguda de Ramón y Cajal,Independiente,Tarragona,es,Cataluña,3 dorm.,Tarragona
+587883,1 baño,venta,e,190000,Media,1975,112.00,106 kW h/m&sup2; año,Sí,2024-07-10 10:59:40,4 (planta media),Carrer Higini Anglès,centralizada (Gas),Tarragona,es,Cataluña,4 dorm.,Tarragona
+596623,2 baños,venta,e,175000,Popular,1994,102.00,105 kWh/m&sup2; año,Sí,2024-10-10 17:32:38,1 (planta media),Violant De Hungría,Independiente (Termo Ventilación),Tarragona,es,Cataluña,3 dorm.,
+599332,1 baño,venta,e,65000,Media,1969,70.00,157 kWh/m&sup2; año,,2024-10-28 11:27:11,,Bloc Sant Jordi,,Tarragona,es,Cataluña,2 dorm.,
+599334,,venta,e,60000,Media,1969,70.00,150 kW h/m&sup2; año,,2024-10-28 11:30:18,,Bloc Sant Mateu,,Tarragona,es,Cataluña,3 dorm.,
+594501,1 baño,venta,e,110000,Popular,1970,76.00,103 kW h/m&sup2; año,,2024-09-17 13:29:50,,C/ Illes Balears,,Tarragona,es,Cataluña,3 dorm.,Torreforta
+586867,1 baño,venta,f,129000,Media,1962,80.00,105 kWh/m&sup2; año,,2024-06-28 09:59:03,,Carrer d'en Goya,,Tarragona,es,Cataluña,3 dorm.,
+597719,2 baños,venta,,285000,Media,1979,112.00,,,2024-10-14 18:52:22,1,Calle Arama,centralizada (A Gasoil),Madrid,es,Comunidad De Madrid,3 dorm.,Ciudad De Los Angeles
+599885,2 baños,venta,,425000,Media,1996,119.00,,Sí,2024-11-02 12:27:32,,C. de Ladera de los Almendros,Independiente (Gas),Madrid,es,Comunidad De Madrid,3 dorm.,Vicálvaro
+573312,1 baño,venta,e,299000,Popular,1936,43.00,195 kW h/m&sup2; año,Sí,2024-02-14 21:29:19,1,C. de Jaime el Conquistador,,Madrid,es,Comunidad De Madrid,2 dorm.,Legazpi
+598165,,venta,e,195000,Media,1962,80.00,208 kW h/m&sup2; año,,2024-10-30 18:52:56,,C. de Hermenegildo Bielsa,,Madrid,es,Comunidad De Madrid,3 dorm.,Usera
+599516,,venta,,255000,De época,2014,75.00,,,2024-11-01 13:49:20,3,C. de Sierra de la Sagra,,Madrid,es,Comunidad De Madrid,3 dorm.,San Diego
+569153,2 baños,venta,e,298000,Popular,1980,120.00,246 kWh/m&sup2; año,Sí,2024-01-08 16:50:12,3 (planta media),Sierra de la sagra,,Madrid,es,Comunidad De Madrid,5 dorm.,San Diego
+584050,2 baños,venta,e,240000,Media,1961,76.00,270 kWh/m&sup2; año,Sí,2024-06-27 20:56:45,1 (planta media),C/ de los Sagrados Corazones,Independiente (Gas),Madrid,es,Comunidad De Madrid,3 dorm.,Alto Extremadura - Paseo Extremadura
+599864,,venta,e,80000,Popular,1930,27.00,187 kWh/m&sup2; año,,2024-10-31 20:50:00,1 (planta media),Calle Pico de la Maliciosa,,Madrid,es,Comunidad De Madrid,1 dorm.,
+597087,1 baño,venta,e,330000,Media,1965,79.00,248 kWh/m&sup2; año,Sí,2024-10-30 13:28:06,2,Calle de Valderrey,,Madrid,es,Comunidad De Madrid,3 dorm.,Valdezarza
+599247,1 baño,venta,e,215000,Popular,1970,58.00,"242,7 kW h/m&sup2; año",,2024-10-31 18:58:19,1,C. de Arroyo de Fontarrón,Independiente,Madrid,es,Comunidad De Madrid,2 dorm.,Moratalaz
+599069,2 baños,venta,,599900,Media,1993,144.00,,Sí,2024-10-31 19:29:50,,C/ de la Ribera de Curtidores,,Madrid,es,Comunidad De Madrid,,Puerta Toledo
+597882,1 baño,venta,g,210000,Popular,1965,65.00,380 kWh/m&sup2; año,Sí,2024-10-31 19:10:29,,Calle los Yébenes,Independiente (Gas),Madrid,es,Comunidad De Madrid,2 dorm.,Aluche
+599463,1 baño,venta,f,275000,Popular,1970,71.00,350 kWh/m&sup2; año,Sí,2024-10-31 10:49:42,,Calle de Ocaña,centralizada (Radiadores),Madrid,es,Comunidad De Madrid,2 dorm.,Aluche
+598292,1 baño,venta,g,259000,Popular,1962,72.00,341 kWh/m&sup2; año,,2024-10-21 09:15:25,3,C. del Corregidor Juan Francisco de Luján,Independiente (Eléctrica),Madrid,es,Comunidad De Madrid,3 dorm.,Moratalaz
+588797,2 baños,venta,e,379000,Señorial,1967,128.00,196 kWh/m&sup2; año,Sí,2024-07-18 19:03:18,2,C. de Arroyo de Fontarrón,centralizada (A Gasoil),Madrid,es,Comunidad De Madrid,4 dorm.,Moratalaz
+599370,1 baño,venta,,129000,Popular,1962,94.00,,,2024-10-31 19:47:38,3 (planta media),Calle Deportista Ángel Aznar,Independiente (Eléctrica),Alicante,es,Comunidad Valenciana,2 dorm.,Benalua
+599838,1 baño,venta,e,105000,Media,1964,60.00,118 kW h/m&sup2; año,,2024-10-31 18:07:46,1,C. San Pablo,,Alicante,es,Comunidad Valenciana,3 dorm.,Pla - Carolinas
+595468,1 baño,venta,e,85000,Popular,1966,55.00,118 kW h/m&sup2; año,,2024-09-23 13:57:12,3 (planta media),C. Enrique Monsonís Domingo,,Alicante,es,Comunidad Valenciana,2 dorm.,Pla - Carolinas
+594072,2 baños,venta,e,156000,Media,1982,91.00,38 kWh/m&sup2; año,,2024-09-19 18:10:06,,Calle Lérida,centralizada (Eléctrica),Alicante,es,Comunidad Valenciana,3 dorm.,Pla - Carolinas
+597517,,venta,,195000,Señorial,1963,92.00,,,2024-10-28 10:01:41,2,Plaza Navarro Rodrigo,,Alicante,es,Comunidad Valenciana,,Benalua
+585923,2 baños,venta,,165000,Popular,1974,112.00,,,2024-07-26 19:10:35,Media,Calle Alberola,,Alicante,es,Comunidad Valenciana,3 dorm.,Benalua
+592877,1 baño,venta,,159000,Popular,1993,74.00,,,2024-08-27 12:30:02,2,Calle San Agatangelo,Independiente,Alicante,es,Comunidad Valenciana,3 dorm.,Benalua
+599524,,venta,,85000,Media,1962,73.00,,,2024-10-29 10:46:09,,C. Dr. Sapena,,Alicante,es,Comunidad Valenciana,3 dorm.,Pla - Carolinas
+597331,1 baño,venta,,135000,Media,1979,74.00,,Sí,2024-10-28 20:15:34,Baja,Pl. Mediterraneo,,Alicante,es,Comunidad Valenciana,3 dorm.,Tómbola
+599483,,venta,,129000,Popular,1984,72.00,,,2024-10-28 20:14:57,1,C. Francisco Carratalá Cernuda,,Alicante,es,Comunidad Valenciana,3 dorm.,Altozano - Campoamor
+599170,,venta,,129000,Media,1964,89.00,,,2024-10-28 20:15:00,1 (planta baja),Pl. San Juan de Dios,,Alicante,es,Comunidad Valenciana,3 dorm.,Altozano - Campoamor
+598531,1 baño,venta,,109000,Popular,1962,60.00,,,2024-10-28 10:08:10,1 (planta media),C. León XIII,,Alicante,es,Comunidad Valenciana,2 dorm.,Babel - La Florida
+595893,1 baño,venta,d,104999,Señorial,1960,57.00,215 kW h/m&sup2; año,,2024-10-28 10:17:33,Planta baja,C. Jaime Niñoles,,Alicante,es,Comunidad Valenciana,3 dorm.,Babel - La Florida
+598294,2 baños,venta,g,75000,Media,1975,75.00,203 kWh/m&sup2; año,,2024-10-21 18:17:05,,Carrer Granada,,Alicante,es,Comunidad Valenciana,2 dorm.,Virgen Del Remedio
+586883,2 baños,venta,,179900,Popular,1975,92.00,,Sí,2024-06-21 10:48:21,,Calle Callosa de Segura,,Alicante,es,Comunidad Valenciana,3 dorm.,San Blas
+598859,1 baño,venta,,120000,Popular,1961,53.00,,,2024-10-25 20:05:52,4 (planta alta),C/ de Montitxelvo,,Valencia,es,Comunidad Valenciana,2 dorm.,Monteolivete - Waskman
+595903,,venta,,155000,Popular,2011,75.00,,,2024-10-07 18:12:04,,C. Lorenzo Saiz,,Valencia,es,Comunidad Valenciana,2 dorm.,Nuevo Benicalap - Ciudad Fallera
+599655,1 baño,venta,,187500,Media,1967,79.00,,Sí,2024-10-31 14:30:21,4,Calle Jerónima Galés,,Valencia,es,Comunidad Valenciana,2 dorm.,Jesus
+599828,1 baño,venta,,197500,Media,1973,99.00,,Sí,2024-10-31 14:31:15,3,Calle Juan de Garay,Independiente (Gas),Valencia,es,Comunidad Valenciana,2 dorm.,Jesus
+594574,1 baño,venta,,335000,Señorial,1957,98.00,,Sí,2024-09-24 12:41:02,4 (planta alta),Calle De La Reina,,Valencia,es,Comunidad Valenciana,3 dorm.,Cabañal - Canyamelar
+599472,1 baño,venta,,165000,Media,1972,73.00,,,2024-10-31 13:52:25,2 (planta media),C/ d'Osset,,Valencia,es,Comunidad Valenciana,3 dorm.,Cabañal - Canyamelar
+596963,1 baño,venta,,190000,Popular,1946,60.00,,,2024-10-14 19:33:49,,Carrer de Planas,,Valencia,es,Comunidad Valenciana,2 dorm.,Monteolivete - Waskman
+598521,1 baño,venta,g,186900,Media,1967,79.00,218 kWh/m&sup2; año,Sí,2024-10-27 11:12:44,,Carrer dels Lleons,,Valencia,es,Comunidad Valenciana,3 dorm.,Camins Al Grau
+521196,1 baño,venta,g,217000,Señorial,1957,86.00,203 kW h/m&sup2; año,Sí,2024-10-27 11:12:51,2 (planta media),Carrer de Peris Brell,,Valencia,es,Comunidad Valenciana,2 dorm.,Camins Al Grau
+592139,2 baños,venta,,270000,Media,1980,103.00,,,2024-09-24 09:45:40,3 (planta media),Calle Isaac Peral,,Valencia,es,Comunidad Valenciana,4 dorm.,El Grau
+595101,1 baño,venta,,230000,Media,1976,82.00,,Sí,2024-09-23 09:47:12,Baja,Pintor Ferrandis,,Valencia,es,Comunidad Valenciana,3 dorm.,La Malvarrosa
+597794,1 baño,venta,,107500,Señorial,1969,66.00,,,2024-10-24 16:34:23,,Calle Regino Mas,,Valencia,es,Comunidad Valenciana,3 dorm.,Nuevo Benicalap - Ciudad Fallera
+598719,1 baño,venta,,245000,Señorial,1965,87.00,,Sí,2024-10-24 15:55:21,,Carrer del Monestir de Poblet,,Valencia,es,Comunidad Valenciana,3 dorm.,Campanar - Nuevo Centro
+505779,1 baño,venta,g,160000,Popular,1967,85.00,221 kWh/m&sup2; año,,2022-03-24 19:16:41,1 (planta baja),Carrer de Manolo Taberner,,Valencia,es,Comunidad Valenciana,4 dorm.,L'Olivereta - Av Del Cid
+591502,1 baño,venta,,160000,Señorial,1977,87.00,,,2024-08-06 17:35:09,,Carrer de Jacomart,,Valencia,es,Comunidad Valenciana,3 dorm.,Torrefiel
+584884,1 baño,venta,,82900,Popular,1972,90.00,,,2024-06-06 13:11:08,2 (planta media),Argüello Carvajal Teologo Siglo XVII,,Badajoz,es,Extremadura,3 dorm.,San Fernando
+596265,2 baños,venta,,90000,Media,2000,113.00,,Sí,2024-09-30 13:57:06,,Av. Felipe Trigo,,Badajoz,es,Extremadura,3 dorm.,San Fernando
+597104,,venta,,220000,Popular,1999,150.00,,,2024-10-21 11:55:34,1 (planta media),C. San Isidro,,Badajoz,es,Extremadura,5 dorm.,Ciudad Jardin
+599564,2 baños,venta,,92500,Popular,1979,84.00,,,2024-10-29 19:13:24,7 (planta alta),C. Gabriel y Galán,,Badajoz,es,Extremadura,3 dorm.,San Fernando
+591339,2 baños,venta,,92500,Popular,2006,72.00,,Sí,2024-10-29 17:58:36,2 (planta media),Cardenal Cisneros,,Badajoz,es,Extremadura,2 dorm.,San Fernando
+598948,1 baño,venta,,35000,Media,1975,75.00,,,2024-10-25 19:28:39,,C. Estremoz,,Badajoz,es,Extremadura,3 dorm.,San Fernando
+598741,1 baño,venta,,92500,Popular,1999,90.00,,,2024-10-22 11:54:37,Baja,C. Suecia,,Badajoz,es,Extremadura,3 dorm.,Estacion De Autobuses
+598738,2 baños,venta,,87500,Popular,1999,100.00,,,2024-10-22 13:52:57,1 (planta media),C. Suecia,,Badajoz,es,Extremadura,4 dorm.,Ciudad Jardin
+596581,1 baño,venta,,89900,Popular,1990,90.00,,,2024-10-18 17:35:09,Media,El Mimbrero,,Badajoz,es,Extremadura,3 dorm.,Estacion De Autobuses
+597527,2 baños,venta,,178900,Señorial,1994,130.00,,,2024-10-22 10:06:56,,C. Santo Cristo de la Paz,,Badajoz,es,Extremadura,4 dorm.,San Roque
+597877,2 baños,venta,,199900,Señorial,2002,122.00,,,2024-10-16 13:51:21,,Corte de Peleas,,Badajoz,es,Extremadura,4 dorm.,Corte De Peleas
+598346,,venta,,92500,De época,2006,72.00,,,2024-10-18 17:28:24,Media,Cardenal Cisneros,,Badajoz,es,Extremadura,2 dorm.,Ciudad Jardin
+597443,,venta,,269000,Popular,2008,132.00,,,2024-10-09 20:11:57,1 (planta media),Av. María Auxiliadora,,Badajoz,es,Extremadura,3 dorm.,Ciudad Jardin
+595074,1 baño,venta,,102500,Media,1976,94.00,,Sí,2024-09-18 19:21:42,,C. Pintor Barjola,,Badajoz,es,Extremadura,3 dorm.,San Fernando
+585547,1 baño,venta,,145500,Popular,1998,111.00,,,2024-06-10 19:13:23,,C. de José Macón,,Badajoz,es,Extremadura,2 dorm.,San Roque
+590855,2 baños,venta,e,335000,Popular,1981,105.00,"116,9 kWh/m&sup2; año",,2024-07-30 13:59:34,8 (planta alta),Gabriel Aresti Hiribidea,Independiente (Gas),Bilbao,es,País Vasco,3 dorm.,Txurdinaga
+599702,2 baños,venta,e,260000,Popular,2002,88.00,173 kW h/m&sup2; año,,2024-10-30 17:46:41,Alta,Gárate Kalea,Independiente (Gas),Bilbao,es,País Vasco,3 dorm.,Otxarkoaga
+598659,1 baño,venta,,205000,Popular,1995,75.00,,Sí,2024-10-21 18:41:37,4 (planta media),Julian Gaiarre Hiribidea,,Bilbao,es,País Vasco,2 dorm.,Txurdinaga
+598595,2 baños,venta,c,239000,Media,2000,83.00,1000 kWh/m&sup2; año,,2024-10-29 18:59:23,Baja,Pintor Losada,Independiente (Gas),Bilbao,es,País Vasco,2 dorm.,Basarrate - Bolueta
+599275,1 baño,venta,e,142826,Media,2008,55.00,189 kW h/m&sup2; año,Sí,2024-10-28 13:43:10,Baja,Orbegozo Matilde Kalea,centralizada (Gas),Bilbao,es,País Vasco,1 dorm.,Rekalde
+598472,2 baños,venta,,325000,Popular,1977,96.00,,,2024-10-28 13:20:41,Media,Miraflores Etorbidea,centralizada,Bilbao,es,País Vasco,3 dorm.,Santutxu
+599187,2 baños,venta,e,324990,De época,1977,94.00,137 kW h/m&sup2; año,,2024-10-25 17:21:40,,Miraflores Etorbidea,centralizada (Gas),Bilbao,es,País Vasco,3 dorm.,Basarrate - Bolueta
+595047,1 baño,venta,,185000,Popular,1949,63.00,,Sí,2024-09-19 18:39:35,4,Zabalbide Kalea,Independiente (Eléctrica),Bilbao,es,País Vasco,3 dorm.,Solokoetxe
+598447,2 baños,venta,e,285000,Popular,1965,135.00,183 kW h/m&sup2; año,,2024-10-21 10:44:24,3,Atxuri Kalea,Independiente (Eléctrica),Bilbao,es,País Vasco,3 dorm.,Atxuri
+596303,,venta,e,180000,Popular,1984,105.00,"188,8 kW h/m&sup2; año",Sí,2024-09-30 19:12:33,Alta,Bo. Olatxu,,Bilbao,es,País Vasco,4 dorm.,La Peña
+595938,1 baño,venta,,161000,Media,1956,62.00,,,2024-09-30 12:59:53,2 (planta baja),Bonaparte Luis Luciano Kalea,,Bilbao,es,País Vasco,3 dorm.,Basarrate - Bolueta
+595183,,venta,,49990,Popular,1930,71.00,,,2024-09-23 14:04:40,,C. Memorias,,Almería,es,Andalucía,2 dorm.,
+592202,2 baños,venta,,130000,Popular,2003,102.00,,Sí,2024-08-27 17:08:36,,C. Eduardo VII,centralizada,Almería,es,Andalucía,,Almería - Centro Histórico
+572805,,venta,,29900,Popular,1920,55.00,,,2024-10-22 11:04:51,1 (planta baja),C. Escuela de los Molinos,,Almería,es,Andalucía,,Los Molinos - El Puche - Torrecardenas
+596706,2 baños,venta,e,474900,Señorial,1991,336.00,162 kW h/m&sup2; año,,2024-10-03 16:12:05,Baja,Calle C.andalucia,,Almería,es,Andalucía,,
+582550,3 baños,venta,,298000,Popular,1992,206.00,,,2024-06-19 18:05:26,,C. Costa Canaria,,Almería,es,Andalucía,4 dorm.,Los Molinos - El Puche - Torrecardenas
+597237,1 baño,venta,,85000,Popular,1961,71.00,,,2024-10-08 11:48:47,,Carrera del Mami,,Almería,es,Andalucía,,Los Molinos - El Puche - Torrecardenas
+595362,1 baño,venta,,49900,Popular,1930,55.00,,,2024-10-07 18:10:10,Baja,C. Hipócrates,centralizada,Almería,es,Andalucía,,Almería - Centro Histórico
+591575,,venta,,59999,Popular,1975,50.00,,,2024-08-27 12:01:00,Baja,Calle Rosario,,Almería,es,Andalucía,,Almería - Centro Histórico
+589220,2 baños,venta,,130000,Popular,1987,86.00,,,2024-08-27 10:42:19,Baja,C. Eduardo VII,centralizada,Almería,es,Andalucía,,Almería - Centro Histórico
+594360,1 baño,venta,,154900,Media,2001,115.00,,,2024-09-13 12:35:13,3,C. Lijar,,Almería,es,Andalucía,3 dorm.,Los Molinos - El Puche - Torrecardenas
+596052,2 baños,venta,e,139000,Popular,2001,141.00,"176,91 kWh/m&sup2; año",,2024-09-27 19:34:05,,C. Ave Fénix,,Almería,es,Andalucía,4 dorm.,La Cañada
+591118,1 baño,venta,,49999,Popular,1936,54.00,,,2024-08-27 11:56:04,,Calle Reducto,centralizada,Almería,es,Andalucía,,Almería - Centro Histórico
+519153,2 baños,venta,e,185000,Media,1967,194.00,"168,6 kWh/m&sup2; año",,2024-02-01 13:05:15,,C. Vera,,Almería,es,Andalucía,6 dorm.,
+590288,2 baños,venta,,116000,Popular,1962,157.00,,,2024-08-27 11:23:43,,C. Eduardo VII,centralizada,Almería,es,Andalucía,,Almería - Centro Histórico
+589016,,venta,,79990,Señorial,1935,118.00,,,2024-08-14 11:34:35,Baja,C. Cámaras,,Almería,es,Andalucía,,
+588806,,venta,,310000,Media,1969,118.00,,,2024-07-11 18:20:43,Baja,C. Sancti Petri,,Cádiz,es,Andalucía,5 dorm.,Puerta Tierra
+551406,2 baños,venta,,85000,Media,1950,190.00,,,2023-07-11 19:30:51,,Monseñor Juan Manuel Font del riego,,Cordoba,es,Andalucía,4 dorm.,Sector Sur - Campo La Verdad
+563341,1 baño,venta,,88000,Media,1950,66.00,,,2024-10-02 10:20:05,,C. Medea,,Cordoba,es,Andalucía,2 dorm.,Sector Sur - Campo La Verdad
+590043,1 baño,venta,,29900,Media,1950,85.00,,,2024-07-23 19:36:34,Baja,C. Rey Don Pelayo,,Cordoba,es,Andalucía,3 dorm.,Sector Sur - Campo La Verdad
+595661,1 baño,venta,,69900,Media,2011,57.00,,,2024-09-27 12:14:49,,Calle Leovigildo,,Cordoba,es,Andalucía,2 dorm.,Sector Sur - Campo La Verdad
+597875,1 baño,venta,,69900,Media,2017,85.00,,,2024-10-17 18:54:45,Baja,Alfonso Onceno,,Cordoba,es,Andalucía,2 dorm.,Sector Sur - Campo La Verdad
+598181,,venta,,49900,Popular,1982,129.00,,,2024-10-16 13:18:45,Baja,C. el Encinar,,Cordoba,es,Andalucía,,Santa Rosa
+594684,3 baños,venta,,240000,Popular,2000,118.00,,,2024-09-17 12:41:58,,C. Horno,,Cordoba,es,Andalucía,3 dorm.,Sector Sur - Campo La Verdad
+595001,2 baños,venta,,109000,Media,2004,86.00,,,2024-09-18 20:13:59,,C. Secunda Romana,,Cordoba,es,Andalucía,3 dorm.,Sector Sur - Campo La Verdad
+574359,1 baño,venta,,59800,Media,1953,60.00,,,2024-10-01 17:55:15,Baja,Calle Yosuf,,Cordoba,es,Andalucía,3 dorm.,Sector Sur - Campo La Verdad
+570949,2 baños,venta,,145000,Popular,1949,144.00,,,2024-10-01 17:55:18,,C. Rey Don Pelayo,,Cordoba,es,Andalucía,2 dorm.,Sector Sur - Campo La Verdad
+594295,3 baños,venta,,290000,Señorial,2009,84.00,,,2024-09-13 12:42:30,,C/ Aguilares,,Cordoba,es,Andalucía,3 dorm.,Sector Sur - Campo La Verdad
+593345,1 baño,venta,,97500,Media,1960,97.00,,,2024-09-05 12:09:06,,Calle la Rábida,,Cordoba,es,Andalucía,2 dorm.,Sector Sur - Campo La Verdad
+590044,,venta,,35000,Media,1950,85.00,,,2024-07-23 19:39:27,Baja,C. Rey Don Pelayo,,Cordoba,es,Andalucía,3 dorm.,Sector Sur - Campo La Verdad
+583415,2 baños,venta,,168000,Media,1991,189.00,,,2024-05-21 17:51:12,,C. Cdad. de Carmona,,Cordoba,es,Andalucía,5 dorm.,Sector Sur - Campo La Verdad
+590244,1 baño,venta,,79990,Media,1900,65.00,,,2024-07-23 13:07:11,,C. Pompeya Paulina,,Cordoba,es,Andalucía,3 dorm.,Sector Sur - Campo La Verdad
+594278,1 baño,venta,f,114900,Popular,1970,114.00,"311,2 kW h/m&sup2; año",,2024-10-31 19:49:10,,C. Pozo,,Granada,es,Andalucía,3 dorm.,Chana - Cerillo - Maracena
+598642,,venta,,499000,Popular,1975,210.00,,,2024-10-31 16:54:18,3,C. Jesús Fandila,,Granada,es,Andalucía,,Chana - Villarejo - Barriada De La Cruz
+533122,2 baños,venta,f,399900,Popular,1900,234.00,"311,8 kW h/m&sup2; año",,2023-06-28 20:05:04,,Callejon Almona Albayzin,,Granada,es,Andalucía,4 dorm.,Albayzín
+592706,3 baños,venta,g,402000,Popular,1910,108.00,"375,28 kWh/m&sup2; año",,2024-09-02 20:28:07,,Cta. Aljibe de Trillo,Independiente,Granada,es,Andalucía,3 dorm.,Albayzín
+589327,1 baño,venta,,249900,Popular,1970,80.00,,,2024-07-31 11:49:09,1,Calle Cristo De La  Yedra 15,,Granada,es,Andalucía,3 dorm.,Beiro - Plaza De Toros - Triunfo
+337288,3 baños,venta,e,249000,Popular,1997,126.00,"205,13 kWh/m&sup2; año",,2024-08-27 12:15:06,,C. Javier Tortosa,,Granada,es,Andalucía,4 dorm.,Genil
+596454,1 baño,venta,,447900,Popular,1994,195.00,,,2024-10-07 19:50:53,,Torre De Alquiza,centralizada (Radiadores),Granada,es,Andalucía,,Zaidín
+589322,1 baño,venta,e,79900,Media,1950,76.00,"217,18 kW h/m&sup2; año",,2024-07-23 12:04:55,,C. Acequia de Aynadamar,,Granada,es,Andalucía,2 dorm.,Albayzín
+583606,,venta,,470000,Señorial,2006,203.00,,,2024-05-29 13:02:31,3 (planta media),C. Torre de las Rocas,centralizada (Gas),Granada,es,Andalucía,4 dorm.,Zaidín
+591523,3 baños,venta,e,299900,De época,2002,173.00,"261,47 kWh/m&sup2; año",,2024-10-09 18:11:45,,C. Luis Heredia Maya,centralizada (Radiadores),Granada,es,Andalucía,3 dorm.,Albayzín
+541529,1 baño,venta,g,180000,Popular,1910,178.00,"798,51 kWh/m&sup2; año",,2024-01-01 18:44:01,3 (planta media),C. Portería de Sta. Paula,,Granada,es,Andalucía,5 dorm.,Beiro - Plaza De Toros - Triunfo
+595961,2 baños,venta,f,77500,Señorial,2000,90.00,"255,12 kWh/m&sup2; año",,2024-10-07 19:17:12,,Calle Sta. Cruz,,Jaén,es,Andalucía,2 dorm.,
+555412,2 baños,venta,,23500,Media,1960,109.00,,,2024-10-28 14:12:36,,C. Bobadilla Baja,,Jaén,es,Andalucía,,Jaén
+593413,2 baños,venta,,119000,Media,1994,10000.00,,,2024-09-06 11:53:20,,Carretera de Arbuniel,,Jaén,es,Andalucía,5 dorm.,Jaén
+586796,,venta,e,37000,Media,1900,94.00,"278,42 kW h/m&sup2; año",,2024-06-26 11:14:21,,C. Castillo de Jaén,,Jaén,es,Andalucía,3 dorm.,
+579105,1 baño,venta,,18500,Media,1965,136.00,,,2024-04-23 11:28:07,,C. Vacas,,Jaén,es,Andalucía,,
+582481,1 baño,venta,f,47000,De época,1940,143.00,"357,7 kW h/m&sup2; año",,2024-05-13 13:12:29,,C. Llana de San Juan,,Jaén,es,Andalucía,3 dorm.,
+585416,2 baños,venta,e,45500,De época,1940,222.00,"279,40 kW h/m&sup2; año",,2024-06-28 17:23:32,,C. Elvin,,Jaén,es,Andalucía,4 dorm.,
+589632,1 baño,venta,f,47500,Popular,1955,116.00,"437,29 kW h/m&sup2; año",,2024-07-18 10:49:46,,C. Hornos Mírez,,Jaén,es,Andalucía,3 dorm.,Jaén
+593484,2 baños,venta,f,85500,Popular,2007,62.00,"352,4 kW h/m&sup2; año",,2024-09-06 11:50:34,,C. Bobadilla Alta,Independiente (Gas),Jaén,es,Andalucía,3 dorm.,
+567909,2 baños,venta,c,112000,Media,1950,278.00,"109,03 kWh/m&sup2; año",,2023-12-20 11:58:48,,Calle Compañía,,Jaén,es,Andalucía,4 dorm.,
+581302,1 baño,venta,,44900,Media,1940,50.00,,,2024-05-13 18:38:21,,Calle Santiago,,Jaén,es,Andalucía,2 dorm.,
+365749,1 baño,venta,e,93000,Media,1950,167.00,"301,91 kW h/m&sup2; año",,2022-11-28 11:00:15,,Callejón los Mártires,,Jaén,es,Andalucía,3 dorm.,
+585126,1 baño,venta,,47900,De época,1940,163.00,,,2024-06-07 10:42:21,,C. Positillo,,Jaén,es,Andalucía,3 dorm.,
+588665,2 baños,venta,,87200,Media,1950,163.00,,,2024-09-05 19:25:24,,Calle arrastradero,,Jaén,es,Andalucía,,
+573321,3 baños,venta,,77500,Media,1964,69.00,,,2024-02-15 13:03:30,,C. la Corona,,Jaén,es,Andalucía,2 dorm.,Jaén
+591827,2 baños,venta,d,365000,Media,1944,173.00,"93,99 kWh/m&sup2; año",,2024-08-30 19:32:17,,C. Eduardo Bayo,,Málaga,es,Andalucía,4 dorm.,Marmoles - Bailen - Trinidad
+599456,1 baño,venta,e,310000,De época,1936,65.00,"110,5 kW h/m&sup2; año",,2024-10-29 11:49:02,,Calle bolivia,,Málaga,es,Andalucía,2 dorm.,Pedregalejo
+589280,2 baños,venta,d,120000,Media,1968,96.00,"105,3 kW h/m&sup2; año",,2024-07-16 19:09:24,,Calle Dr. Carrión Pérez,,Málaga,es,Andalucía,2 dorm.,Jardín Botánico - Sagrada Família
+598327,2 baños,venta,d,350000,Popular,1990,172.00,"93,8 kWh/m&sup2; año",,2024-10-18 19:28:36,2 (planta media),C. Balzac,Independiente,Málaga,es,Andalucía,3 dorm.,Puerto De La Torre
+572249,2 baños,venta,d,349000,Media,1944,185.00,"93,99 kWh/m&sup2; año",,2024-02-02 20:08:24,,C. Eloy Sebastián Fraile,,Málaga,es,Andalucía,4 dorm.,Eugenio Gross - Echevarria
+597752,2 baños,venta,c,360000,Popular,1998,275.00,"55,3 kW h/m&sup2; año",,2024-10-18 14:01:15,,C. Gavilán,,Málaga,es,Andalucía,3 dorm.,Puerto De La Torre
+588362,1 baño,venta,d,262000,Media,1954,78.00,"93,99 kW h/m&sup2; año",,2024-07-05 10:50:55,,C. Manuel Aparicio,,Málaga,es,Andalucía,3 dorm.,Eugenio Gross - Echevarria
+589416,3 baños,venta,e,378000,Media,2005,102.00,"128,5 kWh/m&sup2; año",,2024-10-25 11:10:34,Baja,C. Irlanda,,Málaga,es,Andalucía,3 dorm.,Ortega Y Gasset
+593102,3 baños,venta,d,369000,Popular,1997,214.00,"74,7 kWh/m&sup2; año",,2024-10-25 11:10:02,,C. Río Távora,,Málaga,es,Andalucía,4 dorm.,Ortega Y Gasset
+592218,1 baño,venta,e,250000,Media,2007,119.00,"81,12 kWh/m&sup2; año",,2024-09-03 11:35:03,,Fortunata y Jacinta,Independiente,Málaga,es,Andalucía,3 dorm.,Puerto De La Torre
+594783,3 baños,venta,e,289900,Media,1986,270.00,"100,1 kWh/m&sup2; año",,2024-10-11 09:09:31,Baja,C. Santillana,,Málaga,es,Andalucía,4 dorm.,Ciudad Jardin Norte
+595127,2 baños,venta,,380000,Media,1991,146.00,,,2024-09-19 19:50:52,,Calle Tambre,,Málaga,es,Andalucía,3 dorm.,Carlos De Haya
+590046,2 baños,venta,f,350000,Media,1936,84.00,"188,66 kWh/m&sup2; año",,2024-08-05 19:39:07,,Av. Salvador Allende,,Málaga,es,Andalucía,4 dorm.,El Palo
+593330,2 baños,venta,c,550000,Popular,2007,130.00,"49,1 kW h/m&sup2; año",,2024-09-10 17:47:33,Baja,C. Irlanda,,Málaga,es,Andalucía,3 dorm.,Ortega Y Gasset
+533924,1 baño,venta,e,179990,Media,1952,140.00,171 kWh/m&sup2; año,,2024-10-02 17:55:51,Planta baja,Calle alvarez benavides,,Sevilla,es,Andalucía,2 dorm.,Cerro Del Aguila
+597337,2 baños,venta,,126500,Media,1984,173.00,,,2024-10-10 17:32:36,Baja,Calle Torrepalma,,Sevilla,es,Andalucía,,Torreblanca
+593270,1 baño,venta,g,289990,Señorial,1994,244.00,"259,49 kWh/m&sup2; año",,2024-09-03 13:13:42,2 (planta planta baja),C. Diamantino García Acosta,,Sevilla,es,Andalucía,2 dorm.,Cerro Del Aguila
+581171,2 baños,venta,,120000,Popular,1980,158.00,,,2024-10-08 13:47:19,,Calle Puebla de Cazalla,,Sevilla,es,Andalucía,3 dorm.,Palmete - La Negrilla
+595348,2 baños,venta,,117260,Media,1984,135.00,,,2024-10-08 13:46:36,,Calle Serenidad,,Sevilla,es,Andalucía,3 dorm.,Palmete - La Negrilla
+599608,2 baños,venta,,110000,Popular,1981,139.00,,,2024-10-30 10:46:57,,Calle Generosidad,Independiente,Sevilla,es,Andalucía,,Palmete - La Negrilla
+599292,1 baño,venta,,200000,Popular,1945,78.00,,,2024-10-29 20:07:38,,Calle Écija,,Sevilla,es,Andalucía,,Oliva - Tiro De Linea
+598539,1 baño,venta,,59900,De época,1971,89.00,,,2024-10-22 19:16:00,Baja,Calle Torrejoncillo,,Sevilla,es,Andalucía,,Torreblanca
+593912,2 baños,venta,,157000,Media,1975,294.00,,,2024-09-11 18:04:29,Baja,Calle Torrenueva,,Sevilla,es,Andalucía,,Torreblanca
+597213,2 baños,venta,e,399999,Popular,1959,145.00,"180,75 kW h/m&sup2; año",,2024-10-17 17:41:16,,Calle Almensilla,,Sevilla,es,Andalucía,5 dorm.,Macarena - León XIII - Pio XII
+594172,2 baños,venta,,129000,Señorial,1970,225.00,,,2024-09-11 17:36:41,2,Calle Torresandino,,Sevilla,es,Andalucía,,Torreblanca
+579034,1 baño,venta,f,49900,Señorial,1955,57.00,"245,13 kW h/m&sup2; año",,2024-04-16 17:35:16,,Calle  Virgen de la Saletta,,Sevilla,es,Andalucía,2 dorm.,Su Eminencia 
+598309,2 baños,venta,,255000,Popular,2010,200.00,,,2024-10-17 13:23:21,,Calle Linaria,,Sevilla,es,Andalucía,4 dorm.,Pino Montano - Los Oficios Y Mares
+549014,3 baños,venta,e,325000,Popular,1970,232.00,"197,87 kW h/m&sup2; año",,2023-06-07 18:09:46,2,Calle Párroco Antonio Gómez Villalobos,,Sevilla,es,Andalucía,5 dorm.,Cerro Del Aguila
+593723,1 baño,venta,,109900,Media,1950,76.00,,,2024-10-23 10:54:42,,C. Borja,,Sevilla,es,Andalucía,3 dorm.,Bellavista - Jardines De Hercules
+577080,3 baños,venta,,290000,Señorial,1995,250.00,,,2024-03-20 20:33:08,,C. de José Ramírez,Independiente (Gas),Zaragoza,es,Aragón,5 dorm.,Las Fuentes
+591933,2 baños,venta,,257000,Media,1990,178.00,,,2024-09-19 19:25:28,,Cl. Mayor,Independiente,Zaragoza,es,Aragón,3 dorm.,Casetas
+592229,2 baños,venta,e,366000,Popular,1993,320.00,"212,5 kW h/m&sup2; año",,2024-09-16 19:01:08,,Calle Monte Perdido,Independiente (Radiadores),Zaragoza,es,Aragón,,Picarral
+507776,1 baño,venta,,210000,Popular,1950,124.00,,,2024-04-10 19:14:13,,Av. de San José,,Zaragoza,es,Aragón,4 dorm.,San Jose
+596969,2 baños,venta,g,170000,Popular,1962,100.00,102 kWh/m&sup2; año,,2024-10-14 14:08:31,,Calle el Tanque,,Santa Cruz De Tenerife,es,Canarias,3 dorm.,La Cuesta
+597361,1 baño,venta,g,110000,Popular,1989,160.00,150 kWh/m&sup2; año,,2024-10-16 11:11:30,,Pasaje Draguillo,Independiente (Solar),Santa Cruz De Tenerife,es,Canarias,3 dorm.,Santa Cruz De Tenerife
+595792,4 baños,venta,e,670000,Señorial,1999,380.00,"74,50 kWh/m&sup2; año",,2024-10-11 20:20:12,,Pje. de Gaspar Fernández,,Santa Cruz De Tenerife,es,Canarias,7 dorm.,Santa Cruz De Tenerife
+597209,3 baños,venta,g,160000,Media,1968,297.00,159 kWh/m&sup2; año,,2024-10-16 11:54:16,,C. Tangara,,Santa Cruz De Tenerife,es,Canarias,9 dorm.,Santa Cruz De Tenerife
+595737,,venta,,72000,Popular,1980,90.00,,,2024-10-23 21:57:49,2,C. Antonio Saro,,Santa Cruz De Tenerife,es,Canarias,,Santa Cruz De Tenerife
+590005,1 baño,venta,g,129900,Señorial,1961,112.00,98 kW h/m&sup2; año,,2024-10-24 14:13:13,,Calle Isla de La Gomera,,Santa Cruz De Tenerife,es,Canarias,3 dorm.,Cruz Del Señor
+594483,1 baño,venta,g,239200,Media,1939,90.00,132 kW h/m&sup2; año,,2024-10-11 20:49:38,,C. Castellon de la Plana,,Santa Cruz De Tenerife,es,Canarias,,La Salle
+585985,3 baños,venta,c,399900,Señorial,1998,234.00,98 kWh/m&sup2; año,,2024-07-01 19:28:08,,Calle de Miriam Blasco,Independiente (Gas),Valladolid,es,Castilla Y León,4 dorm.,Parquesol
+558966,3 baños,venta,e,399900,Señorial,2006,276.00,351 kWh/m&sup2; año,,2023-09-22 15:28:31,,C. Compositor Facundo Viña,Independiente (Gas),Valladolid,es,Castilla Y León,5 dorm.,Parquesol
+599605,2 baños,venta,c,159900,Popular,2009,140.00,81 kW h/m&sup2; año,,2024-10-31 17:44:02,Baja,Don Juan Bravo,Independiente (Geotérmica),Valladolid,es,Castilla Y León,4 dorm.,La Victoria 
+597383,1 baño,venta,e,114900,Popular,1958,91.00,"362,00 kW h/m&sup2; año",,2024-10-29 18:17:02,,C. Valoria,Independiente (Gas),Valladolid,es,Castilla Y León,3 dorm.,Santa Clara 
+596363,,venta,,95000,Popular,1940,145.00,,,2024-09-30 20:50:02,Baja,Subida Fuente el Sol,,Valladolid,es,Castilla Y León,3 dorm.,La Victoria 
+597944,1 baño,venta,f,69900,Media,1936,60.00,412 kW h/m&sup2; año,,2024-10-21 20:46:35,Baja,Rincon Del Esgueva,,Valladolid,es,Castilla Y León,3 dorm.,Pajarillos 
+575545,2 baños,venta,g,154900,Popular,1960,150.00,"498,2 kWh/m&sup2; año",,2024-03-15 13:27:02,Baja,C. Alcarria,,Valladolid,es,Castilla Y León,4 dorm.,Barrio España 
+594542,1 baño,venta,,63900,Popular,1940,96.00,,,2024-09-23 12:43:25,Baja,C. Alcarria,,Valladolid,es,Castilla Y León,,Barrio España 
+590165,3 baños,venta,d,299900,Señorial,1988,243.00,176 kWh/m&sup2; año,,2024-09-20 17:25:26,,Calle Mariano de los Cobos,Independiente (Eléctrica),Valladolid,es,Castilla Y León,4 dorm.,Parquesol
+579879,3 baños,venta,g,299900,Media,1980,284.00,"233,95 kWh/m&sup2; año",,2024-05-03 19:04:01,71 (planta planta baja),Avenida Cedro,"Independiente (Chimenea, A Gasoil)",Valladolid,es,Castilla Y León,5 dorm.,La Rubia
+593138,2 baños,venta,e,179000,Popular,1995,241.00,250 kWh/m&sup2; año,,2024-08-29 19:10:53,,Calle Hoyo de la arena,Independiente,Valladolid,es,Castilla Y León,4 dorm.,La Rubia
+552256,1 baño,venta,,75000,Popular,1952,71.00,,,2024-02-22 11:51:58,Planta baja,Calle del Sol,,Valladolid,es,Castilla Y León,3 dorm.,4 Marzo - La Farola
+518282,,venta,,84900,Popular,1928,114.00,,,2023-01-24 12:46:22,,Calle del Sol,,Valladolid,es,Castilla Y León,,4 Marzo - La Farola
+598563,2 baños,venta,e,245990,Media,1965,100.00,"228,5 kWh/m&sup2; año",,2024-10-31 11:32:08,,C. Perala,Independiente (A Gasoil),Toledo,es,Castilla-La Mancha,4 dorm.,Avenida De Europa - San Antón - Plaza De Toros
+595928,2 baños,venta,f,229990,De época,1880,214.00,"335,1 kW h/m&sup2; año",,2024-10-04 19:39:54,,Cta. San Justo,Independiente,Toledo,es,Castilla-La Mancha,7 dorm.,Casco Histórico
+596993,,venta,e,319999,Popular,2005,190.00,"190,2 kW h/m&sup2; año",,2024-10-11 19:18:21,,C. Rodrigo de la Fuente,Independiente (Gas),Toledo,es,Castilla-La Mancha,3 dorm.,Buenavista - Av. Irlanda
+563769,2 baños,venta,e,120000,Media,1900,108.00,"179,7 kWh/m&sup2; año",,2023-11-30 16:57:52,,Bajada Barco,,Toledo,es,Castilla-La Mancha,3 dorm.,Casco Histórico
+589603,1 baño,venta,e,85000,De época,1900,52.00,"303,3 kW h/m&sup2; año",,2024-08-10 10:26:10,,C. de la Retama,,Toledo,es,Castilla-La Mancha,1 dorm.,Casco Histórico
+596462,2 baños,venta,g,159990,De época,1880,133.00,"405,90 kW h/m&sup2; año",,2024-10-15 16:39:46,,C. Cristo de la Calavera,Independiente (Eléctrica),Toledo,es,Castilla-La Mancha,2 dorm.,Casco Histórico
+595210,1 baño,venta,f,210000,Media,1900,226.00,"335,1 kW h/m&sup2; año",,2024-09-24 20:37:56,,C. San Cipriano,Independiente (A Gasoil),Toledo,es,Castilla-La Mancha,3 dorm.,Casco Histórico
+578943,3 baños,venta,e,74900,Media,1880,283.00,"145,45 kW h/m&sup2; año",,2024-07-25 17:33:03,,Callejón Recogidas,,Toledo,es,Castilla-La Mancha,6 dorm.,Casco Histórico
+577549,,venta,f,109990,De época,1930,347.00,110 kW h/m&sup2; año,,2024-04-10 13:04:13,,C. Cuestas,,Toledo,es,Castilla-La Mancha,,Santa Barbara
+571056,1 baño,venta,e,104990,Popular,1970,105.00,"178,8 kW h/m&sup2; año",,2024-07-09 09:53:32,,Calle de la Sal,,Toledo,es,Castilla-La Mancha,3 dorm.,Casco Histórico
+575927,1 baño,venta,e,139990,Media,1900,324.00,"149,5 kW h/m&sup2; año",,2024-03-12 11:27:10,,C. Cristo de la Calavera,,Toledo,es,Castilla-La Mancha,12 dorm.,Casco Histórico
+531941,3 baños,venta,d,305000,De época,1912,215.00,126 kWh/m&sup2; año,,2022-12-27 12:48:47,,Carrer L'Aviador Ruiz de Alda,,Barcelona,es,Cataluña,4 dorm.,Zona Franca
+591377,2 baños,venta,e,599000,Popular,1957,224.00,168 kWh/m&sup2; año,,2024-08-05 13:36:04,Baja,Carrer de Llobet I Vall-llosera,,Barcelona,es,Cataluña,5 dorm.,El Guinardó
+595106,4 baños,venta,e,575000,Popular,1994,526.00,220 kW h/m&sup2; año,,2024-09-18 20:29:11,,Carrer de Viladrosa,,Barcelona,es,Cataluña,6 dorm.,Verdun
+588513,2 baños,venta,e,480000,Señorial,1954,206.00,200 kW h/m&sup2; año,,2024-07-06 12:53:17,,Carrer de Santanyí,centralizada (Radiadores),Barcelona,es,Cataluña,7 dorm.,Porta
+588111,,venta,,650000,Popular,2024,107.00,,,2024-07-11 13:22:28,Baja,Carrer dels Consorts Sans Bernet,,Barcelona,es,Cataluña,,Horta
+582546,1 baño,venta,g,280000,Media,1930,150.00,450 kW h/m&sup2; año,,2024-05-13 17:54:22,1 (planta baja),Passatge Compañyia,,Barcelona,es,Cataluña,4 dorm.,Plaça Maragall
+587754,2 baños,venta,g,255000,Media,1985,250.00,264 kW h/m&sup2; año,,2024-07-10 13:22:14,,Camí de Terres Cavades,centralizada,Tarragona,es,Cataluña,4 dorm.,
+591752,2 baños,venta,e,1350000,Señorial,1980,822.00,189 kWh/m&sup2; año,,2024-08-19 12:14:56,,P.º de la Alameda de Osuna,Independiente (Gas),Madrid,es,Comunidad De Madrid,4 dorm.,Alameda De Osuna
+535085,4 baños,venta,e,810000,Popular,2003,236.00,272 kWh/m&sup2; año,,2023-01-30 10:51:04,Media,C. Arbucias,"centralizada (Chimenea, Gas)",Madrid,es,Comunidad De Madrid,3 dorm.,Montecarmelo
+596097,1 baño,venta,,180000,Señorial,1900,79.00,,,2024-10-16 09:39:23,,Calle de las Poderosas,,Madrid,es,Comunidad De Madrid,2 dorm.,Barajas
+599084,2 baños,venta,,450000,Popular,1934,260.00,,,2024-10-25 11:00:04,,C. Piqueñas,,Madrid,es,Comunidad De Madrid,3 dorm.,Carabanchel Alto
+573269,5 baños,venta,e,1300000,Señorial,1977,339.00,"282,3 kWh/m&sup2; año",,2024-07-10 11:00:00,,C. de Teseo,Independiente (Gas),Madrid,es,Comunidad De Madrid,4 dorm.,Salvador - Arturo Soria
+593286,2 baños,venta,d,390000,Media,1956,144.00,50 kW h/m&sup2; año,,2024-09-27 10:55:10,Baja,Plaza parvillas,,Madrid,es,Comunidad De Madrid,4 dorm.,Villaverde Alto
+598256,1 baño,venta,e,429000,Popular,2003,90.00,306 kWh/m&sup2; año,,2024-10-16 20:07:06,,C. de Gomeznarro,Independiente,Madrid,es,Comunidad De Madrid,,
+596758,1 baño,venta,,719000,Media,1940,103.00,,,2024-10-09 12:56:41,Media,Calle Ribera del Manzanares,Independiente (Gas),Madrid,es,Comunidad De Madrid,3 dorm.,Madrid
+584104,1 baño,venta,d,500000,Media,1959,156.00,598 kWh/m&sup2; año,,2024-05-30 09:39:21,,C. Nueve,,Madrid,es,Comunidad De Madrid,4 dorm.,Ciudad Pegaso
+585403,1 baño,venta,d,159000,Popular,1930,62.00,50 kW h/m&sup2; año,,2024-09-24 18:15:44,,C. Alberto Palacios,,Madrid,es,Comunidad De Madrid,,Villaverde Alto
+590065,4 baños,venta,,900000,Popular,1978,265.00,,,2024-07-31 12:58:33,Baja,C. Fernando Oriol,,Madrid,es,Comunidad De Madrid,4 dorm.,Aravaca
+594065,,venta,f,1890000,Media,2003,454.00,"328,3 kWh/m&sup2; año",,2024-09-11 19:55:12,,C. del Santo Ángel,Independiente (Gas),Madrid,es,Comunidad De Madrid,7 dorm.,
+590404,3 baños,venta,,730000,Popular,2002,192.00,,,2024-07-30 23:59:55,,Calle Versalles,,Madrid,es,Comunidad De Madrid,3 dorm.,San Blas - Canillejas
+579293,,venta,g,117000,Popular,1978,30.00,344 kWh/m&sup2; año,,2024-04-11 17:31:45,Baja,C. Carlos Aurioles,,Madrid,es,Comunidad De Madrid,2 dorm.,San Diego
+576560,2 baños,venta,,490000,Popular,1958,80.00,,,2024-07-02 17:48:27,Baja,C. Castromonte,,Madrid,es,Comunidad De Madrid,3 dorm.,
+587412,2 baños,venta,,290000,Señorial,1950,228.00,,,2024-06-27 18:19:27,,C. Magistral Segura,,Alicante,es,Comunidad Valenciana,3 dorm.,San Blas
+583944,1 baño,venta,e,249900,Media,1980,147.00,238 kWh/m&sup2; año,,2024-05-24 18:56:00,,C. Río Misisipi,,Alicante,es,Comunidad Valenciana,2 dorm.,Los Ángeles
+590166,2 baños,venta,,380000,Señorial,1890,2400.00,,,2024-07-24 10:11:17,,Ctra. del Pi,,Valencia,es,Comunidad Valenciana,6 dorm.,Fonteta - Hnos Maristas
+588676,1 baño,venta,,35000,Señorial,1999,175.00,,,2024-10-31 20:25:38,,C. Herradura,,Badajoz,es,Extremadura,5 dorm.,San Roque
+596593,1 baño,venta,,24900,Popular,1990,100.00,,,2024-10-31 11:11:32,,C. San Vicente de Paul,,Badajoz,es,Extremadura,,Estacion De Autobuses
+560052,2 baños,venta,,41900,Señorial,1960,161.00,,,2024-03-01 10:20:59,,C. Caballero Villarroel,,Badajoz,es,Extremadura,5 dorm.,San Roque
+565362,2 baños,venta,,42000,Señorial,1960,80.00,,,2024-10-31 09:52:15,,C. Caballero Villarroel,,Badajoz,es,Extremadura,,San Roque
+597088,,venta,,244900,Popular,2016,250.00,,,2024-10-07 20:04:52,Baja,Rafael Gil Gonzalez,,Badajoz,es,Extremadura,,Ciudad Jardin
+597373,,venta,,89900,Popular,1972,82.00,,,2024-10-29 10:43:58,1 (planta media),C. Bonifacio Gil,,Badajoz,es,Extremadura,,Ciudad Jardin
+598880,4 baños,venta,,710000,Popular,2000,280.00,,,2024-10-25 19:32:04,,Calle de Ntra. Sra. de Guadalupe,,Badajoz,es,Extremadura,6 dorm.,San Fernando
+598566,2 baños,venta,,86000,Media,1999,110.00,,,2024-10-21 11:35:14,Baja,C. Bélgica,,Badajoz,es,Extremadura,4 dorm.,Ciudad Jardin
+596806,,venta,,74900,Popular,1975,91.00,,,2024-10-24 11:18:18,,C. de José Macón,,Badajoz,es,Extremadura,3 dorm.,San Roque
+595469,5 baños,venta,,109900,Media,1974,419.00,,,2024-10-22 20:34:44,,C. Gurugú,,Badajoz,es,Extremadura,8 dorm.,San Fernando
+596936,1 baño,venta,,147500,Popular,1999,165.00,,,2024-10-21 17:18:44,,El Fresno,,Badajoz,es,Extremadura,5 dorm.,Estacion De Autobuses
+598436,2 baños,venta,,96000,Media,1968,100.00,,,2024-10-18 17:29:15,,Calle Jalifa,,Badajoz,es,Extremadura,4 dorm.,San Fernando
+595142,2 baños,venta,,57000,Popular,1974,142.00,,,2024-09-20 13:55:10,Baja,C. San Marcial,,Badajoz,es,Extremadura,3 dorm.,San Fernando
+564139,1 baño,venta,,137000,Señorial,1965,160.00,,,2024-10-14 20:19:35,,C. Lopez de Tovar,,Badajoz,es,Extremadura,4 dorm.,San Roque
+596942,1 baño,venta,d,89900,Media,2007,148.00,"146,3 kW h/m&sup2; año",,2024-10-16 12:57:38,,C. Herradura,,Badajoz,es,Extremadura,2 dorm.,San Roque
+520676,1 baño,alquiler,e,780,Media,2000,85.00,164 kW h/m&sup2; año,Sí,2024-10-31 11:41:01,,C. Minerva,centralizada (Gas),Granada,es,Andalucía,3 dorm.,Cartuja - Traumatología
+564311,2 baños,alquiler,e,1400,Señorial,1980,85.00,"85,47 kWh/m&sup2; año",Sí,2024-10-31 11:40:55,,Cam. de Alfacar,,Granada,es,Andalucía,5 dorm.,Cartuja - Traumatología
+591678,1 baño,alquiler,,109000,Popular,2000,67.00,,,2024-08-22 20:53:09,Semisótano,C. Real de Cartuja,,Granada,es,Andalucía,2 dorm.,Beiro - Plaza De Toros - Triunfo
+596594,2 baños,alquiler,c,2300,Media,2020,215.00,"72,32 kWh/m&sup2; año",,2024-10-07 10:39:22,,Calle Vesta,centralizada,Málaga,es,Andalucía,3 dorm.,Puerto De La Torre
+597960,2 baños,alquiler,e,1700,Popular,2000,103.00,"154,8 kW h/m&sup2; año",,2024-10-18 19:28:39,,Calle Ortosa,Independiente,Málaga,es,Andalucía,3 dorm.,Puerto De La Torre
+599224,,alquiler,,150,Popular,2010,26.00,,,2024-10-28 12:16:48,-4 (planta sótano),Calle Ntra. Sra. de los Clarines,,Málaga,es,Andalucía,,Miraflores De Los Angeles
+564429,,alquiler,,750,Popular,1960,83.00,,,2024-10-28 11:54:28,Baja,P.º Tanima,,Málaga,es,Andalucía,3 dorm.,La Paz - Puerta Blanca
+597338,,alquiler,b,1600,Popular,2023,70.00,"20,44 kW h/m&sup2; año",,2024-10-09 10:31:56,19 (planta alta),Paseo Martiricos,,Málaga,es,Andalucía,2 dorm.,Martiricos
+596737,,alquiler,,1100,Popular,1998,89.00,,Sí,2024-10-08 12:58:51,,C. México,,Málaga,es,Andalucía,3 dorm.,Carlos De Haya
+596646,,alquiler,,600,Popular,1983,67.00,,,2024-10-03 09:55:24,Planta baja,C. Victoria Mérida y Piret,,Málaga,es,Andalucía,2 dorm.,Las Delicias - Giron - Parque Mediterraneo
+588974,,alquiler,,600,Señorial,1992,142.00,,,2024-07-30 11:09:38,,C/ José Iturbi,,Málaga,es,Andalucía,1 dorm.,Nueva Malaga - Las Chapas
+594165,4 baños,alquiler,,4000,Media,1998,254.00,,,2024-09-12 09:29:48,Planta baja,Av. de Carlos Haya,Independiente,Málaga,es,Andalucía,,Carlos De Haya
+594692,,alquiler,,1000,Popular,1960,85.00,,,2024-09-17 09:24:57,6,C. Ulía,,Sevilla,es,Andalucía,,El Plantinar - Tiro De Linea
+346477,2 baños,alquiler,e,1200,Popular,2003,161.00,"132,28 kWh/m&sup2; año",,2020-05-27 13:39:20,Baja,Calle Afán de Ribera,Independiente (Eléctrica),Sevilla,es,Andalucía,,Cerro Del Aguila
+576402,1 baño,alquiler,,530,Media,1975,54.00,,,2024-03-12 19:24:56,Baja,Calle Aragon,,Sevilla,es,Andalucía,,Cerro Del Aguila
+588980,,alquiler,,70,Media,2005,12.00,,,2024-07-10 19:25:37,1 (planta media),C. Rector Candil,,Sevilla,es,Andalucía,,El Plantinar - Tiro De Linea
+599204,,alquiler,,650,De época,1969,96.00,,,2024-10-25 11:24:00,Baja,C. San Joaquín,,Sevilla,es,Andalucía,,Arroyo - Santa Justa
+592421,1 baño,alquiler,,950,Señorial,2023,80.00,,Sí,2024-08-20 19:38:43,Planta baja,C. Nicolás Díaz Benjumea,centralizada (Paneles Solares),Sevilla,es,Andalucía,2 dorm.,Su Eminencia 
+574301,,alquiler,,950,Señorial,2023,60.00,,Sí,2024-05-27 17:40:34,1 (planta media),C. Nicolás Díaz Benjumea,,Sevilla,es,Andalucía,2 dorm.,Su Eminencia 
+593234,2 baños,alquiler,e,420,Popular,2001,185.00,"135,65 kW h/m&sup2; año",,2024-08-30 20:35:51,Media,C. Afán de Ribera,,Sevilla,es,Andalucía,1 dorm.,Cerro Del Aguila
+595385,1 baño,alquiler,,320,Popular,1970,14.00,,,2024-09-23 20:48:19,Baja,C. Párroco Antonio Gómez Villalobos,,Sevilla,es,Andalucía,1 dorm.,Cerro Del Aguila
+589589,,alquiler,,800,Popular,1975,84.00,,,2024-08-06 10:41:00,,Calle Puerto de la Molina,,Sevilla,es,Andalucía,,Amate - Rochelambert
+589306,1 baño,alquiler,,450,Media,2002,24.00,,,2024-08-20 10:54:46,Baja,Cortijo de la Albarrana,,Sevilla,es,Andalucía,,Carretera De Carmona - San Diego - Las Naciones
+583429,2 baños,alquiler,,650,Popular,1940,55.00,,,2024-05-23 12:15:19,Baja,Av. de Pino Montano,,Sevilla,es,Andalucía,,Macarena - La Salle - Begoña
+513789,1 baño,alquiler,,500,Popular,1973,60.00,,,2023-12-21 19:11:08,Baja,Plaza Dr. Barraquer,Independiente (Eléctrica),Sevilla,es,Andalucía,,Macarena Golondrinas - Sanchez Pijuan
+586238,1 baño,alquiler,f,700,Media,1978,50.00,"388,45 kWh/m&sup2; año",,2024-06-18 10:12:28,Baja,C. José María de Pereda,,Sevilla,es,Andalucía,,Cerro Del Aguila
+599554,1 baño,alquiler,,650,Media,2008,85.00,,Sí,2024-10-29 13:14:15,1 (planta alta),Av. de Logroño,Independiente (Gas),Zaragoza,es,Aragón,2 dorm.,Casetas
+504523,1 baño,alquiler,,1500,Media,1977,65.00,,,2022-03-10 20:26:00,Baja,Calle de Pano y Ruata,centralizada (Eléctrica),Zaragoza,es,Aragón,2 dorm.,Arrabal
+550093,,alquiler,,75,Señorial,1979,10.00,,Sí,2023-06-16 16:47:25,Baja,Urbanización Parque Roma,centralizada (Gas),Zaragoza,es,Aragón,,Parque Roma
+592125,,alquiler,f,650,Media,1980,81.00,141 kW h/m&sup2; año,,2024-08-21 10:50:51,Baja,C. de las Delicias,,Zaragoza,es,Aragón,,Delicias
+192640,2 baños,alquiler,c,700,Media,2005,100.00,"247,1 kWh/m&sup2; año",,2024-06-25 14:04:53,Baja,C. Pedro Saputo,,Zaragoza,es,Aragón,5 dorm.,Actur
+522775,1 baño,alquiler,c,400,Popular,1961,39.00,292 kWh/m&sup2; año,,2024-09-27 11:40:13,Baja,Salvador minguijon,,Zaragoza,es,Aragón,,Las Fuentes
+582506,,alquiler,,35,Media,2005,13.00,,Sí,2024-05-13 13:34:27,,Calle Ibón de Catieras,,Zaragoza,es,Aragón,,Miralbueno
+353114,1 baño,alquiler,d,2260,Popular,1984,199.00,"305,30 kWh/m&sup2; año",,2023-04-03 17:29:25,,Calle Pablo Ruiz Picasso,,Zaragoza,es,Aragón,,Actur
+593105,2 baños,alquiler,e,1200,Señorial,1990,300.00,"212,5 kWh/m&sup2; año",,2024-08-29 17:29:38,Alta,C. de Jesús y María,,Zaragoza,es,Aragón,3 dorm.,Picarral
+548628,,alquiler,f,375,Media,2000,58.00,"296,00 kW h/m&sup2; año",,2024-07-20 11:45:47,Baja,Calle Poeta Rosalía de Castro,,Zaragoza,es,Aragón,,Actur
+570646,1 baño,alquiler,d,950,De época,1944,85.00,"271,8 kWh/m&sup2; año",,2024-01-19 19:45:30,,Plaza San Gregorio,,Zaragoza,es,Aragón,,Arrabal
+503468,1 baño,alquiler,d,480,Popular,1990,101.00,"1333,38 kWh/m&sup2; año",,2022-03-02 19:49:50,Planta baja,Calle Mariano Turmo,centralizada (Eléctrica),Zaragoza,es,Aragón,,Arrabal
+554135,1 baño,alquiler,,400,Media,1970,153.00,,,2024-03-06 10:44:20,Baja,C. Domingo Legua Rudilla,,Zaragoza,es,Aragón,,Casetas
+318805,,alquiler,,450,Media,1969,125.00,,,2023-12-26 10:51:01,,Calle Reino,,Zaragoza,es,Aragón,1 dorm.,Almozara
+215134,,alquiler,,800,Media,2004,235.00,,,2024-06-25 13:04:46,Baja,"Calle Iglesias, Pablo",,Zaragoza,es,Aragón,,Actur
+573462,2 baños,alquiler,d,1100,Popular,1996,120.00,305 kW h/m&sup2; año,,2024-02-14 17:42:50,Baja,C. Prof. Adolfo Miaja de la Muela,Independiente (Aéreo Termo),Valladolid,es,Castilla Y León,1 dorm.,Parquesol
+571671,1 baño,alquiler,e,650,Popular,1965,66.00,"186,66 kWh/m&sup2; año",Sí,2024-01-29 20:10:46,,Paseo de Zorrilla,,Valladolid,es,Castilla Y León,2 dorm.,La Rubia
+598632,1 baño,alquiler,e,730,Popular,1990,78.00,210 kW h/m&sup2; año,Sí,2024-10-21 17:56:44,,Calle del Final,Independiente,Valladolid,es,Castilla Y León,2 dorm.,La Rubia
+571622,2 baños,alquiler,e,550,Popular,1960,110.00,"614,2 kW h/m&sup2; año",,2024-10-21 20:37:07,,Calle del Arzobispo Marcelo González,,Valladolid,es,Castilla Y León,,4 Marzo - La Farola
+582018,1 baño,alquiler,,300,Media,1941,71.00,,,2024-05-21 19:45:03,Baja,Calle Capuchinos,,Valladolid,es,Castilla Y León,,Hospital Militar
+597823,,alquiler,,90,Popular,1983,15.00,,,2024-10-14 13:42:45,Sótano,Calle Urraca,,Valladolid,es,Castilla Y León,,Pajarillos 
+590638,1 baño,alquiler,,450,Popular,1960,58.00,,,2024-08-02 19:49:49,Planta baja,Calle Falla,,Valladolid,es,Castilla Y León,,4 Marzo - La Farola
+577026,1 baño,alquiler,,350,Popular,1978,46.00,,,2024-04-04 18:04:03,,Calle Dr. Moreno,,Valladolid,es,Castilla Y León,2 dorm.,La Rubia
+579077,1 baño,alquiler,,600,Popular,1972,183.00,,,2024-04-09 18:16:56,,Calle Dr. Moreno,,Valladolid,es,Castilla Y León,4 dorm.,La Rubia
+578296,,alquiler,,65,Popular,1990,34.00,,,2024-04-02 20:59:52,Sótano,C. Prof. Adolfo Miaja de la Muela,,Valladolid,es,Castilla Y León,1 dorm.,Parquesol
+570739,,alquiler,,40,Media,2007,20.00,,,2024-02-07 20:24:45,-1 (planta planta baja),Calle del Monasterio Sta. Isabel,,Valladolid,es,Castilla Y León,,Huerta Del Rey
+572967,1 baño,alquiler,,330,Media,1990,25.00,,,2024-02-27 19:39:29,,C. Gerona,,Valladolid,es,Castilla Y León,,Delicias
+598124,,alquiler,d,700,Media,2007,66.00,125 kWh/m&sup2; año,,2024-10-25 12:44:47,2 (planta media),Av. de Santa Bárbara,,Toledo,es,Castilla-La Mancha,2 dorm.,Santa Barbara
+503200,1 baño,alquiler,f,750,Media,1980,85.00,"242,42 kW h/m&sup2; año",Sí,2024-10-08 12:33:45,,Calle Guadarrama,centralizada (Gas),Toledo,es,Castilla-La Mancha,3 dorm.,Polígono S.m. Benquerencia
+598189,1 baño,alquiler,e,550,Media,1991,50.00,"161,8 kW h/m&sup2; año",,2024-10-18 20:29:54,Baja,Bajada Antequeruela,,Toledo,es,Castilla-La Mancha,,Casco Histórico
+589442,3 baños,alquiler,g,750,Media,1950,147.00,"271,3 kWh/m&sup2; año",Sí,2024-07-15 20:29:31,2,C. Miguel de Cervantes,,Toledo,es,Castilla-La Mancha,3 dorm.,Casco Histórico
+526593,2 baños,alquiler,f,700,Media,1970,86.00,"335,1 kWh/m&sup2; año",,2024-09-10 19:11:30,,C. Carreras San Sebastián,Independiente (Gas),Toledo,es,Castilla-La Mancha,3 dorm.,Casco Histórico
+588355,,alquiler,d,450,Media,1977,70.00,"89,0 kW h/m&sup2; año",,2024-07-05 10:24:40,Baja,Av. del Río Boladiez,,Toledo,es,Castilla-La Mancha,1 dorm.,Polígono S.m. Benquerencia
+570727,1 baño,alquiler,e,400,Popular,1995,60.00,"130,3 kW h/m&sup2; año",,2024-01-31 21:12:52,Baja,C. Río Alberche,,Toledo,es,Castilla-La Mancha,,Polígono S.m. Benquerencia
+549784,1 baño,alquiler,f,1690,Media,1951,59.00,304 kWh/m&sup2; año,,2023-06-17 14:13:53,,C/ de Padilla,,Barcelona,es,Cataluña,2 dorm.,La Sagrada Familia
+589966,1 baño,alquiler,,1200,Media,1953,88.00,,,2024-07-24 18:07:22,Planta baja,Carrer de Lepant,,Barcelona,es,Cataluña,1 dorm.,La Sagrada Familia
+340463,1 baño,alquiler,e,1400,Media,1936,69.00,169 kWh/m&sup2; año,Sí,2020-02-05 20:25:41,,Carrer de la Concòrdia,,Barcelona,es,Cataluña,3 dorm.,Poble Sec
+591720,1 baño,alquiler,g,2300,Popular,1998,252.00,99 kW h/m&sup2; año,,2024-10-30 11:11:55,,Av. de la Mare de Déu de Montserrat,,Barcelona,es,Cataluña,,El Guinardó
+590802,,alquiler,c,1500,Media,1970,183.00,103 kWh/m&sup2; año,,2024-07-31 11:41:22,Baja,C/ Gran de Sant Andreu,,Barcelona,es,Cataluña,,Sant Andreu Centre
+599574,1 baño,alquiler,,2300,Señorial,1900,91.00,,,2024-10-29 19:24:54,4 (planta alta),Carrer de Villarroel,,Barcelona,es,Cataluña,4 dorm.,Sant Antoni
+580289,2 baños,alquiler,e,1690,Media,1924,78.00,141 kWh/m&sup2; año,Sí,2024-04-19 20:03:43,3 (planta media),Carrer de Mallorca,centralizada (Gas),Barcelona,es,Cataluña,2 dorm.,La Sagrada Familia
+563277,1 baño,alquiler,e,900,Popular,1900,30.00,130 kWh/m&sup2; año,,2024-10-28 15:57:35,,Carrer de la Vila Joiosa,,Barcelona,es,Cataluña,1 dorm.,La Barceloneta
+596922,,alquiler,d,840,Media,1900,45.00,197 kWh/m&sup2; año,,2024-10-04 18:13:41,,Carrer de la Maquinista,,Barcelona,es,Cataluña,,La Barceloneta
+573687,,alquiler,c,800,Media,1800,9.00,205 kW h/m&sup2; año,,2024-10-28 19:05:11,Baja,Pg. de Joan de Borbó,,Barcelona,es,Cataluña,,La Barceloneta
+346799,1 baño,alquiler,,750,Popular,1930,33.00,,,2023-11-13 17:04:09,Alta,Calle pescadors,Independiente (Termo Ventilación),Barcelona,es,Cataluña,,La Barceloneta
+591010,1 baño,alquiler,,4800,Media,1900,409.00,,,2024-09-16 14:00:17,,Gran via de les corts catalanes,,Barcelona,es,Cataluña,,Antiga Esquerra De L'Eixample (Alta)
+596917,1 baño,alquiler,g,1800,Media,1800,56.00,259 kW h/m&sup2; año,Sí,2024-10-04 18:20:00,3 (planta media),Passeig de Joan de Borbó Comte de Barcelona,,Barcelona,es,Cataluña,1 dorm.,La Barceloneta
+599081,,alquiler,,1800,Popular,1841,105.00,,,2024-10-24 20:08:09,,Carrer de Lancaster,,Barcelona,es,Cataluña,,Raval
+246171,1 baño,alquiler,f,800,Popular,1940,35.00,217 kW h/m&sup2; año,,2022-06-27 18:02:36,2 (planta media),Carrer del Comte de Santa Clara,,Barcelona,es,Cataluña,1 dorm.,La Barceloneta
+571026,1 baño,alquiler,e,1400,Media,1940,71.00,"160,8 kWh/m&sup2; año",Sí,2024-02-01 17:05:45,,Calle de Bretón de los Herreros,Independiente (Eléctrica),Madrid,es,Comunidad De Madrid,1 dorm.,Chamberí
+599462,1 baño,alquiler,,1200,Media,1940,61.00,,,2024-10-29 11:56:27,Semisótano,Santa Cruz de Marcenado,,Madrid,es,Comunidad De Madrid,,Argüelles
+599419,2 baños,alquiler,e,1500,Popular,1970,105.00,"195,4 kWh/m&sup2; año",,2024-10-28 17:48:49,,Calle Mota del Cuervo,Independiente (Eléctrica),Madrid,es,Comunidad De Madrid,4 dorm.,
+583211,1 baño,alquiler,e,850,Popular,1973,57.00,260 kWh/m&sup2; año,,2024-06-07 09:52:02,,C. del Balandro,Independiente,Madrid,es,Comunidad De Madrid,,Alameda De Osuna
+599682,1 baño,alquiler,d,900,Media,2002,42.00,176 kW h/m&sup2; año,,2024-10-31 10:59:08,Baja,Av. Séptima,,Madrid,es,Comunidad De Madrid,1 dorm.,Ciudad Pegaso
+594404,2 baños,alquiler,d,1190,Popular,2004,89.00,119 kW h/m&sup2; año,,2024-09-17 11:18:21,2 (planta media),C. Marqués de Casa Jiménez,Independiente (Gas),Madrid,es,Comunidad De Madrid,2 dorm.,Eugenia De Montijo - Colonia De La Prensa
+599176,,alquiler,,1150,Popular,1956,71.00,,,2024-10-30 21:09:19,,Virgen del Coro,,Madrid,es,Comunidad De Madrid,,Barrio Concepcion
+308869,1 baño,alquiler,,1600,Media,1950,60.00,,,2023-05-20 13:29:28,,Calle Dulcinea,,Madrid,es,Comunidad De Madrid,,Cuatro Caminos
+598174,,alquiler,d,580,Media,1956,50.00,326 kW h/m&sup2; año,,2024-10-30 18:53:01,Baja,C. de Hermenegildo Bielsa,,Madrid,es,Comunidad De Madrid,,Usera
+497411,,alquiler,f,900,Popular,1956,63.00,304 kW h/m&sup2; año,,2024-10-30 18:52:27,,C. Matilde Gayo,,Madrid,es,Comunidad De Madrid,1 dorm.,Usera
+596720,1 baño,alquiler,g,1100,Popular,1957,55.00,393 kWh/m&sup2; año,,2024-10-16 14:11:35,4 (planta alta),Calle Cadalso de los Vidrios,centralizada (Radiadores),Madrid,es,Comunidad De Madrid,3 dorm.,Lacoma - Peñagrande 
+596704,1 baño,alquiler,g,1150,Popular,1957,55.00,393 kWh/m&sup2; año,,2024-10-16 14:14:46,,Calle Cadalso de los Vidrios,centralizada (Radiadores),Madrid,es,Comunidad De Madrid,,Lacoma - Peñagrande 
+597537,1 baño,alquiler,e,1200,Señorial,1967,80.00,2072 kWh/m&sup2; año,,2024-10-21 11:19:18,,Calle Aristoteles,,Madrid,es,Comunidad De Madrid,,Barrio Concepcion
+555550,1 baño,alquiler,e,650,Popular,1970,56.00,402 kW h/m&sup2; año,,2024-10-30 09:52:21,Baja,Islas cies,,Madrid,es,Comunidad De Madrid,1 dorm.,Lacoma - Peñagrande 
+564383,1 baño,alquiler,,500,Popular,1976,37.00,,,2024-10-29 20:11:50,Baja,C. Real de Arganda,,Madrid,es,Comunidad De Madrid,,Santa Eugenia 
+558003,1 baño,alquiler,e,300,Popular,1969,90.00,118 kWh/m&sup2; año,Sí,2024-07-02 13:34:17,4,C. Pradilla,,Alicante,es,Comunidad Valenciana,3 dorm.,Pla - Carolinas
+587290,2 baños,alquiler,e,320,Popular,1972,94.00,118 kWh/m&sup2; año,,2024-06-25 19:33:45,,Calle Foguerer,,Alicante,es,Comunidad Valenciana,4 dorm.,Pla - Carolinas
+597020,,alquiler,,1100,Popular,1960,203.00,,,2024-10-05 14:04:44,,Calle Monforte del cid,,Alicante,es,Comunidad Valenciana,,Pla - Carolinas
+569601,,alquiler,,650,Popular,1968,67.00,,,2024-01-10 20:02:14,Baja,Inmaculada del Pla,,Alicante,es,Comunidad Valenciana,,Pla - Carolinas
+583409,1 baño,alquiler,,450,Popular,1966,54.00,,,2024-10-19 10:26:11,Baja,Carrer del Pare Urbà,,Valencia,es,Comunidad Valenciana,1 dorm.,Sant Antoni - Primado Reig
+591454,1 baño,alquiler,,650,Popular,1963,65.00,,,2024-08-06 19:30:13,,Av. del Dr. Peset Aleixandre,,Valencia,es,Comunidad Valenciana,,Benicalap - Peset Aleixandre
+596736,2 baños,alquiler,,1700,Señorial,1995,160.00,,Sí,2024-10-04 12:24:14,,C/ de Sagunt,Independiente (Gas),Valencia,es,Comunidad Valenciana,4 dorm.,Sant Antoni - Primado Reig
+580458,1 baño,alquiler,,750,Señorial,1936,96.00,,,2024-10-02 11:45:08,Baja,Carrera de la Fonteta de Sant Lluís,,Valencia,es,Comunidad Valenciana,,Monteolivete - Waskman
+595253,,alquiler,,1200,Media,1965,231.00,,,2024-09-27 10:53:01,,Av. Francia,,Valencia,es,Comunidad Valenciana,,El Grau
+594135,2 baños,alquiler,,1450,Media,1966,90.00,,Sí,2024-09-10 11:54:42,,C/ del Dr. Manuel Candela,,Valencia,es,Comunidad Valenciana,,Albors - Cami Fondo
+339899,1 baño,alquiler,,450,Popular,1998,127.00,,,2024-09-20 12:32:08,Baja,Carrer de Sant Joan de la Creu,,Valencia,es,Comunidad Valenciana,4 dorm.,Sant Antoni - Primado Reig
+585799,,alquiler,,500,Media,1960,31.00,,,2024-07-12 10:34:44,Planta baja,C/ de Pintor Stolz,,Valencia,es,Comunidad Valenciana,1 dorm.,L'Olivereta - Av Del Cid
+592832,,alquiler,,800,Popular,1970,100.00,,,2024-08-27 14:00:27,Baja,C/Marcelino Giner,,Valencia,es,Comunidad Valenciana,,Benimaclet
+593564,1 baño,alquiler,d,950,Popular,1965,85.00,67 kW h/m&sup2; año,Sí,2024-09-04 20:37:19,6,Av. del Dr. Peset Aleixandre,,Valencia,es,Comunidad Valenciana,,Saidia - Marxalenes
+569647,,alquiler,c,850,De época,2005,247.00,185 kWh/m&sup2; año,,2024-02-16 17:22:28,Baja,Calle Norte,,Valencia,es,Comunidad Valenciana,,Extramurs
+514515,,alquiler,,800,Media,1961,169.00,,,2023-02-15 18:38:46,Baja,Fuente san luis,,Valencia,es,Comunidad Valenciana,,Fonteta - Hnos Maristas
+558437,,alquiler,,400,Media,1960,45.00,,,2023-10-31 11:08:49,Planta baja,Ebenista caselles,,Valencia,es,Comunidad Valenciana,,Fonteta - Hnos Maristas
+512329,1 baño,alquiler,d,550,Popular,1968,42.00,54 kW h/m&sup2; año,,2024-06-19 20:26:57,Baja,Carrer de Gual Villalbí,,Valencia,es,Comunidad Valenciana,1 dorm.,Sant Antoni - Primado Reig
