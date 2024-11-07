@@ -11,8 +11,6 @@ from functions import pagesIteration
 
 url = "https://www.tecnocasa.es/"
 
-#Mercado libre se puede usar: https://mercadolibre.com/
-#Fotocasa no tiene robots.txt
 #tecnocasa no permite labores de mantenimiento pero admite todo tipo de bots
 
 
