@@ -3,7 +3,7 @@ Subject: M2.851 / Semester: 2024-1 / Date: 11-02-2024
 
 ## Authors
 1) Marina Fernández Delgado - mfernandezdelg@uoc.edu
-2) César Alvarez Mendoza - 
+2) César Alvarez Mendoza - calvarezmend@uoc.edu
 
 ## Chosen Website
 
